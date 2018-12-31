@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This site could contain some useful info for the dear readers.  However, this comes without a guarantee.  Testing
+This site contains short articles commenting on current events.  References to sources will be provided when possible.  
+  
