@@ -112,7 +112,8 @@ a {
   }
 
   &:hover {
-    color: $text-color;
+    //color: $text-color;
+    color: #9ac6ff
     text-decoration: underline;
   }
 
