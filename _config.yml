@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: tech blog
+title: Meta Currents
 email: admin@aliencoded.com
 author: aliencoder
 description: >- # this means to ignore newlines until "baseurl:"
-  A very tiny tech blog. 
+  Meta Currents is a blog about the latest trends in technology, programming, and software development. We cover a wide range of topics, including web development, mobile app development, artificial intelligence, machine learning, and more. Our goal is to provide our readers with the most up-to-date information and insights on the latest developments in the tech industry. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -41,3 +41,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  articles:
+    output: true      # ensures each article generates a page

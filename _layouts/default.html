@@ -1,23 +1,26 @@
 <!DOCTYPE html>
+
+<!--base html scaffold for all other pages on the site-->
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
+  <!--meta header info-->
   {%- include head.html -%}
 
   <body>
-
+    <!--common top most logo -->
+    {%- include logo.html -%}
+    <!-- common navigation links -->
     {%- include header.html -%}
-
+    <!-- unique content -->
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>
     </main>
 
+    <!--common site  bottom -->
     {%- include footer.html -%}
-	{%- include analytics.html -%}
-	{%- if jekyll.environment != 'development' -%}
-    {%- include analytics.html -%}
-    {%- endif -%}
+
   </body>
 
 </html>

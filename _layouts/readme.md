@@ -1,0 +1,1 @@
+# this is not a default folder OOTB, this was obtained from minima gem theme

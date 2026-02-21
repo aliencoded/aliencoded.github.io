@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<!-- layout of the home  and All Articles -->
+
+{%- if page.title -%}
+  <header class="page-header">
+    <h1 class="page-title">{{ page.title | escape }}</h1>
+  </header>
+{%- endif -%}
+
+
+<h2 class="post-list-heading">{{ page.list_title | default: "Articles" }}</h2>
+
+<!-- insert content from the actual page def-->
+   {{ content }}  
+
+ 
+{% assign posts_filtered = site.articles | where_exp:"post","post.categories contains page.content-category" | sort: "date" | reverse %}
+
+<div class="cards-container">
+  {% if posts_filtered.size > 0 %}
+    {% for post in posts_filtered %}
+      {% include article-card.html post=post %}
+    {% endfor %}
+  {% else %}
+    <p>No articles found in category '{{ page.content-category }}'.</p>
+  {% endif %}
+</div>
+
+
+
+
+
+
+

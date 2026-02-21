@@ -1,0 +1,14 @@
+<div class="card">
+  <a href="{{ post.url | relative_url }}">
+    <!-- includes the title, the main image, and a small excerpt  from the article-->
+    {% if post.image  and post.image != "" %}
+      <img src="{{ post.image | relative_url }}" alt="no image1">
+    {% endif %}
+    <div class="card-content">
+      <h2>{{ post.title }}</h2>
+      {% if post.excerpt %}
+        <p>{{ post.excerpt }}</p>
+      {% endif %}
+    </div>
+  </a>
+</div>

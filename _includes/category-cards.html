@@ -1,0 +1,12 @@
+
+{% assign posts_filtered = site.articles | where_exp:"post","post.categories contains include.category" | sort: "date" | reverse %}
+
+<div class="cards-container">
+  {% if posts_filtered.size > 0 %}
+    {% for post in posts_filtered %}
+      {% include article-card.html post=post %}
+    {% endfor %}
+  {% else %}
+    <p>No articles found in category '{{ include.category }}'.</p>
+  {% endif %}
+</div>

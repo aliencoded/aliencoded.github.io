@@ -1,9 +1,11 @@
+@use "sass:color";
+
 /**
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 2px solid $grey-color-light;
+  border-bottom: 2px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -14,9 +16,13 @@
   @include relative-font-size(1.625);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
-  margin-bottom: 0;
-  float: left;
+  //letter-spacing: -1px;
+  // margin-bottom: 0;
+  // float: left;
+
+  display: flex;
+  justify-content: center; // centers horizontally
+  align-items: center;     // centers vertically (optional)
 
   &,
   &:visited {
@@ -25,8 +31,12 @@
 }
 
 .site-nav {
-  float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  //float: left;
+  //line-height: $base-line-height * $base-font-size * 2.25;
+  display: flex;
+  justify-content: center; // centers horizontally
+  align-items: center;     // centers vertically (optional)
+  flex-wrap: nowrap;
 
   .nav-trigger {
       display: none;
@@ -39,17 +49,26 @@
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
+    white-space: nowrap;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
+    }
+
+    // Smooth background hover effect
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: #a3a2a2; // light grey background on hover
+      text-decoration: none;   // remove underline on hover
     }
   }
 
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
-    right: $spacing-unit / 2;
+    right: $spacing-unit * 0.5;
     background-color: $background-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
@@ -90,12 +109,12 @@
 
     .page-link {
       display: block;
+      margin-left: 20px;
       padding: 5px 10px;
 
       &:not(:last-child) {
         margin-right: 0;
       }
-      margin-left: 20px;
     }
   }
 }
@@ -112,7 +131,7 @@
 
 .footer-heading {
   @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit * 0.5;
 }
 
 .contact-list,
@@ -124,14 +143,14 @@
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
-  margin-left: -$spacing-unit / 2;
+  margin-left: -$spacing-unit * 0.5;
   @extend %clearfix;
 }
 
 .footer-col {
   float: left;
-  margin-bottom: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
+  margin-bottom: $spacing-unit * 0.5;
+  padding-left: $spacing-unit * 0.5;
 }
 
 .footer-col-1 {
@@ -178,7 +197,6 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
-  background-color: black;
 }
 
 .page-heading {
@@ -227,6 +245,41 @@
   }
 }
 
+
+
+.post-image {
+  width: 100%;
+  max-height: 400px;
+  object-fit: scale-down;
+  border-radius: 6px; /* optional */
+  }
+
+  .image-watermark {
+  position: relative;
+  display: block;
+  }
+
+  .image-watermark .watermark {
+  position: absolute;
+  bottom: 10px;
+  right: 12px;
+  color: rgba(255,255,255,0.8);
+  font-size: 14px;
+  font-weight: 600;
+  background: rgba(0,0,0,0.35);
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+
+
+.read-time {
+  opacity: 0.75;
+  font-size: 0.9em;
+}
+
+
+
 .post-content {
   margin-bottom: $spacing-unit;
 
@@ -253,4 +306,5 @@
       @include relative-font-size(1.125);
     }
   }
+
 }
