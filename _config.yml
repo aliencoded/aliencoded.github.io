@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Meta Currents
-email: admin@aliencoded.com
-author: aliencoder
+email: redacted
+author: Ali Abid
 description: >- # this means to ignore newlines until "baseurl:"
   Meta Currents is a blog about the latest trends in technology, programming, and software development. We cover a wide range of topics, including web development, mobile app development, artificial intelligence, machine learning, and more. Our goal is to provide our readers with the most up-to-date information and insights on the latest developments in the tech industry. 
 
