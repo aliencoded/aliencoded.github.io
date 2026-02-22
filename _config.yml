@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Meta Currents
-email: redacted
+# email: redacted
 author: Ali Abid
 description: >- # this means to ignore newlines until "baseurl:"
   Meta Currents is a blog about the latest trends in technology, programming, and software development. We cover a wide range of topics, including web development, mobile app development, artificial intelligence, machine learning, and more. Our goal is to provide our readers with the most up-to-date information and insights on the latest developments in the tech industry. 
@@ -27,8 +27,8 @@ github_username:  aliencoded
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

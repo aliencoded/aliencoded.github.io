@@ -9,8 +9,12 @@
 }
 
 /* Card styles */
+
+
+// Style for card content for new stories
+
 .card {
-  background: #fff;
+  background: rgba(226, 226, 226, 0.31);
   border-radius: 8px;
   overflow: hidden;
   display: flex;
@@ -47,6 +51,7 @@
   }
 }
 
+// Style for card content for contributors section in about page
 
 
 .contributors-grid {
