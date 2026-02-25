@@ -29,8 +29,12 @@ layout: default
         <br/>
         {% assign words = content | number_of_words %}
         {% assign minutes = words | divided_by: 200 | ceil %}
-        
-        <span class="read-time">{{ minutes }} min read</span>
+        {% if minutes < 1 %}
+          {% assign minutes = 1 %}
+        {% endif %}
+        <!-- {{content}} -->
+        <span class="read-time">{{ minutes }} min read, </span>
+        <span class="read-time">word count: {{ words }} </span>
 
 
       </p>

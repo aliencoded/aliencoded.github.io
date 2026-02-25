@@ -35,8 +35,8 @@ Whether you’re exploring international affairs, domestic policy, or social tre
 
   <div class="contributor-card">
     <img src="/assets/images/notpatrick.png" alt="Jane Doe" class="contributor-photo">
-    <h3>Notpatrick Starfish</h3>
-    <p>Senior Wombologian.  NotPatrick is known for bold insights and confident misinterpretations, he ensures our content remains both informative and deeply questionable.</p>
+    <h3>Rick</h3>
+    <p>Senior Wombologian.  Rick is known for bold insights and confident misinterpretations, he ensures our content remains both informative and deeply questionable.</p>
   </div>
 
   <div class="contributor-card">
