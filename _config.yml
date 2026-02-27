@@ -45,6 +45,10 @@ theme: minima
 collections:
   articles:
     output: true      # ensures each article generates a page
+  people:
+    output: true        # this is REQUIRED to generate HTML pages
+   #  permalink: /people/:title/   # optional: makes URLs clean
+
 
 # quiet warnings during builds
 sass:

@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article class="person-timeline">
+
+  <header class="person-header">
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.excerpt }}</p>
+    {% if page.image %}
+      <img class="person-image" src="{{ page.image }}" alt="{{ page.title }}">
+    {% endif %}
+  </header>
+
+  <section class="timeline">
+    {% assign sorted_events = page.events | sort: 'date' %}
+    {% for event in sorted_events %}
+      <div class="timeline-event">
+        <div class="timeline-date">{{ event.date | date: "%b %-d, %Y" }}</div>
+        <div class="timeline-content">
+          <h3>{{ event.title }}</h3>
+          <p>{{ event.description }}</p>
+          {% if event.category %}
+            <span class="timeline-badge">{{ event.category }}</span>
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </section>
+
+</article>
