@@ -81,6 +81,15 @@ layout: default
     {{ content }}
   </div>
 
+{% unless page.is_llm_generated == false %}
+  <div class="llm-note">
+    <hr/>
+    <p><strong>Note:</strong> This article was partially constructed using data from LLM.</p>
+  </div>
+{% endunless %}
+
+
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
