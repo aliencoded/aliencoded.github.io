@@ -43,7 +43,7 @@ layout: default
 
       {%- if page.author -%}  
         {%- for author in page.author -%}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span>  </span>
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">, {{ author }}</span>  </span>
 
           <!--append comma if more than 1 author-->
           {% if forloop.last == false %}
@@ -54,6 +54,17 @@ layout: default
 
         
         <br/>
+
+        {% if page.categories %}
+          <div class="post-categories">
+            {% for category in page.categories %}
+              <span class="category-badge">{{ category | capitalize }}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+
+
         {% assign words = content | number_of_words %}
         {% assign minutes = words | divided_by: 200 | ceil %}
         {% if minutes < 1 %}
