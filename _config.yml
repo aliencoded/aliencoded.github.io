@@ -50,3 +50,6 @@ collections:
 sass:
   quiet_deps: true
   
+# stop 404ing future posts
+
+future: true
