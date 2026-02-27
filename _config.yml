@@ -45,3 +45,8 @@ theme: minima
 collections:
   articles:
     output: true      # ensures each article generates a page
+
+# quiet warnings during builds
+sass:
+  quiet_deps: true
+  
