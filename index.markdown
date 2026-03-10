@@ -11,5 +11,3 @@ content-category: index
 # permalink: /index/  
 
 ---
-
-The best place to get news showing information from all political leanings!

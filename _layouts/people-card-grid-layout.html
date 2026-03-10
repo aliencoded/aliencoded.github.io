@@ -5,19 +5,18 @@ layout: default
 
 {%- if page.title -%}
   <header class="page-header">
-    <!--remove headers from appearing on page-->
-    <!-- <h1 class="page-title">{{ page.title | escape }}</h1> -->
+    <h1 class="page-title">{{ page.title | escape }}</h1>
   </header>
 {%- endif -%}
 
 
-<h2 class="post-list-heading">{{ page.list_title | default: "" }}</h2>
+<h2 class="post-list-heading">{{ page.list_title | default: "Articles" }}</h2>
 
 <!-- insert content from the actual page def-->
    {{ content }}  
 
  
-{% assign posts_filtered = site.articles | where_exp:"post","post.categories contains page.content-category" | sort: "date" | reverse %}
+{% assign posts_filtered = site.people | sort: "date" | reverse %}
 
 <div class="cards-container">
   {% if posts_filtered.size > 0 %}
