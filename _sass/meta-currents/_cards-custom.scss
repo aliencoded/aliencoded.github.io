@@ -26,11 +26,10 @@
 
 /* Card styles */
 
-// staggered layout: every even card is pushed down by 80px to create a zig-zag effect
+// staggered layout: every even card is pushed down visually by 80px without affecting grid
 .card:nth-child(even) {
-  margin-top: 80px;
+  transform: translateY(80px);
 }
-
 // Style for card content for new stories
 
 .card {
@@ -87,6 +86,25 @@
   }
 }
 
+@media (max-width: 600px) {
+  .card {
+    transform: none !important;
+  }
+}
+
+@media (max-width: 1000px) {
+  .cards-container {
+    grid-template-columns: repeat(2, 1fr);
+    background-image: none;  // hide vertical line
+  }
+}
+
+@media (max-width: 600px) {
+  .cards-container {
+    grid-template-columns: 1fr;
+    background-image: none;  // hide vertical line
+  }
+}
 // Style for card content for contributors section in about page
 
 
@@ -116,4 +134,33 @@
   object-fit: cover;
   border-radius: 50%;
   margin-bottom: 0.75rem;
+}
+
+
+
+.card {
+  --offset: 0px; /* default for left cards */
+  transform: translateY(var(--offset));
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:nth-child(even) {
+  --offset: 80px; /* staggered right cards */
+}
+
+.card:hover {
+  transform: translateY(calc(var(--offset) - 20px)); /* keeps consistent bounce */
+  box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+}
+
+
+@media (max-width: 600px) {
+  .card {
+    --offset: 0px !important;
+    transform: none !important;
+  }
+}
+
+.cards-container {
+  padding-bottom: 100px; /* or equal to your max translateY + card height buffer */
 }
