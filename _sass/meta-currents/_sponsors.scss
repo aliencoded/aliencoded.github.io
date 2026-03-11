@@ -1,0 +1,23 @@
+@use "sass:color";
+
+
+.sponsor-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+.sponsor-card .card-title {
+  color: #d9230f;
+  margin-bottom: 0.5rem;
+}
+.sponsor-card .card-link {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #007bff;
+  text-decoration: none;
+}
+.sponsor-card .card-link:hover {
+  text-decoration: underline;
+}
