@@ -1,0 +1,14 @@
+.site-logo {
+  text-align: center; // center the image
+
+  a {
+    display: inline-block; // ensures centering works properly
+
+    img {
+      width: 150px;       // adjust size as needed
+      height: auto;      // keep aspect ratio
+      display: block;    // remove any inline spacing
+      margin: 0 auto;    // center inside the link
+    }
+  }
+}

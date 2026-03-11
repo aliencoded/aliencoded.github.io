@@ -3,9 +3,10 @@
 
 .cards-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);  /* 3 columns */
+  grid-template-columns: repeat(2, 2fr);  /* 3 columns */
   grid-auto-rows: auto;
-  gap: 20px;  /* space between cards */
+  gap: 5px;  /* space between cards */
+  row-gap: 20px;
 }
 
 /* Card styles */
