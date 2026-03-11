@@ -1,7 +1,7 @@
 ---
 layout: page-layout
 title: About
-permalink: /about/
+permalink: /pages/about/
 pageOrder: 11
 nav: true
 content-category: about

@@ -1,10 +1,10 @@
 ---
 layout: page-card-grid-layout
 title: All Articles
-permalink: /articles/
 pageOrder: 10
 nav: true
 content-category: articles
+permalink: /pages/articles/
 ---
 
 

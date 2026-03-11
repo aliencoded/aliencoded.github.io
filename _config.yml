@@ -49,11 +49,15 @@ plugins:
 #   - vendor/ruby/
 
 collections:
+  pages:
+    output: true        # this is REQUIRED to generate HTML pages
+    permalink: /pages/:title/   # optional: makes URLs clean 
   articles:
     output: true      # ensures each article generates a page
   people:
     output: true        # this is REQUIRED to generate HTML pages
    #  permalink: /people/:title/   # optional: makes URLs clean
+   
 
 
 # quiet warnings during builds
@@ -63,3 +67,5 @@ sass:
 # stop 404ing future posts
 
 future: true
+
+verbose: true

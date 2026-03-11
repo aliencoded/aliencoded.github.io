@@ -5,4 +5,5 @@ permalink: /geopolitics/
 pageOrder: 6
 nav: true
 content-category: geopolitics
+permalink: /pages/geopolitics/
 ---

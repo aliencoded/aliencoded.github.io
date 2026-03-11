@@ -1,7 +1,7 @@
 ---
 layout: page-layout
 title: Sponsors
-permalink: /sponsors/
+permalink: /pages/sponsors/
 pageOrder: 11
 nav: true
 content-category: sponsor

@@ -1,7 +1,7 @@
 ---
 layout: page-layout
 title: "Youtube"
-permalink: /youtube/
+permalink: /pages/youtube/
 ---
 
 This page should link to a youtube page, which, of course, does not currently exist.

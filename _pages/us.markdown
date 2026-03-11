@@ -1,7 +1,7 @@
 ---
 layout: page-card-grid-layout
 title: US
-permalink: /us/
+permalink: /pages/us/
 pageOrder: 3
 nav: true
 content-category: us
