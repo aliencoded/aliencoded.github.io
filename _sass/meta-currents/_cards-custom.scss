@@ -7,10 +7,29 @@
   grid-auto-rows: auto;
   gap: 5px;  /* space between cards */
   row-gap: 20px;
+  column-gap: 20px;
+
+  position: relative;
+
+  /* vertical divider line */
+  background-image: linear-gradient(
+    to right,
+    transparent calc(50% - 1px),
+    #ddd calc(50% - 1px),
+    #ddd calc(50% + 1px),
+    transparent calc(50% + 1px)
+  );
+
+  padding: 0px 10px;
+
 }
 
 /* Card styles */
 
+// staggered layout: every even card is pushed down by 80px to create a zig-zag effect
+.card:nth-child(even) {
+  margin-top: 80px;
+}
 
 // Style for card content for new stories
 
@@ -33,6 +52,22 @@
 .card-content {
   padding: 15px;
 }
+
+
+.card-content {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-meta {
+  margin-top: auto;
+  font-size: 0.85rem;
+  color: #777;
+  text-align: right;
+}
+
+
 
 .card:hover {
   transform: translateY(-5px);

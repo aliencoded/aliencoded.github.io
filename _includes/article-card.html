@@ -9,6 +9,25 @@
       {% if post.excerpt %}
         <p>{{ post.excerpt }}</p>
       {% endif %}
+
+      {% assign post_seconds = post.date | date: "%s" %}
+      {% assign now_seconds = site.time | date: "%s" %}
+      {% assign diff = now_seconds | minus: post_seconds %}
+
+      {% assign minutes = diff | divided_by: 60 %}
+      {% assign hours = diff | divided_by: 3600 %}
+      {% assign days = diff | divided_by: 86400 %}
+
+      <div class="card-meta">
+        {% if minutes < 60 %}
+          {{ minutes }} min ago
+        {% elsif hours < 24 %}
+          {{ hours }} hr ago
+        {% else %}
+          {{ days }} days ago
+        {% endif %}
+</div>
+
     </div>
   </a>
 </div>
