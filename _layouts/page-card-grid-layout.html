@@ -19,6 +19,7 @@ layout: default
  
 {% assign posts_filtered = site.articles | where_exp:"post","post.categories contains page.content-category" | sort: "date" | reverse %}
 
+
 <div class="cards-container">
   {% if posts_filtered.size > 0 %}
     {% for post in posts_filtered %}

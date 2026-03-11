@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-layout
 title: "Youtube"
 permalink: /youtube/
 ---

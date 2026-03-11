@@ -1,0 +1,67 @@
+@use "sass:color";
+
+
+#search-overlay {
+  position: fixed;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  background: rgba(0,0,0,0.65);
+  display:none;
+  justify-content:center;
+  align-items:flex-start;
+  padding-top:80px;
+  z-index:9999;
+}
+
+.search-window {
+  background:white;
+  width:700px;
+  max-height:75vh;
+  border-radius:10px;
+  overflow:hidden;
+  box-shadow:0 15px 40px rgba(0,0,0,0.4);
+}
+
+.search-header {
+  display:flex;
+  border-bottom:1px solid #ddd;
+}
+
+#search-input {
+  flex:1;
+  padding:15px;
+  font-size:18px;
+  border:none;
+  outline:none;
+}
+
+#search-close {
+  border:none;
+  background:none;
+  font-size:22px;
+  padding:0 20px;
+  cursor:pointer;
+}
+
+#search-results {
+  overflow-y:auto;
+  max-height:60vh;
+}
+
+.search-result {
+  padding:15px;
+  border-bottom:1px solid #eee;
+}
+
+.search-result a {
+  text-decoration:none;
+  color:black;
+  font-weight:600;
+}
+
+.search-result p {
+  font-size:14px;
+  color:#555;
+}
