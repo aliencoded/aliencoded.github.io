@@ -1,6 +1,7 @@
 <div class="video-container">
   <iframe
-    src="https://www.youtube.com/embed/{{ include.id }}"
+    loading="lazy"
+    src="https://www.youtube.com/embed/{{ include.id }}?rel=0&modestbranding=1&controls=1&iv_load_policy=3&fs=0&disablekb=1"
     title="{{ include.title | default: 'Video' }}"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
