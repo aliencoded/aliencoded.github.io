@@ -352,3 +352,21 @@
   color: #777;
   margin-top: 6px;
 }
+
+
+.site-nav .trigger {
+  display: flex;
+  flex-wrap: nowrap;     /* prevents wrapping to second line */
+  gap: 18px;             /* space between links */
+  align-items: center;
+}
+
+.site-nav .page-link {
+  white-space: nowrap;   /* prevents text breaking */
+}
+
+
+.site-header {
+  position: relative;
+  z-index: 1000;
+}

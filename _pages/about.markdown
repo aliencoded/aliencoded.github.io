@@ -7,8 +7,11 @@ nav: true
 content-category: about
 ---
 
-<h1>About Meta Currents</h1>
 
+
+<img src="/assets/images/meta-currents-icon-large.jpeg" alt="Ali Abid" >
+
+<h3>About Meta Currents</h3>
 <p>
 Meta Currents was created to provide a comprehensive and balanced perspective on global news. In an era where media can often feel polarized, we aim to present information from all political leanings, giving readers the context they need to make informed decisions. Our goal is to showcase multiple viewpoints on each story — from progressive to conservative, liberal to libertarian — without editorializing or taking sides. We believe that understanding a spectrum of opinions is key to thoughtful discussion and critical thinking.
 </p>
