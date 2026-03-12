@@ -1,0 +1,18 @@
+<div class="tradingview-widget-container">
+  <div id="tradingview_mini_{{ include.symbol }}"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+  {
+    "symbol": "{{ include.symbol }}",
+    "width": {{ include.width | default: 250 }},
+    "height": {{ include.height | default: 200 }},
+    "locale": "en",
+    "dateRange": "12M",
+    "colorTheme": "{{ include.theme | default: 'light' }}",
+    "trendLineColor": "#37a6ef",
+    "underLineColor": "#e3f2fd",
+    "isTransparent": false,
+    "autosize": false,
+    "largeChartUrl": ""
+  }
+  </script>
+</div>
