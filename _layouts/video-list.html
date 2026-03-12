@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+  <h1>{{ page.title | default: "All Videos" }}</h1>
+
+  <div class="video-grid">
+    {% for video in site.videos %}
+      <div class="video-card">
+        <a href="{{ video.url | relative_url }}">
+          <!-- Use YouTube thumbnail instead of iframe -->
+          <img src="https://img.youtube.com/vi/{{ video.video_id }}/hqdefault.jpg" alt="{{ video.title }}">
+        </a>
+        <h2><a href="{{ video.url | relative_url }}">{{ video.title }}</a></h2>
+        <p>{{ video.excerpt | truncate: 100 }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<style>
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+.video-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.video-card h2 {
+  font-size: 1.2rem;
+  margin: 0.5rem 0 0.2rem;
+}
+.video-card p {
+  font-size: 0.9rem;
+  color: #555;
+}
+.video-card a {
+  text-decoration: none;
+  color: inherit;
+}
+</style>

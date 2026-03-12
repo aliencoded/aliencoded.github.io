@@ -2,7 +2,7 @@
 layout: page-layout
 title: About
 permalink: /pages/about/
-pageOrder: 11
+pageOrder: 20
 nav: true
 content-category: about
 ---

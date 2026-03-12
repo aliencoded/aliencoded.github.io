@@ -1,7 +1,7 @@
 ---
 layout: page-card-grid-layout
 title: All Articles
-pageOrder: 10
+pageOrder: 17
 nav: true
 content-category: articles
 permalink: /pages/articles/

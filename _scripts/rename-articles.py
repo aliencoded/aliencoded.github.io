@@ -1,41 +1,56 @@
 import os
 import re
 
-
+# --- CONFIG ---
 script_dir = os.path.dirname(os.path.abspath(__file__))
-folder = os.path.join(script_dir, "..", "_articles")
-folder = os.path.abspath(folder)
 
+folders = {
+    "articles": os.path.join(script_dir, "..", "_articles"),
+    "videos": os.path.join(script_dir, "..", "_videos")
+}
 
+# --- FUNCTIONS ---
 def slugify(text):
     text = text.lower()
     text = re.sub(r'[^a-z0-9]+', '-', text)
     return text.strip('-')
 
-for filename in os.listdir(folder):
-    if not filename.endswith(".md"):
-        continue
+def rename_files(folder):
+    folder = os.path.abspath(folder)
+    print(f"\nProcessing folder: {folder}\n{'-'*40}")
 
-    path = os.path.join(folder, filename)
+    for filename in os.listdir(folder):
+        if not filename.endswith(".md"):
+            continue
 
-    with open(path, "r", encoding="utf-8") as f:
-        content = f.read()
+        path = os.path.join(folder, filename)
 
-    date_match = re.search(r"date:\s*([0-9\-]+)", content)
-    title_match = re.search(r"title:\s*(.+)", content)
+        with open(path, "r", encoding="utf-8") as f:
+            content = f.read()
 
-    if not date_match or not title_match:
-        print("Skipping:", filename)
-        continue
+        # Extract date and title
+        date_match = re.search(r"^date:\s*(.+)$", content, re.MULTILINE)
+        title_match = re.search(r"^title:\s*\"?(.+?)\"?$", content, re.MULTILINE)
 
-    date = date_match.group(1)
-    title = slugify(title_match.group(1))
+        if not date_match or not title_match:
+            print("Skipping (missing date/title):", filename)
+            continue
 
-    new_name = f"{date}-{title}.md"
-    new_path = os.path.join(folder, new_name)
+        date = date_match.group(1).split()[0]  # Only YYYY-MM-DD
+        title_slug = slugify(title_match.group(1))
 
-    if new_name != filename:
-        print(f"{filename} → {new_name}")
-        os.rename(path, new_path)
-    else:
-        print(f"Already correct: {filename}")
+        new_name = f"{date}-{title_slug}.md"
+        new_path = os.path.join(folder, new_name)
+
+        if new_name != filename:
+            print(f"{filename} → {new_name}")
+            os.rename(path, new_path)
+        else:
+            print(f"Already correct: {filename}")
+
+
+# --- RUN ---
+for key, folder_path in folders.items():
+    rename_files(folder_path)
+
+print("\n✅ All done!")

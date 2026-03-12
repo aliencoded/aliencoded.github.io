@@ -2,7 +2,7 @@
 layout: page-layout
 title: Sponsors
 permalink: /pages/sponsors/
-pageOrder: 11
+pageOrder: 19
 nav: true
 content-category: sponsor
 ---
