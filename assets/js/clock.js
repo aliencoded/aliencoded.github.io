@@ -24,7 +24,7 @@ function updateNYTime() {
   const timeEl = document.getElementById("ny-time");
 
   if (dateEl && timeEl) {
-    dateEl.textContent = "Today is " + dateString;
+    dateEl.textContent = dateString;
     timeEl.textContent = " | Time: " + timeString + " (New York)";
   }
 }
