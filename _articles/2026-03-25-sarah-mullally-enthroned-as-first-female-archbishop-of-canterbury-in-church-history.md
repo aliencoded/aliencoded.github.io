@@ -5,7 +5,7 @@ date: 2026-03-25 12:00:00 -0500
 lastUpdated: 2026-03-25 12:00:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, global, europe, index]
-image: https://images.unsplash.com/photo-1467269204165-1d4680ca4867?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1646128419544-6ee4b8ed5d4a?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Sarah Mullally was formally enthroned as the 106th Archbishop of Canterbury on Wednesday, becoming the first woman in the 1,400-year history of the role and the first female primate of the Church of England."
 ---
 

@@ -5,7 +5,7 @@ date: 2026-03-28 14:00:00 -0500
 lastUpdated: 2026-03-28 14:00:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, africa, global, index]
-image: https://images.unsplash.com/photo-1527866512907-a35c4f44fe85?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1718613959712-67dfdcaac833?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Burkina Faso's ruling military junta passed legislation on Saturday formally adopting a Revolution Charter, consolidating the junta's governing authority and deepening concerns among international observers about democratic backsliding in one of the Sahel region's most troubled nations."
 ---
 

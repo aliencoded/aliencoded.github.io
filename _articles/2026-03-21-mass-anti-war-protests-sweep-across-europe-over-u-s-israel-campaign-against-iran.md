@@ -5,7 +5,7 @@ date: 2026-03-21 14:15:00 -0500
 lastUpdated: 2026-03-21 14:15:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, global, europe, geopolitics, index]
-image: https://images.unsplash.com/photo-1467269204165-1d4680ca4867?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1647735282714-224270f511aa?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Mass anti-war demonstrations swept across European cities on March 21, with hundreds of thousands of people marching in London, Berlin, and Prague to protest the U.S.-Israeli military campaign against Iran."
 ---
 

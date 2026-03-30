@@ -5,7 +5,7 @@ date: 2026-03-27 11:15:00 -0500
 lastUpdated: 2026-03-27 11:15:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, military, index]
-image: https://images.unsplash.com/photo-1554667175-cd6e4d99c8f8?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1624027492684-327af1fb7559?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Iran's Foreign Minister Abbas Araghchi issued a formal threat on Thursday that Tehran would exact a 'heavy price' for Israeli strikes on two of the country's largest steel factories and attacks on nuclear facilities, as international inspectors were denied access to affected sites."
 ---
 

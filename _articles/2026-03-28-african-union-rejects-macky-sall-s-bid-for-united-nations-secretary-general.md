@@ -5,7 +5,7 @@ date: 2026-03-28 13:00:00 -0500
 lastUpdated: 2026-03-28 13:00:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, africa, global, index]
-image: https://images.unsplash.com/photo-1527866512907-a35c4f44fe85?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1590274853856-f22d5ee3d228?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "The African Union formally rejected former Senegalese President Macky Sall's candidacy for United Nations Secretary-General on Saturday, effectively ending the bid of a man many observers had considered a leading contender for the position."
 ---
 

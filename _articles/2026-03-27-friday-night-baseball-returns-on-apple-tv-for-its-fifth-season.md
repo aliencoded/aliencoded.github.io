@@ -5,7 +5,7 @@ date: 2026-03-27 14:00:00 -0500
 lastUpdated: 2026-03-27 14:00:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, sports, entertainment, tech, index]
-image: https://images.unsplash.com/photo-1485846814078-f8e1abc12c00?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1608446781624-bb081c6c0e18?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Apple TV+ launched the fifth season of its Friday Night Baseball package on March 27 with a doubleheader featuring the Los Angeles Angels at Houston and the Cleveland Guardians at Seattle, while the company announced deeper integration of iPhone camera technology into select broadcasts."
 ---
 

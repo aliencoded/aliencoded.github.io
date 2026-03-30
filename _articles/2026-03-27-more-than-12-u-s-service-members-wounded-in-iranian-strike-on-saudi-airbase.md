@@ -5,7 +5,7 @@ date: 2026-03-27 12:00:00 -0500
 lastUpdated: 2026-03-27 12:00:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, military, geopolitics, middle-east, index]
-image: https://images.unsplash.com/photo-1554667175-cd6e4d99c8f8?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1620057285999-c0fb5f8161ce?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "More than 12 American military personnel were wounded Thursday in an Iranian strike on a U.S. airbase in Saudi Arabia, one of the largest single attacks on American forces since the conflict began and bringing total U.S. wounded to over 300."
 ---
 

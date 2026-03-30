@@ -5,7 +5,7 @@ date: 2026-03-27 15:00:00 -0500
 lastUpdated: 2026-03-27 15:00:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, global, energy, economy, index]
-image: https://images.unsplash.com/photo-1466611653911-fcdff1ec4e0f?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1569531955317-390fbbc73f17?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Egypt announced mandatory closures of businesses by 9:00 PM on March 27 under emergency energy conservation measures, citing a near-doubling of domestic energy costs driven by the disruption of global oil supply through the Strait of Hormuz."
 ---
 

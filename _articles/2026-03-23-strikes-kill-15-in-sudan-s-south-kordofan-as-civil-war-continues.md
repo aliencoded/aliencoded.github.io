@@ -5,7 +5,7 @@ date: 2026-03-23 15:20:00 -0500
 lastUpdated: 2026-03-23 15:20:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, africa, global, geopolitics, index]
-image: https://images.unsplash.com/photo-1554667175-cd6e4d99c8f8?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1535253868107-da56da1693db?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "At least 15 people were killed and 23 injured in strikes on the Lagawa District in Sudan's South Kordofan state. The Rapid Support Forces blamed the Sudanese Armed Forces, while rebel factions called on the UN to ban drone use against civilians."
 ---
 

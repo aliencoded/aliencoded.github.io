@@ -5,7 +5,7 @@ date: 2026-03-24 14:15:00 -0500
 lastUpdated: 2026-03-24 14:15:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, africa, global, disasters, index]
-image: https://images.unsplash.com/photo-1527866512907-a35c4f44fe85?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1639164631482-0630ec45d600?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Flash floods struck multiple regions of Kenya on March 24, killing at least 84 people and displacing thousands of others, as relief agencies worked to reach communities cut off by road damage."
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: post-layout
-title: "Global Markets React to Inflation Data and Tech Earningsasfasfasfs"
+title: "Global Markets React to Inflation Data and Tech Earnings"
 date: 2026-03-23 08:00:00 -0500
 lastUpdated: 2026-03-23 08:00:00 -0500
 author: [MetaCurrents Staff]
-categories: [articles, markets, finance, technology, energy, geopolitics]
-image: https://images.unsplash.com/photo-1542223616-3c32c8e9b1b7?q=80&w=1200&auto=format&fit=crop
+categories: [articles, markets, finance, technology, energy, geopolitics, index]
+image: https://images.unsplash.com/photo-1768242079046-c9c633187db1?q=80&w=2097&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Markets experienced mixed reactions as new inflation data and tech earnings reports reshaped investor sentiment worldwide."
 ---
 Global markets opened on a cautious note yesterday as investors digested fresh inflation data alongside earnings reports from major technology companies. In the United States, the Consumer Price Index (CPI) for February showed a slight uptick in core inflation, signaling that price pressures are persisting despite efforts by the Federal Reserve to moderate growth. Analysts interpreted this as a sign that interest rates may remain elevated longer than previously anticipated, prompting a reassessment of risk across equities, fixed income, and commodities.

@@ -5,7 +5,7 @@ date: 2026-03-28 15:30:00 -0500
 lastUpdated: 2026-03-28 15:30:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, military, index]
-image: https://images.unsplash.com/photo-1554667175-cd6e4d99c8f8?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1586724237569-f3d0c1dee8c6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Saudi Arabia and the United Arab Emirates activated their air defense systems on Saturday to intercept Iranian ballistic missiles and drones targeting major cities and military installations, confirming the Gulf states' integration into a conflict that had already been destabilizing regional oil markets and security planning for nearly a month."
 ---
 

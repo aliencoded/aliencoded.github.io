@@ -5,7 +5,7 @@ date: 2026-03-27 16:30:00 -0500
 lastUpdated: 2026-03-27 16:30:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, military, index]
-image: https://images.unsplash.com/photo-1554667175-cd6e4d99c8f8?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1656416584402-b720e0d786dc?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Yemen's Houthi movement formally entered the Iran conflict on March 27, conducting a ballistic missile attack toward Israel that triggered air raid sirens in Beersheba, in a development that significantly expanded the geographic scope of the war."
 ---
 

@@ -5,7 +5,7 @@ date: 2026-03-25 16:30:00 -0500
 lastUpdated: 2026-03-25 16:30:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, geopolitics, asia, global, index]
-image: https://images.unsplash.com/photo-1554667175-cd6e4d99c8f8?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1763811939454-e7e6ec3394ee?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "A fragile ceasefire between Afghanistan and Pakistan broke down on Wednesday when cross-border shelling killed two people in Afghanistan's Kunar Province, prompting Pakistan to summon the Taliban's diplomatic representative for a formal protest."
 ---
 

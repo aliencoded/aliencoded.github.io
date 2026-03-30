@@ -5,7 +5,7 @@ date: 2026-03-24 13:00:00 -0500
 lastUpdated: 2026-03-24 13:00:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, global, index]
-image: https://images.unsplash.com/photo-1554667175-cd6e4d99c8f8?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1496823407868-80f47c7453b5?q=80&w=1513&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Lebanon's Health Ministry confirmed on March 24 that Israeli military strikes had killed more than 1,039 people in the country since early March, with over one million people now displaced from their homes."
 ---
 
