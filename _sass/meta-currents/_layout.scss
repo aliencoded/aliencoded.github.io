@@ -447,21 +447,86 @@
 
 
 
-.post-categories {
-  margin: 8px 0;
+// Article tags rendered by _includes/post-tags.html
+.post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 10px 0;
 }
 
-.category-badge {
+.post-tag {
   display: inline-block;
-  background-color: #acabab;
-  color: #333;
-  padding: 3px 8px;
-  margin-right: 5px;
-  margin-bottom: 4px;
-  font-size: 0.85em;
-  font-weight: 500;
-  border-radius: 4px;
+  padding: 3px 10px;
+  font-size: 0.74rem;
+  font-weight: 600;
   text-transform: capitalize;
+  letter-spacing: 0.04em;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 1px solid transparent;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+
+  &:hover, &:focus-visible {
+    text-decoration: none;
+  }
+}
+
+// When the display text comes from _data/tag_overrides.yml, preserve its
+// exact casing (e.g. "AI", "NATO") instead of CSS title-casing it.
+.post-tag--override {
+  text-transform: none;
+}
+
+.post-tag--section {
+  background: $mc-navy;
+  color: #fff;
+  border-color: $mc-navy;
+
+  &,
+  &:visited {
+    color: #fff;
+  }
+
+  &:hover,
+  &:focus-visible {
+    background: $mc-accent;
+    border-color: $mc-accent;
+    color: #fff;
+  }
+}
+
+.post-tag--topic {
+  background: transparent;
+  color: $mc-slate;
+  border-color: $mc-slate;
+
+  &,
+  &:visited {
+    color: $mc-slate;
+  }
+
+  &:hover,
+  &:focus-visible {
+    background: $mc-bg-alt;
+    color: $mc-navy;
+    border-color: $mc-accent;
+  }
+}
+
+// Tag-archive page header (also used by other listing pages if they opt in)
+.page-title {
+  font-size: clamp(2rem, 1.4rem + 2vw, 2.75rem);
+  font-weight: 700;
+  color: $mc-navy;
+  margin: 0 0 6px;
+  letter-spacing: -0.01em;
+}
+
+.page-subtitle {
+  font-size: $small-font-size;
+  color: $mc-slate;
+  margin: 0 0 $spacing-unit;
 }
 
 

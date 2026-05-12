@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+{%- assign tag = page.tag -%}
+{%- assign tagged = site.articles | where_exp: "a", "a.categories contains tag" | sort: "date" | reverse -%}
+
+<header class="page-header">
+  <h1 class="page-title">{{ page.title }}</h1>
+  <p class="page-subtitle">{{ tagged.size }} article{% if tagged.size != 1 %}s{% endif %} tagged with this topic</p>
+</header>
+
+<div class="cards-with-loadmore">
+  <div class="cards-container" data-page-size="10">
+    {% for post in tagged %}
+      {% include article-card.html post=post %}
+    {% endfor %}
+  </div>
+  {% if tagged.size > 10 %}
+    <div class="load-more-wrapper">
+      <button type="button" class="load-more-btn">Load more</button>
+    </div>
+  {% endif %}
+</div>

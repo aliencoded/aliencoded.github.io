@@ -34,13 +34,7 @@ layout: default
         
         <br/>
 
-        {% if page.categories %}
-          <div class="post-categories">
-            {% for category in page.categories %}
-              <span class="category-badge">{{ category | capitalize }}</span>
-            {% endfor %}
-          </div>
-        {% endif %}
+        {% include post-tags.html categories=page.categories %}
 
 
 

@@ -4,7 +4,7 @@ title: "Hillary Clinton Testifies in House Oversight Deposition on Epstein Matte
 date: 2026-02-26 08:00:00 -0500
 lastUpdated: 2026-02-26 08:00:00 -0500
 author: [MetaCurrents Staff]
-categories: [articles, politics, US, index]
+categories: [articles, politics, us, index]
 image: https://images.unsplash.com/photo-1756988183893-dbf4a5dbbce7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "Hillary Clinton appeared before the House Oversight Committee to testify regarding Jeffrey Epstein investigations."
 ---

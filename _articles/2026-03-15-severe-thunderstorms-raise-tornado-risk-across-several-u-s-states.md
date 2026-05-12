@@ -4,7 +4,7 @@ title: "Severe Thunderstorms Raise Tornado Risk Across Several U.S. States"
 date: 2026-03-15 11:40:00 -0500
 lastUpdated: 2026-03-15 11:40:00 -0500
 author: [MetaCurrents Staff]
-categories: [articles, weather, disasters, United States, index]
+categories: [articles, weather, disasters, united-states, index]
 image: https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=687&auto=format&fit=crop
 excerpt: "Meteorologists warn that severe thunderstorms associated with a large storm system could produce tornadoes in several states."
 ---

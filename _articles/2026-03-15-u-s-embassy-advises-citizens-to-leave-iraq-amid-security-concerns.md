@@ -4,7 +4,7 @@ title: "U.S. Embassy Advises Citizens to Leave Iraq Amid Security Concerns"
 date: 2026-03-15 13:05:00 -0500
 lastUpdated: 2026-03-15 13:05:00 -0500
 author: [MetaCurrents Staff]
-categories: [articles, geopolitics, security, Middle East, index]
+categories: [articles, geopolitics, security, middle-east, index]
 image: https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=687&auto=format&fit=crop
 excerpt: "U.S. officials have issued a security advisory encouraging American citizens in Iraq to depart the country amid regional tensions."
 ---

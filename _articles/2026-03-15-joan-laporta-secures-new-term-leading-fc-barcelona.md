@@ -4,7 +4,7 @@ title: "Joan Laporta Secures New Term Leading FC Barcelona"
 date: 2026-03-15 14:10:00 -0500
 lastUpdated: 2026-03-15 14:10:00 -0500
 author: [MetaCurrents Staff]
-categories: [articles, sports, football, Europe, index]
+categories: [articles, sports, football, europe, index]
 image: https://images.unsplash.com/photo-1522778119026-d647f0596c20?q=80&w=687&auto=format&fit=crop
 excerpt: "Club members have voted to grant FC Barcelona president Joan Laporta another term leading the Spanish football giant."
 ---

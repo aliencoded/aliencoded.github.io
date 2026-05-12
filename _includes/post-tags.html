@@ -1,0 +1,53 @@
+{%- comment -%}
+  Renders an article's categories as pills:
+    - section tag (slug matches a navGroup: section page) → filled navy pill → /pages/<slug>/
+    - topic tag (everything else)                          → outlined slate pill → /tags/<slug>/
+  Generic flags ("articles", "index") are filtered out entirely.
+
+  Display name:
+    - If `_data/tag_overrides.yml` has an entry for the lowercase slug, use it verbatim
+      (e.g. "ai" → "AI"). The `.post-tag--override` modifier disables CSS capitalize.
+    - Otherwise show the slug with hyphens replaced by spaces, and let CSS capitalize.
+
+  Caller: `{% include post-tags.html categories=page.categories %}`
+{%- endcomment -%}
+
+{%- assign section_pages = site.pages | where: "navGroup", "section" -%}
+{%- assign section_slugs  = section_pages | map: "content-category" -%}
+{%- assign overrides = site.data.tag_overrides -%}
+
+{%- assign section_tags = "" | split: "" -%}
+{%- assign topic_tags = "" | split: "" -%}
+{%- for cat in include.categories -%}
+  {%- unless cat == "articles" or cat == "index" -%}
+    {%- if section_slugs contains cat -%}
+      {%- assign section_tags = section_tags | push: cat -%}
+    {%- else -%}
+      {%- assign topic_tags = topic_tags | push: cat -%}
+    {%- endif -%}
+  {%- endunless -%}
+{%- endfor -%}
+{%- assign visible = section_tags | concat: topic_tags -%}
+
+{% if visible.size > 0 %}
+<div class="post-tags">
+  {%- for cat in visible -%}
+    {%- assign cat_lower = cat | downcase -%}
+    {%- assign override = overrides[cat_lower] -%}
+    {%- if override -%}
+      {%- assign display = override -%}
+      {%- assign extra_class = " post-tag--override" -%}
+    {%- else -%}
+      {%- assign display = cat | replace: "-", " " -%}
+      {%- assign extra_class = "" -%}
+    {%- endif -%}
+
+    {%- if section_slugs contains cat -%}
+      {%- assign section = section_pages | where: "content-category", cat | first -%}
+      <a class="post-tag post-tag--section{{ extra_class }}" href="{{ section.url | relative_url }}">{{ display }}</a>
+    {%- else -%}
+      <a class="post-tag post-tag--topic{{ extra_class }}" href="{{ '/tags/' | append: cat | append: '/' | relative_url }}">{{ display }}</a>
+    {%- endif -%}
+  {%- endfor -%}
+</div>
+{% endif %}

@@ -1,0 +1,24 @@
+# Display-name overrides for tag/category slugs that shouldn't be word-capitalized.
+# Keys are the lowercase slugs (as they appear in articles' `categories:` field).
+# Values are the exact text to show in pills and `/tags/<slug>/` page titles.
+#
+# Anything not listed here gets the default treatment: hyphens → spaces, then
+# each word's first letter capitalized (e.g. "middle-east" → "Middle East").
+
+ai: AI
+eu: EU
+uk: UK
+un: UN
+us: US
+usa: USA
+nato: NATO
+nasa: NASA
+fbi: FBI
+cia: CIA
+nsa: NSA
+g7: G7
+g20: G20
+opec: OPEC
+imf: IMF
+wto: WTO
+who: WHO

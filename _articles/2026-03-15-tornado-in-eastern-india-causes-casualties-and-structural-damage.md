@@ -4,7 +4,7 @@ title: "Tornado in Eastern India Causes Casualties and Structural Damage"
 date: 2026-03-15 15:40:00 -0500
 lastUpdated: 2026-03-15 15:40:00 -0500
 author: [MetaCurrents Staff]
-categories: [articles, weather, disasters, Asia, index]
+categories: [articles, weather, disasters, asia, index]
 image: https://images.unsplash.com/photo-1527482797697-8795b05a13fe?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "A tornado in eastern India has left multiple homes damaged and casualties reported as emergency crews respond to the affected area."
 ---

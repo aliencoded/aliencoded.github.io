@@ -98,6 +98,19 @@ Card grids on `home` and `page-card-grid-layout` are wrapped in `.cards-with-loa
 
 `post-layout.html` renders a `<div class="reading-progress">` at the top of the page; `assets/js/reading-progress.js` updates its width on scroll proportional to how far into `.post-content` the reader has scrolled. Only present on article pages (the div isn't in other layouts).
 
+### Tags & section pills
+
+Articles' `categories` field is rendered as colored pills below the title (via `_includes/post-tags.html`). Each pill is clickable:
+- **Section pill** (filled navy): the category slug matches a `_pages/` page with `navGroup: section`. Links to `/pages/<slug>/`.
+- **Topic pill** (outlined slate): everything else. Links to `/tags/<slug>/`.
+- **Filtered out**: the generic `articles` and `index` flags don't render.
+
+The `/tags/<slug>/` pages are auto-generated at build time by `_plugins/tag_pages.rb`. The plugin enumerates unique non-section, non-generic categories across all articles and emits one page per unique slug, rendered through `_layouts/tag.html`. Adding a new tag = just put it in an article's `categories`; next build creates the page.
+
+**Heads-up on data quality:** the corpus has case/format inconsistencies (e.g. `"middle-east"` AND `"Middle East"`, `"asia"` AND `"Asia"`). Each variant gets its own tag page because Liquid's `contains` and the plugin's matching are case-sensitive. A future normalization pass on `_articles/*.md` `categories:` fields (lowercase + hyphenate) would collapse those duplicates.
+
+**Requires GitHub Actions deployment** — the plugin won't run on the legacy "Pages auto-build" path. The repo already uses Actions, so this is fine.
+
 ### Search
 
 Adaptive client-side search.
