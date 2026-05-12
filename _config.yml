@@ -17,6 +17,7 @@ title: Meta Currents
 tagline: "Independent news from multiple perspectives"
 # email: redacted
 author: Ali Abid
+logo: /assets/images/meta-currents-icon-medium.jpeg  # used by jekyll-seo-tag for publisher.logo in JSON-LD
 description: >- # this means to ignore newlines until "baseurl:"
   Meta Currents is an independent news site presenting global stories from multiple political perspectives. We cover geopolitics, business, technology, US politics, and more — giving readers context from across the political spectrum so they can form their own views.
 
@@ -63,8 +64,31 @@ collections:
     output: true
   videos:
     output: true
+
+# jekyll-feed: source the main /feed.xml from the `articles` collection
+# (the site does not use `_posts`). The empty `posts` feed is parked at
+# /feed/posts.xml so it does not collide with the articles feed at /feed.xml.
+# The Atom discovery <link> in <head> is hand-rolled to point at /feed.xml
+# (see _includes/head.html) because feed_meta would otherwise emit the
+# /feed/posts.xml URL from `feed.path`.
+feed:
+  path: /feed/posts.xml
+  posts_limit: 200
+  collections:
+    articles:
+      path: /feed.xml
    
 
+
+# jekyll-seo-tag emits BlogPosting JSON-LD by default. For articles, override
+# to NewsArticle (more accurate, eligible for Google News rich-results when
+# the publication itself is approved by Publisher Center).
+defaults:
+  - scope:
+      type: articles
+    values:
+      seo:
+        type: NewsArticle
 
 # quiet warnings during builds
 sass:

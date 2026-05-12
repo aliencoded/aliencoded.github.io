@@ -27,7 +27,12 @@
 
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  {%- feed_meta -%}
+  {%- comment -%}
+    Atom feed discovery. Hand-rolled instead of {% feed_meta %} so the link
+    points to /feed.xml (the articles feed) rather than the parked posts feed
+    at /feed/posts.xml. See `feed:` config in _config.yml.
+  {%- endcomment -%}
+  <link type="application/atom+xml" rel="alternate" href="{{ '/feed.xml' | absolute_url }}" title="{{ site.title | default: site.name }}" />
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
