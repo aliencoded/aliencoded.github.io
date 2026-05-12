@@ -4,39 +4,18 @@ layout: default
 
 <!--main type used by all the news content, every article will follow this layout -->
 
+<div class="reading-progress" role="progressbar" aria-label="Reading progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
-    
+
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          {{ page.date | date: date_format }}
-
-          {% assign post_time = page.date | date: '%s' %}
-          {% assign current_time = 'now' | date: '%s' %}
-          {% assign diff_seconds = current_time | minus: post_time %}
-
-          {% assign diff_minutes = diff_seconds | divided_by: 60 | floor %}
-          {% assign diff_hours = diff_minutes | divided_by: 60 | floor %}
-          {% assign diff_days = diff_hours | divided_by: 24 | floor %}
-
-          <span class="time-ago">
-            •
-            {% if diff_minutes < 1 %}
-              just now
-            {% elsif diff_minutes < 60 %}
-              {{ diff_minutes }} minute{% if diff_minutes != 1 %}s{% endif %} ago
-            {% elsif diff_hours < 24 %}
-              {{ diff_hours }} hour{% if diff_hours != 1 %}s{% endif %} ago
-            {% else %}
-              {{ diff_days }} day{% if diff_days != 1 %}s{% endif %} ago
-            {% endif %}
-          </span>
-
-        </time>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
 
 
 
@@ -80,12 +59,9 @@ layout: default
 
   {% if page.image %}
     <div class="image-watermark">
-      <!--watermark -->
-      <img class="post-image" src="{{ page.image | relative_url }}" alt="no image2">
-        <span class="watermark">Meta Currents</span>
+      <img class="post-image" src="{{ page.image | relative_url }}" alt="" loading="eager">
+      <span class="watermark">Meta Currents</span>
     </div>
-
-
   {% endif %}
 
   <div class="post-content e-content" itemprop="articleBody">
@@ -99,7 +75,41 @@ layout: default
   </div>
 {% endunless %}
 
+  {%- comment -%}
+    Related articles: find the article's first non-generic category and pull up to
+    4 other articles from the same section, sorted by date desc.
+  {%- endcomment -%}
+  {% assign primary_cat = nil %}
+  {% for cat in page.categories %}
+    {% if cat != "articles" and cat != "index" %}
+      {% assign primary_cat = cat %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
 
+  {% if primary_cat %}
+    {% assign related = site.articles
+       | where_exp: "a", "a.categories contains primary_cat"
+       | where_exp: "a", "a.url != page.url"
+       | sort: "date" | reverse %}
+    {% assign related = related | slice: 0, 5 %}
+
+    {% if related.size > 0 %}
+      <aside class="related-articles" aria-label="Related articles">
+        <h2 class="related-articles__heading">Related from {{ primary_cat | replace: "-", " " | capitalize }}</h2>
+        <ul class="related-articles__list">
+          {% for post in related %}
+            <li class="related-articles__item">
+              <a class="related-articles__link" href="{{ post.url | relative_url }}">
+                <span class="related-articles__title">{{ post.title | escape }}</span>
+                <time class="related-articles__date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </aside>
+    {% endif %}
+  {% endif %}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

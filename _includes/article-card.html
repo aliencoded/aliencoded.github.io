@@ -1,33 +1,16 @@
 <div class="card">
   <a href="{{ post.url | relative_url }}">
-    <!-- includes the title, the main image, and a small excerpt  from the article-->
-    {% if post.image  and post.image != "" %}
-      <img src="{{ post.image | relative_url }}" alt="no image1">
+    {% if post.image and post.image != "" %}
+      <img src="{{ post.image | relative_url }}" alt="" loading="lazy">
     {% endif %}
     <div class="card-content">
       <h2>{{ post.title }}</h2>
       {% if post.excerpt %}
         <p>{{ post.excerpt }}</p>
       {% endif %}
-
-      {% assign post_seconds = post.date | date: "%s" %}
-      {% assign now_seconds = site.time | date: "%s" %}
-      {% assign diff = now_seconds | minus: post_seconds %}
-
-      {% assign minutes = diff | divided_by: 60 %}
-      {% assign hours = diff | divided_by: 3600 %}
-      {% assign days = diff | divided_by: 86400 %}
-
       <div class="card-meta">
-        {% if minutes < 60 %}
-          {{ minutes }} min ago
-        {% elsif hours < 24 %}
-          {{ hours }} hr ago
-        {% else %}
-          {{ days }} days ago
-        {% endif %}
-</div>
-
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+      </div>
     </div>
   </a>
 </div>

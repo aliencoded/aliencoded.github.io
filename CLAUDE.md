@@ -94,6 +94,26 @@ To promote an article to the hero slot, add `featured: true` to its front matter
 
 Card grids on `home` and `page-card-grid-layout` are wrapped in `.cards-with-loadmore`, which contains a `.cards-container[data-page-size="N"]` plus a `.load-more-btn`. `assets/js/load-more.js` (loaded by `default.html` with `defer`) hides cards past the page size with a `.card--hidden` class, and reveals the next batch on button click. No plugin required — pure client-side, all cards still in the rendered HTML so SEO/links are preserved. Default page size is 10 (9 on home, since the hero counts as one).
 
+### Reading progress bar
+
+`post-layout.html` renders a `<div class="reading-progress">` at the top of the page; `assets/js/reading-progress.js` updates its width on scroll proportional to how far into `.post-content` the reader has scrolled. Only present on article pages (the div isn't in other layouts).
+
+### Search
+
+Adaptive client-side search.
+- `/search.json` is generated at build time from `search.json` (Liquid template at repo root). Each entry has `title`, `url`, `date`, `excerpt`, `categories`.
+- `_includes/search-modal.html` provides the overlay/dialog markup; pulled into `default.html` once.
+- The trigger button (`.search-trigger`) sits in the header utility row next to the clock; clicking it opens the modal. `Cmd/Ctrl + K` also opens it. `Esc` or click-outside closes.
+- `assets/js/search.js` fetches `/search.json` lazily on first open, seeds the modal with the 5 most recent articles, and filters live (title + excerpt + categories, case-insensitive substring) as the user types. Max 20 results displayed.
+- Styling lives in `_sass/meta-currents/_search.scss`.
+
+### SEO & feeds
+
+- `jekyll-feed` → `/feed.xml`
+- `jekyll-sitemap` → `/sitemap.xml` (automatic)
+- `jekyll-seo-tag` → canonical, OpenGraph, Twitter card meta in `<head>`
+- `url: https://metacurrents.com` is set in `_config.yml` for canonical URL generation.
+
 ### Sass
 
 `assets/main.scss` imports `_sass/meta-currents.scss`, which imports the partials under `_sass/meta-currents/`:

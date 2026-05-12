@@ -32,21 +32,22 @@ markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-sitemap
 
 # plugins:
 #  - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Exclude from processing — kept out of the built site at _site/
+exclude:
+  - CLAUDE.md
+  - AUTHORING.md
+  - README.md
+  - LICENSE
+  - LICENSE.txt
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - _scripts
 
 collections:
   pages:

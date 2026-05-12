@@ -7,9 +7,10 @@
   border-top: 1px solid $mc-rule;
   border-bottom: 2px solid $mc-navy;
   min-height: $spacing-unit * 1.865;
-
-  // Positioning context for the mobile navigation icon
+  // Positioning context for the mobile navigation icon, and stacking context
+  // for elements like the reading-progress bar and dropdown menus
   position: relative;
+  z-index: 1000;
 }
 
 .site-header__row {
@@ -465,7 +466,3 @@
 
 
 
-.site-header {
-  position: relative;
-  z-index: 1000;
-}
