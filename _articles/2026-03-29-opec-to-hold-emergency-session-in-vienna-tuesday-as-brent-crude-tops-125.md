@@ -5,7 +5,7 @@ date: 2026-03-29 16:30:00 -0500
 lastUpdated: 2026-03-29 16:30:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, business, energy, oil, opec, finance, markets, index]
-image: https://images.unsplash.com/photo-1694475304554-41b19fbe09c0?q=80&w=1600&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1602056820935-316884c035f8?q=80&w=1600&auto=format&fit=crop
 excerpt: "OPEC+ called an emergency Vienna meeting for Tuesday after Brent crude pushed past $125 in early Asian trade Sunday, with Saudi Arabia and the UAE weighing coordinated production increases amid the widening Iran conflict."
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post-layout
-title: "Hyperscaler CEOs Press House Democrats as AI Moratorium Vote Nears"
+title: "Hyperscaler CEOs Begin Capitol Hill Blitz as AI Moratorium Approaches House Markup"
 date: 2026-04-14 15:00:00 -0500
 lastUpdated: 2026-04-14 15:00:00 -0500
 author: [MetaCurrents Staff]

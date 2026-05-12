@@ -5,7 +5,7 @@ date: 2026-03-14 16:00:00 -0500
 lastUpdated: 2026-03-14 16:00:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, europe, global, index]
-image: https://images.unsplash.com/photo-1467269204165-1d4680ca4867?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1758138258458-64ee0fbdef4c?q=80&w=1600&auto=format&fit=crop
 excerpt: "An explosion damaged a Jewish school in Amsterdam, marking the third attack on Jewish buildings in the Low Countries within a single week and prompting urgent calls for enhanced security measures."
 ---
 

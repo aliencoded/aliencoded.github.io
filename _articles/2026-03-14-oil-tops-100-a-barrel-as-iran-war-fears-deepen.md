@@ -5,7 +5,7 @@ date: 2026-03-14 09:15:00 -0500
 lastUpdated: 2026-03-14 09:15:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, energy, markets, geopolitics, index]
-image: https://images.unsplash.com/photo-1466611653911-fcdff1ec4e0f?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1602056820935-316884c035f8?q=80&w=1600&auto=format&fit=crop
 excerpt: "Brent crude futures climbed above $100 per barrel as geopolitical tensions escalated following statements by Iran's new Supreme Leader Mojtaba Khamenei."
 ---
 

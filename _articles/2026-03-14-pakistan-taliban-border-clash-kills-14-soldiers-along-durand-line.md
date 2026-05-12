@@ -5,7 +5,7 @@ date: 2026-03-14 12:00:00 -0500
 lastUpdated: 2026-03-14 12:00:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, geopolitics, asia, global, index]
-image: https://images.unsplash.com/photo-1554667175-cd6e4d99c8f8?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1583654979589-aa7a6053a0d6?q=80&w=1600&auto=format&fit=crop
 excerpt: "Taliban forces killed 14 Pakistani soldiers and wounded 11 others during the capture of a border guard post along the Durand Line in Kunar Province, Afghanistan."
 ---
 

@@ -5,7 +5,7 @@ date: 2026-03-14 07:30:00 -0500
 lastUpdated: 2026-03-14 07:30:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, military, geopolitics, middle-east, index]
-image: https://images.unsplash.com/photo-1554667175-cd6e4d99c8f8?q=80&w=1200&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1640693788837-e1903a5fdb95?q=80&w=1600&auto=format&fit=crop
 excerpt: "Five U.S. Air Force refueling aircraft were damaged in Iranian drone strikes at Prince Sultan Air Base in Saudi Arabia, marking a significant escalation in the ongoing conflict."
 ---
 
