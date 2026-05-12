@@ -1,0 +1,40 @@
+---
+layout: post-layout
+title: "Muscat track resumes with sanctions sequencing and second prisoner exchange topping the agenda"
+date: 2026-04-27 11:00:00 -0500
+lastUpdated: 2026-04-27 11:00:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, geopolitics, middle-east, diplomacy, sanctions, index]
+image: https://images.unsplash.com/photo-1776248783518-400b6d0da64c?q=80&w=1600&auto=format&fit=crop
+excerpt: "Deputy foreign ministers from eight states reconvened in Muscat on Monday for the first formal round of post-resolution talks, with sanctions sequencing and a second prisoner exchange leading an agenda that diplomats called the hardest yet."
+---
+
+Deputy foreign ministers from eight states reconvened in Muscat on Monday for the first formal round of post-resolution talks under the Islamabad framework, opening a four-day session in which sanctions sequencing and a second prisoner exchange topped an agenda that participants described as the most consequential since the ceasefire took effect twelve days ago.
+
+The session, hosted at Bait Al Baraka and chaired by Omani Foreign Minister Sayyid Badr Albusaidi, drew delegations from Iran, the United States, the United Kingdom, France, Germany, Pakistan, Egypt and the United Arab Emirates, with the European Union and Saudi Arabia attending as observers. It opened forty-eight hours after the United Nations Security Council adopted Resolution 2782 endorsing the verification architecture and authorizing a 12-month monitoring mandate in the Strait of Hormuz.
+
+Albusaidi, in brief opening remarks carried by Oman News Agency, said the resolution had given the Muscat process "the political cover it needed" and warned that progress in the coming weeks would depend on what he called "sequenced, parallel and verifiable" steps by all parties. He said the chair would circulate a non-paper on sanctions sequencing by Tuesday afternoon and invited delegations to come prepared with "specific names, specific dates, specific dollar figures."
+
+The opening of the Muscat round coincided with the arrival in the Omani capital of EU sanctions coordinator Enrique Mora, who is expected to brief delegations Wednesday on a conditional sanctions-easing package that Brussels has been preparing since EU foreign ministers met in Luxembourg last week. Two European diplomats, speaking on condition of anonymity to discuss internal deliberations, said the package would tie initial sanctions relief to Iranian cooperation on three benchmarks: full International Atomic Energy Agency access at Natanz and Fordow, deconfliction reporting at Bandar Abbas, and a written commitment to halt missile transfers to non-state actors.
+
+Iranian Deputy Foreign Minister Majid Takht-Ravanchi, who is leading Tehran's delegation, told reporters at Muscat International Airport on Sunday evening that Iran would arrive at the table "in good faith" but expected reciprocal steps on the unfreezing of central bank assets held in South Korea and Japan and on the licensing of medical and humanitarian imports that he said had been delayed by overcompliance at correspondent banks. He declined to be drawn on the question of missile transfers, saying only that "Iran does not negotiate its defensive posture."
+
+"The architecture is in place," said John Reilly, an analyst at Citi who tracks Gulf risk. "The question now is whether the parties can move from architecture to substance. Sanctions sequencing is where every previous Iran negotiation has stalled. There is no reason to assume this one will be different, but there is reason to think the political ceiling is higher than it has been in a decade."
+
+U.S. Deputy Secretary of State Kurt Campbell, who arrived in Muscat on Sunday after stops in Riyadh and Abu Dhabi, said in a written statement issued by the State Department that Washington would approach the talks with what he called "patient resolve." Campbell said the United States was prepared to discuss the sequencing of sanctions relief in the context of verifiable steps on enrichment, missile production and regional proxy activity, but cautioned that "no step will be taken on faith."
+
+A senior State Department official, speaking on condition of anonymity, said the U.S. delegation would propose a "phased and reversible" sequencing structure organized around three baskets — humanitarian, financial and strategic — with each basket subject to its own verification triggers. The official said Washington had coordinated the proposal with London, Paris and Berlin in a working-group meeting in Brussels on Friday and would table a written version on Tuesday morning.
+
+The second prisoner exchange, which Qatar and Oman have been brokering since the Doha handover on Apr. 18, is expected to involve a broader and more politically sensitive list than the first round. Three regional diplomats said the working list under discussion includes roughly 28 Iranian-held dual nationals, including European researchers and at least two Australian academics, and a smaller number of Israeli-held detainees with alleged links to Hezbollah and Palestinian Islamic Jihad. The diplomats said Israel had not yet given a final answer on the Israeli portion of the list, which one described as "the hardest piece."
+
+Qatar's special envoy for hostage affairs, Mohammed Al-Khulaifi, arrived in Muscat on Monday morning to attend the prisoner-exchange working group. In a brief exchange with reporters in the lobby of the InterContinental Muscat, Al-Khulaifi said the working list was "advanced but not final" and that he expected a structured handover, if all parties consented, "within ten days, possibly fewer."
+
+The Muscat session is also expected to take up the question of frozen Iranian central bank assets, which the IMF estimates at roughly $24 billion across South Korea, Japan, Iraq and Luxembourg, and a parallel discussion on the resumption of conditional shipping insurance through Lloyd's syndicates. Lloyd's lifted its Strait of Hormuz war-risk surcharge by another 15 percent on Friday, the fourth reduction since the ceasefire took effect, and shipping executives have pressed for a fuller restoration that they say is contingent on a clearer Muscat verification timetable.
+
+"The Muscat track is where the post-war order is being written, line by line," said Layla Hassan, a Beirut-based regional analyst at the Carnegie Middle East Center. "What happens this week will tell us whether the resolution has teeth or whether it will be remembered as the diplomatic peak before a long descent into stalemate. The early signals are cautiously constructive, but no one in this region is in the business of optimism."
+
+Pakistani Foreign Minister Ishaq Dar, who flew in from Islamabad to observe the opening session before returning home Monday evening, told a small group of reporters that Pakistan would press for "rapid and visible" humanitarian relief steps and warned that the credibility of the framework depended on what he called "early, tangible gains for ordinary people."
+
+EU foreign policy chief Kaja Kallas, in a statement issued from Brussels, said the bloc remained on track to convene its donors' conference on May 6 and would tie its initial pledges to "concrete and verifiable progress" out of Muscat this week. She said the EU envoy in Tehran, who returned to the Iranian capital on Sunday after two weeks of consultations in Brussels, had been instructed to seek immediate clarifications on customs treatment of humanitarian shipments at Bandar Abbas.
+
+Delegations were expected to break into three parallel working groups on Tuesday — on sanctions sequencing, prisoner exchange and verification logistics — with a plenary stocktake on Thursday afternoon. Albusaidi said a closing communiqué would be issued no later than Thursday evening and that the chair would brief the Security Council president by Friday morning. Officials said further announcements, including on the prisoner-exchange timetable, would follow once the working groups had reported.

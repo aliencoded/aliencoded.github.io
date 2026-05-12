@@ -1,0 +1,36 @@
+---
+layout: post-layout
+title: "Sunday Shows Turn on War Aims as Senators Press White House for Iran Endgame"
+date: 2026-04-05 12:00:00 -0500
+lastUpdated: 2026-04-05 12:00:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, us, congress, white-house, middle-east, war-powers, index]
+image: https://images.unsplash.com/photo-1649457741403-afc8160a1280?q=80&w=1600&auto=format&fit=crop
+excerpt: "Senators from both parties used Sunday morning television to press the Trump administration for a clearer Iran war strategy, as the U.S. casualty count approached 340 and Islamabad talks reached a delicate phase."
+---
+
+Senators from both parties used the Sunday morning network programs to demand a clearer accounting of U.S. war aims in Iran, with several lawmakers warning that the White House would face a forced vote on military authorization within ten days unless the administration agreed to brief Congress on the trajectory of a conflict that has now killed close to 340 American service members.
+
+The choreographed pressure campaign played out across "Meet the Press," "Face the Nation" and "State of the Union," where guests cycled through the same talking points with rare consistency: the casualty figures were unsustainable, the goals were undefined, and the administration's reluctance to engage Congress on a formal Authorization for Use of Military Force had begun to fracture even its own party. The Senate is scheduled to take up the Sanders-Ocasio-Cortez AI moratorium on Tuesday, but lawmakers said a war powers vote was now in active scheduling discussions for the following week.
+
+Sen. Chris Murphy, D-Conn., one of the cosponsors of the war powers resolution filed Thursday, opened "Meet the Press" by reading from a list of the seven U.S. service members killed in the past 72 hours, including three in a Houthi drone swarm against the Al-Tanf garrison in Syria on Friday night. "We are losing Americans on a weekly basis in a war that Congress has not voted on, in a country we have not formally engaged, against an adversary whose defeat the president has not defined," Murphy told moderator Kristen Welker. "There is a constitutional answer to that, and it begins with a vote."
+
+Sen. Mike Lee, R-Utah, appearing later on the same program, echoed the call and went further, saying the White House had thirty-six hours to commit to a classified briefing for the full Senate before he would join Murphy in filing a privileged motion to force floor consideration. "I have been here for fifteen years asking the same question of three different administrations," Lee said. "What is the off-ramp? They cannot answer it because they have not been forced to. Tuesday changes that."
+
+On "Face the Nation," Margaret Brennan pressed National Security Adviser Mike Waltz on the casualty figures and on reports that the Pentagon had quietly moved an additional 1,200 personnel into Kuwait and Bahrain over the past week without notifying congressional leadership in writing. Waltz said the deployments were "force-protection adjustments" within existing authorities and rejected the framing of a war without aims. "The objective is plain and has been plain since March," Waltz said. "The Islamic Republic does not get a nuclear weapon, and U.S. forces in the region are not soft targets. Everything we are doing flows from those two propositions."
+
+Pressed on whether the administration would seek a vote, Waltz said the White House was "always in dialogue with Congress" but characterized the war powers resolution as "a distraction in a delicate week," a reference to the Islamabad talks. Pakistani, Saudi and Egyptian mediators are expected to present a framework of principles to Iranian and U.S. interlocutors midweek, though officials have cautioned that the gap between the parties on verification and on the future of Iran's enrichment program remains wide.
+
+The diplomatic context cut both ways on Sunday. Several senators argued that congressional pressure would strengthen the U.S. negotiating posture by making clear that domestic patience for an open-ended conflict was finite. Others, including Sen. Lindsey Graham, R-S.C., warned on "State of the Union" that a War Powers vote in the middle of mediation risked signaling weakness. "You do not pull the rug out from the negotiators on the day they arrive at the table," Graham said. "I want this war ended too. But you do not end it by handing Tehran a calendar."
+
+The Sunday programs also gave airtime to a small but growing bloc of House Democrats who have begun to press Speaker Mike Johnson, R-La., for a parallel measure. Rep. Sara Jacobs, D-Calif., who is drafting the House companion, told ABC's "This Week" that she had collected 174 cosigners as of Saturday evening and would file a discharge petition next week if leadership refused to schedule a vote. "The American people are not asking exotic questions," Jacobs said. "They are asking who decided, when does it end, and what do we win. Those are the most basic questions in a democracy."
+
+White House communications director Steven Cheung, in a statement issued shortly after the broadcasts concluded, called the coordinated Sunday push "political theater dressed up as constitutional concern" and said the president would address the war and the negotiations at a midweek news conference. President Donald Trump, traveling back to Washington from a weekend at his Bedminster club, posted on Truth Social that "the Surrender Caucus is back on TV, while our brave warriors win." He did not respond to questions shouted by reporters on the South Lawn upon his return.
+
+Polling presented to senators by leadership staff over the weekend, and described by two aides familiar with the figures, showed approval of the administration's handling of the war slipping to 41 percent in a fresh ABC News/Ipsos survey, with 53 percent saying Congress should vote. The same survey found majorities in both parties supportive of the Islamabad track, a finding that several senators cited as evidence that pressing for a vote and supporting diplomacy were politically compatible.
+
+"You can hold two ideas at once," said Maya Berry, executive director of the Arab American Institute, in a telephone interview Sunday evening. "Americans want the diplomacy to work, and they want their elected representatives to do their job. The two are not in tension. The administration's framing that they are has stopped working in focus groups."
+
+Senate Majority Leader John Thune, R-S.D., did not appear on the Sunday programs and has not publicly committed to floor time for the resolution. Aides said Thune was monitoring the Islamabad developments closely and would consult with the White House before scheduling. Under the War Powers Resolution, a privileged motion filed by Murphy and Lee could force consideration regardless of leadership preference, and the cosponsors have said they will deploy that mechanism if no briefing or vote is offered by midweek.
+
+The Senate returns Monday for procedural votes on the AI moratorium. Aides to several members said they expected the war to dominate cloakroom conversation regardless of the legislative calendar, and that the casualty briefings scheduled for Tuesday afternoon would likely set the tone for the chamber for the remainder of the spring session.

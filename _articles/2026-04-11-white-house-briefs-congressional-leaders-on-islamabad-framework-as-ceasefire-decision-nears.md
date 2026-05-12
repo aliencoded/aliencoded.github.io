@@ -1,0 +1,39 @@
+---
+layout: post-layout
+title: "White House Briefs Congressional Leaders on Islamabad Framework as Ceasefire Decision Nears"
+date: 2026-04-11 12:00:00 -0500
+lastUpdated: 2026-04-11 12:00:00 -0500
+author: [MetaCurrents Staff]
+sourceProvider: MetaCurrents Staff
+categories: [articles, us, congress, white-house, iran-war, middle-east, index]
+image: https://images.unsplash.com/photo-1649457741403-afc8160a1280?q=80&w=1600&auto=format&fit=crop
+excerpt: "Senior administration officials walked the Gang of Eight through the draft Islamabad framework Saturday, telling lawmakers a ceasefire announcement could come within days as war powers critics on Capitol Hill demanded a binding role in any final terms."
+---
+
+President Donald Trump's senior national security team briefed congressional leaders in a closed-door session Saturday morning on the draft framework taking shape at the Islamabad talks, telling lawmakers that a ceasefire announcement in the six-week Iran war could come within days but that several provisions remained unresolved and that the administration had not yet committed to a final position.
+
+The roughly 90-minute meeting in the Capitol's Secure Compartmented Information Facility drew the Gang of Eight — the House and Senate party leaders and the chairs and ranking members of the chamber's two intelligence panels — along with the chairs of the Senate Armed Services and Foreign Relations committees. National Security Adviser Greg Halpern led the briefing, joined by Secretary of State Lindsey Graham, Director of National Intelligence Tulsi Gabbard and a deputy chief of staff who handled the procedural questions, according to two officials familiar with the session.
+
+Halpern told lawmakers that Pakistani, Saudi and Egyptian mediators had "moved further than the U.S. delegation expected" in narrowing the gaps between Iranian and Israeli positions on a phased halt to hostilities, and that Foreign Minister Abbas Araghchi's signal earlier in the week of willingness to discuss a conditional cessation had produced the first text under serious negotiation in the conflict's six weeks, according to a person briefed on the exchange. He cautioned that the framework was "not a deal, and not yours to vote on yet," the person said.
+
+That caveat did not satisfy a bloc of senators who have spent the past two weeks pressing the administration on its statutory authority to continue strikes. Sen. Tim Kaine, D-Va., and Sen. Mike Lee, R-Utah, the co-sponsors of the war powers resolution that drew 41 cosponsors in late March, emerged from the briefing room within minutes of its conclusion. Kaine told reporters in the hallway that he had pressed Halpern to commit the administration to "an up-or-down congressional vote on any final framework that involves U.S. enforcement, U.S. monitoring or U.S. troops on the ground anywhere in the region." Halpern, Kaine said, "did not give me that commitment."
+
+Lee was more direct. "I told the adviser that if the White House signs an Islamabad document on Monday morning and tries to enforce it with American forces on Monday afternoon, the Senate will be voting on a war powers resolution by the end of the week, and it will pass," he said. "I'm not bluffing and they know I'm not bluffing."
+
+Senate Majority Leader John Thune, R-S.D., struck a more measured tone after the session, saying the administration had "kept the leadership properly informed" and that he expected "robust consultation" if a ceasefire announcement materialized. Thune declined to say whether he supported a binding vote on the framework. House Speaker Mike Johnson, R-La., also leaving the SCIF, told reporters only that "the president has the conn on this, and he should."
+
+The briefing took place against a backdrop of accelerating diplomatic activity in Islamabad, where the third round of back-channel meetings concluded Friday and where Pakistani Foreign Minister Ishaq Dar told reporters Saturday morning that the parties had "agreed in principle on three of five framework principles" and were working through "the language and the sequencing" on the remaining two. U.S. officials in Saturday's briefing declined to identify the unresolved points but acknowledged that the question of inspection regimes at damaged Iranian nuclear sites was among them, the two officials said.
+
+The political calculation inside the White House has shifted markedly in the past 96 hours, according to three administration officials, one of whom described the internal mood as "from cautious to active planning." A small interagency group convened twice on Friday to draft talking points for a possible presidential address, and the office of legislative affairs began circulating Saturday afternoon a one-page document outlining the kinds of congressional notifications the administration would provide if a ceasefire were announced. The document, a copy of which was reviewed by MetaCurrents, commits the White House to a War Powers Resolution-style 48-hour notification but stops short of promising any vote.
+
+That gap is what the bipartisan war-powers bloc has spent the morning trying to close. Sen. Chris Murphy, D-Conn., who sits on the Foreign Relations Committee, said in a brief statement that he had requested a follow-up briefing for the full committee on Monday and that he expected the chair, Sen. Jim Risch, R-Idaho, to grant it. A Risch aide confirmed the request was under consideration.
+
+War costs have run alongside the war powers fight as the second major Capitol Hill complication for the administration. The Senate Appropriations Committee advanced a $67 billion Iran war supplemental on April 6, and the full Senate is expected to take it up next week. Sen. Patty Murray, D-Wash., the committee chair, told reporters Saturday that an Islamabad framework would not slow the supplemental's progress because "the bills for the past six weeks are already due, and a ceasefire does not unsend them." Murray said she expected floor consideration to begin Tuesday.
+
+Inside the Capitol, the AI moratorium fight that has dominated the policy calendar for the past two weeks continued in parallel. House Ways and Means staff confirmed Saturday afternoon that the committee's Monday hearing schedule remained on track, with witnesses from organized labor and three state public utility commissions still slated to testify. Two senior aides to wavering moderate Democrats on the committee said the Iran briefing had not changed the moratorium math but had "absorbed every minute of the leadership's attention" that those aides had hoped to claim for their own members' concerns.
+
+Outside the West Wing, Press Secretary Karoline Renfro held a brief gaggle with reporters at the North Lawn driveway in the late morning and declined to confirm any timeline for a ceasefire announcement. "The president is reviewing the work product of the Islamabad talks and is consulting with congressional leadership, as you saw this morning," she said. "He will make a decision in his own time and announce it himself when he is ready." Asked whether the administration would commit to a congressional vote on any final framework, Renfro said only that the administration would "honor the law and honor our consultations."
+
+Layla Hassan, a Beirut-based regional analyst at the Levant Strategic Forum, said in a phone interview Saturday that the U.S. domestic politics of any ceasefire would be "at least as important as the regional ones" in determining whether the framework holds. "The Iranians are watching whether the president can deliver his own Senate," she said. "If the answer in Tehran is no, the framework gets harder to sign."
+
+Senior White House officials told reporters traveling with the president that additional briefings for rank-and-file lawmakers would be scheduled in the coming days.

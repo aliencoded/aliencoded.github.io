@@ -1,0 +1,38 @@
+---
+layout: post-layout
+title: "Albany and Sacramento Advance State-Level AI Moratorium Bills as Federal Fight Tightens"
+date: 2026-04-16 15:00:00 -0500
+lastUpdated: 2026-04-16 15:00:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, tech, ai, ai-moratorium, state-policy, energy, index]
+image: https://images.unsplash.com/photo-1770210217380-d78a69acdc77?q=80&w=1600&auto=format&fit=crop
+excerpt: "Lawmakers in New York and California pushed competing data-center pause bills through committee Thursday, opening a second front against hyperscaler buildouts as the federal moratorium nears a Ways and Means vote and industry lobbyists scramble to fight on two coasts at once."
+---
+
+Lawmakers in Albany and Sacramento advanced competing state-level moratoriums on new hyperscale data-center construction through committee on Thursday, opening a second regulatory front against the artificial-intelligence buildout that has come to define the spring legislative season and forcing industry lobbyists to mount simultaneous campaigns on both coasts while a parallel federal bill nears a make-or-break House vote.
+
+The New York Senate Energy and Telecommunications Committee voted 9-6 to report out S. 8124, a measure that would impose an 18-month freeze on permits for any new data-center site drawing more than 250 megawatts of peak load, pending completion of a state-led grid-impact study and a public hearing in each affected utility territory. Hours later, the California Senate Energy, Utilities and Communications Committee approved its own version, SB 1188, on a 10-4 vote. Both bills now move to fiscal committees and, if they survive, to floor votes that could come before the Memorial Day recess.
+
+The dual advance marks the first time since the federal Sanders-Ocasio-Cortez moratorium passed the U.S. Senate on April 7 that state-level companion measures have reached committee passage in the two jurisdictions where planned hyperscale capacity is most heavily concentrated. Industry filings reviewed by state regulators show roughly $34 billion in committed or under-construction data-center projects across upstate New York and California's Central Valley, with another $19 billion in pre-permit announcements.
+
+"What you are seeing today is the political bottom of the iceberg," said Renata Olszewski, director of the State Energy Policy Project at the University at Albany, who testified Thursday in support of the New York measure. "If Washington stalls, the action moves to the states with the loads. New York and California are where most of this gets built, and they are where most of the political pressure is going to land."
+
+The New York bill, sponsored by Sen. Liz Krueger, D-Manhattan, and co-sponsored by 14 members of the chamber's Democratic majority, draws directly on the federal template introduced March 26 by Sen. Bernie Sanders, I-Vt., and Rep. Alexandria Ocasio-Cortez, D-N.Y. Like the federal version, it pairs a construction pause with mandatory grid-impact reporting and a water-use disclosure regime. Unlike the federal version, it carves out research facilities operated by State University of New York campuses and explicitly preserves projects already breaking ground in the Mohawk Valley and Western New York regions, where local economic-development authorities have opposed a hard freeze.
+
+The California measure, written by Sen. Henry Stern, D-Calabasas, is narrower in scope. It applies only to sites drawing more than 400 megawatts of peak demand and includes a sunset clause tied to the completion of a state-commissioned reliability study by the California Independent System Operator. Stern told reporters after Thursday's vote that the bill was "designed to be a scalpel, not a hammer," and that he had been in regular contact with utility executives and the governor's office during drafting.
+
+A spokesperson for Gov. Gavin Newsom, asked Thursday whether the governor would sign the bill if it reached his desk, said the office was "reviewing the committee version carefully" but declined to take a position. New York Gov. Kathy Hochul has been more circumspect, saying through a spokesperson that she shared "the underlying concerns about grid reliability" but would not commit to signing legislation until she had reviewed final fiscal estimates from the Division of the Budget.
+
+Industry response to the dual committee votes was swift. The Information Technology Industry Council, the Computer and Communications Industry Association, and a coalition of regional chambers issued a joint statement Thursday afternoon warning that the state bills would "fragment the regulatory landscape, drive investment overseas, and undercut the very grid modernization the sponsors claim to want." The American Cloud Coalition, which represents most of the largest hyperscalers, said in a separate statement that its member companies would consider legal challenges if either bill became law in its current form.
+
+"The legal exposure here is real but it is also a distraction," said Marcus Hilliard, an energy-and-utilities partner at Covington and Burling who advises three of the largest cloud operators. "Litigation is a backstop, not a strategy. The real fight is whether you can hold moderate Democrats in two state Senates over the next eight weeks while you are also fighting a federal bill in House Ways and Means. That is a resource problem industry has not had to solve in this configuration before."
+
+Labor and environmental coalitions that backed the federal bill moved quickly to claim momentum. The New York State AFL-CIO endorsed S. 8124 on Thursday, citing concerns about ratepayer cost-shifting and grid reliability in upstate communities. The California Labor Federation issued a parallel endorsement of SB 1188. The Sierra Club, which has run targeted advertising in support of both measures since late March, said it would expand its campaign into eight additional state Senate districts ahead of the floor votes.
+
+"This is what the federal fight made possible," said Devon Park, a senior policy adviser at the Sierra Club. "Albany and Sacramento were always going to be friendlier terrain for a moratorium than Washington. The Senate vote on April 7 gave both legislatures political cover to act."
+
+Smaller AI developers and several open-source advocacy groups remained split on the state bills, as they have on the federal measure. The Open Model Initiative, a coalition of academic and startup developers, said it supported the underlying disclosure requirements but opposed the construction freeze, arguing that it would entrench the largest incumbents by limiting new competing capacity. A coalition of California-based AI startups sent a letter to Stern on Thursday morning urging amendments that would exempt facilities operated by companies below a defined revenue threshold.
+
+The federal bill, meanwhile, remains scheduled for a House Ways and Means markup on April 22. Internal vote counts circulated by industry lobbyists this week put the panel at 24 likely no votes and 21 likely yes — a margin that industry officials describe as comfortable but not decisive. Sanders and Ocasio-Cortez allies dispute the count and said Thursday that grassroots pressure into committee offices had intensified since the state bills cleared committee.
+
+Krueger told reporters in Albany on Thursday evening that she expected a New York floor vote "within three weeks" if the bill cleared the Senate Finance Committee, and that she had spoken with Stern about coordinating timing. Stern's office said additional procedural votes would be scheduled in the coming days.

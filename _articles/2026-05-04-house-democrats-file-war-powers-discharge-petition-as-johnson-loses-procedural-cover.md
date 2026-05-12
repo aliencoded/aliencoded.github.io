@@ -1,0 +1,40 @@
+---
+layout: post-layout
+title: "House Democrats file war powers discharge petition as Johnson loses procedural cover"
+date: 2026-05-04 12:00:00 -0500
+lastUpdated: 2026-05-04 12:00:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, us, congress, war-powers, white-house, midterms, index]
+image: https://images.unsplash.com/photo-1690848012121-4752eaffbf98?q=80&w=1600&auto=format&fit=crop
+excerpt: "House Democrats filed a discharge petition Monday to force a floor vote on the Senate-passed Iran war powers resolution, opening the week with 174 signatures and a public commitment from at least six Republicans to add their names by Wednesday."
+---
+
+House Democrats filed a discharge petition shortly after the chamber gaveled in Monday afternoon to force a floor vote on the Senate-passed Iran war powers resolution, opening the week with 174 signatures and a public commitment from at least six Republicans to add their names by Wednesday — a tally that, if it holds, would strip Speaker Mike Johnson of his ability to keep the measure bottled in the Rules Committee through the Memorial Day recess.
+
+The petition, filed by Minority Leader Hakeem Jeffries of New York with Rep. Theresa Holloway of Michigan as lead co-signer, seeks to discharge House Joint Resolution 64 — the chamber's version of the Kaine-Lee resolution that cleared the Senate 58-42 on Friday — from the Rules Committee and bring it directly to a floor vote. Under House rules, 218 signatures would compel a vote within seven legislative days, a clock that, if started this week, would expire May 18.
+
+By 5 p.m. Monday, the petition carried 174 names, all Democrats, according to a running tally maintained by the Democratic Whip's office and posted to the Clerk's discharge calendar. Six House Republicans — Reps. Don Bacon of Nebraska, Brian Fitzpatrick of Pennsylvania, Mike Lawler of New York, Maria Salazar of Florida, Nicole Malliotakis of New York and David Joyce of Ohio — had each told reporters or issued statements over the weekend committing to sign by Wednesday. Five of the six also signed the Iran war commission petition that cleared 218 signatures Thursday, and the sixth, Malliotakis, said in a Sunday statement that her decision to back the war powers measure followed "weekend conversations with district veterans' families that I cannot in good conscience set aside."
+
+"We are not asking anyone in this chamber to refight the war," Jeffries said at a brief afternoon news conference in the Rayburn foyer, flanked by Holloway and Reps. Pete Aguilar of California and Katherine Clark of Massachusetts. "We are asking this chamber to do what the Senate already did on Friday with seven Republican votes — affirm that the war power belongs to Congress and that this question will be settled on the record, not on the speaker's calendar."
+
+Johnson, in remarks to reporters outside his second-floor office shortly after the petition was filed, declined to commit to a floor vote and said the Rules Committee would "consider the resolution in due course alongside the appropriations package the Senate is currently amending." Asked whether he would honor a fully signed discharge petition, Johnson said he would "follow the rules of the House" but did not elaborate.
+
+Inside the GOP conference, the speaker's resistance is fraying along the same fault line that produced last week's House supplemental fight. A bloc of roughly 18 Republicans, organized around Fitzpatrick and Bacon, has pressed leadership for a standalone war powers vote attached to no other legislation, arguing that bundling it with appropriations would compromise the resolution's symbolic and legal weight. A second, smaller bloc of roughly nine Republicans — concentrated among members of the House Freedom Caucus and led by Rep. Chip Roy of Texas — has urged Johnson to attach a sense-of-the-House provision repudiating the resolution's legal premise to any floor vehicle that carries it.
+
+"The speaker has two problems and they pull in opposite directions," said Carlos Vega, a former House Republican leadership aide now at the American Enterprise Institute. "He can't keep this off the floor without losing his moderates, and he can't put it on the floor clean without losing his right flank. The discharge petition resolves that tension for him by taking the choice out of his hands — which is precisely why some of his members will sign it."
+
+The petition's path is complicated by a separate procedural fight over the administration's $89.4 billion war supplemental, which the Senate began amending Monday morning and which Senate Appropriations Chair Susan Collins of Maine said she now expects to pass the upper chamber "no later than Friday." Collins's substitute amendment, circulated Sunday night, would raise the topline to roughly $94.6 billion, add $1.8 billion in Defense Health Agency mental health funding for returning service members, create an inspector general for Iraq and Gulf reconstruction, and condition $4.2 billion in unobligated Iran-theater funds on a quarterly certification by the Defense Secretary that no offensive operations are being conducted absent congressional authorization.
+
+The certification language, drafted in consultation with Sens. Tim Kaine of Virginia and Mike Lee of Utah, has drawn vocal opposition from the White House, which views it as a back-door codification of the war powers resolution. Two senior administration officials, speaking on condition of anonymity to describe internal deliberations, said the president's legislative team had spent the weekend pressing Senate Republicans to strip the provision in floor amendments expected Tuesday.
+
+"The certification clause is the war powers resolution by other means," one of the officials said. "It would be irresponsible of the executive branch not to oppose it, and it will be opposed."
+
+President Donald Trump, in a Truth Social post at 9:14 a.m. Monday, called the discharge effort "a political stunt by losers who couldn't stop the war and now want to relitigate it" and said any House Republican signing the petition was "running against the people who delivered peace." A senior White House aide, asked about the post in the afternoon briefing, said the president "speaks for himself" and declined to characterize the administration's vote count on the resolution itself.
+
+The discharge petition's near-term arithmetic remains tight. With 174 Democratic signatures Monday and six publicly committed Republican signatures, organizers need 38 additional names to reach 218. House Democratic leadership aides said 32 of the chamber's 213 Democrats had not yet signed as of Monday evening, including 11 members representing districts Trump won in 2024. Aguilar, the Democratic Caucus chair, said leadership expected "the overwhelming majority" of those holdouts to sign by Wednesday.
+
+If the petition crosses 218 this week, a floor vote on the resolution would occur no later than May 14 under House rules — three days before the Senate's planned recess and roughly two weeks before Memorial Day, the informal deadline Speaker Johnson has set for clearing the war supplemental from the lower chamber.
+
+A vote whip count circulated by Holloway's office Monday evening estimated that, on the floor, the resolution would carry 232-203, with 20 Republicans joining all 213 Democrats. Holloway, in a brief statement, said the count was "deliberately conservative" and that her office had identified an additional 14 Republicans "in active conversation." Administration officials, asked Monday whether the president would veto the resolution if it cleared both chambers, said the White House counsel's office was "reviewing all options," a phrase senior aides said reflected continued debate over whether to allow the measure to become law without a signature.
+
+Holloway said she expected the petition to clear 218 by Wednesday afternoon and that a floor vote could come as early as next Tuesday. "We will give the speaker every opportunity to do this the regular way," she said. "If he does not, we will do it the other way."

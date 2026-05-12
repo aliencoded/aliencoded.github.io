@@ -1,0 +1,36 @@
+---
+layout: post-layout
+title: "NVIDIA order book balloons as hyperscalers front-load chip buys ahead of megacap earnings"
+date: 2026-04-27 15:00:00 -0500
+lastUpdated: 2026-04-27 15:00:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, tech, ai, semiconductors, earnings, supply-chain, index]
+image: https://images.unsplash.com/photo-1680992046626-418f7e910589?q=80&w=1600&auto=format&fit=crop
+excerpt: "Forecasters are walking up second-half estimates for NVIDIA after a flurry of late-quarter orders from cloud providers eager to demonstrate momentum before Microsoft and Alphabet report this week."
+---
+
+NVIDIA's order book for its top-tier Blackwell-class accelerators has swelled by more than $18 billion since the Sanders-Ocasio-Cortez moratorium died in the House five days ago, according to channel checks circulated to clients of three Wall Street semiconductor desks on Monday, as the largest U.S. cloud providers race to lock in second-half chip allocations before reporting earnings later this week.
+
+The pull-forward, described to clients in research notes from Morgan Stanley, Bernstein and Mizuho, comes ahead of what is shaping up to be the highest-stakes megacap earnings cycle in more than a year. Microsoft reports Wednesday after the close, Alphabet on Thursday, Meta Platforms next Wednesday and Apple a week from Thursday. Analysts polled by Visible Alpha now expect the four companies combined to guide to roughly $345 billion in 2026 capital expenditure, up from $315 billion in March and $290 billion as recently as January.
+
+"The political risk premium that was priced into hyperscaler capex three weeks ago has now come out," wrote Stacy Rasgon, the Bernstein semiconductor analyst, in a note to clients early Monday. "What we are seeing instead is a scramble to demonstrate that the moratorium scare did not cost the industry a single quarter of compute build. NVIDIA is the most direct beneficiary, and the supply chain behind it is going to feel this through year-end."
+
+NVIDIA shares climbed 3.2 percent in early New York trading, leading the Philadelphia Semiconductor Index up 2.1 percent. Broadcom, which supplies custom inference silicon to Google and Meta, rose 2.7 percent. Taiwan Semiconductor Manufacturing Co., whose Arizona Fab 21 produces the bulk of advanced packaging for U.S. customers, gained 1.9 percent in pre-market American depositary receipt trading after rising 4.4 percent in Taipei overnight. The Nasdaq Composite opened up about a third of a percent, paring some of those gains by midmorning as traders awaited a stretch of consumer-data releases later in the week.
+
+The order acceleration is the clearest evidence yet that the federal moratorium fight — which dominated industry lobbying for most of April — has given way to a different kind of contest. With the bill dead in Washington but New York, California and Virginia preparing state-level interconnection reviews, hyperscaler executives have concluded that the way to demonstrate momentum is to convert backlog into installed compute as quickly as possible.
+
+"There is a window right now where you can still place orders for second-half delivery and have them count toward your 2026 deployed footprint," said Daniel Chen, a former Amazon Web Services capacity-planning manager who now runs a data-center advisory firm in Bellevue. "Six months from now, with state reviews in motion, that math gets a lot harder. Everyone in the room knows it."
+
+NVIDIA declined to comment on specific customer orders, citing its quiet period ahead of its own earnings report next month. A spokesperson said only that "demand for our Blackwell platform continues to outpace supply, and we are working closely with our manufacturing partners to accelerate where we can." TSMC similarly declined to comment on customer-level shipments, though Chief Executive C.C. Wei said on the company's Apr. 17 earnings call that advanced-packaging capacity was "fully booked through the second quarter of 2027."
+
+The supply-side picture is the part of the story that worries analysts. Advanced packaging — specifically the CoWoS process that combines logic dies, high-bandwidth memory and silicon interposers into a single accelerator package — remains the principal bottleneck, and TSMC's expansion plans in Taiwan and Arizona have repeatedly slipped relative to the company's 2024 guidance. High-bandwidth memory itself is dominated by SK Hynix, Samsung and Micron Technology, with SK Hynix shipping the bulk of HBM3E volume to NVIDIA. Three people familiar with current allocations said SK Hynix has already committed roughly 70 percent of its 2026 HBM output and is negotiating with hyperscalers over 2027 lots that have not yet been priced.
+
+"The order book number that everyone is looking at is real, but it is not deliverable in 2026," said Lina Marquez, a semiconductor analyst at TD Cowen. "What you are watching is a queue forming. The customers who get to the front of that queue this quarter are the ones who will be able to tell investors a clean compute-growth story in 2027. The ones who do not will spend the back half of next year explaining shortfalls."
+
+Among hyperscalers, Microsoft is widely viewed as the most exposed to the supply tightening because of the size of its OpenAI commitments, several of which require dedicated capacity blocks tied to specific data-center sites. Chief Financial Officer Amy Hood is expected to address chip-allocation questions on Wednesday's earnings call, though she is unlikely to disclose customer-specific figures. Alphabet's Ruth Porat is expected to lean on the company's internal Tensor Processing Unit program — which now supplies roughly 45 percent of Google Cloud's accelerator footprint, according to its most recent disclosure — to argue that the company is less hostage to NVIDIA's allocation cycle than its rivals. Meta's Susan Li is expected to highlight the company's own MTIA inference silicon, which began ramping in Meta's Newton, Mississippi data center late last year.
+
+The smaller cloud providers and the so-called neocloud operators — CoreWeave, Lambda, Crusoe and Nebius — are also part of the order push, several brokers said, though their leverage with NVIDIA is more limited. CoreWeave Chief Executive Michael Intrator told an industry conference in Las Vegas on Friday that the company had "added meaningful capacity bookings" since the moratorium vote and would "give the Street a fuller picture" when CoreWeave reports on May 12.
+
+The energy and grid questions that drove the moratorium debate have not gone away. New York Gov. Kathy Hochul's executive order on hyperscale interconnections, expected later this week, is likely to slow some Northeast buildouts even as the chips themselves arrive. Several analysts cautioned that a divergence is opening between chip-supply momentum and the pace at which new data-center capacity can actually be energized.
+
+NVIDIA is scheduled to report fiscal first-quarter results on May 22. Hyperscaler customers will spend the intervening weeks trying to translate their order positions into the kind of forward-looking capex commentary that has, over the past three quarters, set the tone for the entire technology tape.

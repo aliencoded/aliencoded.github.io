@@ -1,0 +1,38 @@
+---
+layout: post-layout
+title: "Pre-monsoon heat dome pushes South Asia and Gulf into emergency as wet-bulb readings near survivability limits"
+date: 2026-05-12 13:00:00 -0500
+lastUpdated: 2026-05-12 13:00:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, global, climate, weather, public-health, south-asia, index]
+image: https://images.unsplash.com/photo-1594760467013-64ac2b80b7d3?q=80&w=1600&auto=format&fit=crop
+excerpt: "A stalled upper-level ridge has driven temperatures past 49 C across Pakistan, northwest India and the lower Gulf, with hospitals in three countries reporting more than 1,900 heat-related admissions in 72 hours and Iraqi returnee districts ordering daytime work bans."
+---
+
+A stalled upper-level ridge anchored over the Arabian Peninsula and the northern Indian Ocean has driven daytime temperatures past 49 degrees Celsius across Pakistan's Sindh province, northwest India and the lower Gulf, pushing hospital admissions for heat illness into the thousands and triggering emergency public-health orders in five countries on Tuesday, the World Meteorological Organization and national disaster agencies said.
+
+The Pakistan Meteorological Department reported that Jacobabad, in northern Sindh, reached 49.6 C on Monday afternoon and recorded an overnight low of 35.4 C, the highest May minimum in its station record. Neighboring Sibi touched 49.1 C on the same day. India's Meteorological Department logged 48.8 C at Phalodi in Rajasthan and 47.9 C at Nagpur, while Kuwait's Mitribah station registered 48.2 C — temperatures more typical of late June than the second week of May. The combined population under official red-category heat alerts now exceeds 480 million people across Pakistan, India, Iraq, Kuwait and the eastern United Arab Emirates.
+
+Health ministries in Pakistan, India and Iraq said hospitals had logged more than 1,900 admissions tied to heatstroke, severe dehydration or cardiac events linked to the heat over the 72 hours ending Tuesday morning, with at least 84 confirmed deaths — a figure officials cautioned would rise as district reports from rural areas filtered up through the week. Karachi's Civil Hospital, the largest public facility in Pakistan's commercial capital, said its emergency department had taken in 312 heat patients since Saturday and was operating at 140 percent of normal bed capacity in its acute wards.
+
+"What is unusual is not the peak temperature, it is the combination of the peak with the humidity and the nighttime floor," said Dr. Fahad Saeed, a climate scientist with Climate Analytics in Islamabad. "Wet-bulb readings out of the lower Indus basin have been running at 31 and 32 degrees through the afternoons. We are inside the band where healthy adults working outdoors cannot shed heat fast enough to keep core temperature stable. The body does not get a recovery window after sunset because the nights are not cooling."
+
+The wet-bulb temperature — a combined measure of heat and humidity that determines whether sweating can cool the human body — has emerged as the central concern of forecasters tracking the event. The theoretical survivability ceiling for prolonged exposure is generally placed at 35 C; sustained readings of 31 to 33 C, observed Monday at coastal stations in Sindh, southern Iraq and Bandar Abbas, are sufficient to cause heatstroke in vulnerable populations within four to six hours.
+
+In Pakistan, the federal disaster management authority extended a daytime outdoor-work ban first issued for Sindh on Saturday to cover Punjab south of Multan, ordering construction, agricultural and informal-sector employers to halt outdoor work between 11 a.m. and 5 p.m. through Friday. Grid operators in Karachi reported voltage drops and rolling outages in several residential districts as air-conditioning demand surged.
+
+India's National Disaster Management Authority issued a red alert for 47 districts across Rajasthan, Madhya Pradesh, Vidarbha and southern Uttar Pradesh, suspending in-person schooling through May 16. Indian Railways positioned additional water-tanker rakes at 22 stations across the affected belt after a passenger died Sunday on a delayed train near Kota.
+
+The heat dome has compounded an already-strained recovery picture in Iraq's south, where returnees from war-displacement sites continue to move back into communities only partially rewired after spring power damage. Iraq's health ministry reported 460 heat-related hospital presentations in Basra, Maysan and Dhi Qar governorates since Saturday, including 18 deaths. The U.N. High Commissioner for Refugees said it had accelerated cooling-tent deployments at four transit sites near Basra and was rerouting bottled-water shipments originally bound for Yemen.
+
+"We are doing this on the same logistics arteries we just got operational two weeks ago for returnees," said Layla Hassan, a Beirut-based regional analyst with the International Crisis Group's humanitarian-affairs program. "Generators that were brought online for clinics and water-treatment plants are now also running cooling centers. A second compound shock on top of an already-fragile recovery is exactly the scenario aid coordinators have been warning donors about."
+
+In the Gulf, the UAE's Ministry of Human Resources said it would extend its annual midday outdoor-work ban — normally beginning June 15 — to start immediately, and Kuwait's Council of Ministers ordered government offices to switch to a 6 a.m. to noon schedule beginning Wednesday.
+
+Climate scientists said the persistence of the ridge, more than the single-day peaks, was the defining feature of the event. The European Centre for Medium-Range Weather Forecasts said the 500-hectopascal anomaly over the region had been running more than three standard deviations above the 1991–2020 climatology for nine consecutive days, a duration without a clear analog in the satellite era for the pre-monsoon window. Forecasters expected the ridge to begin breaking down on Friday as a Mediterranean trough pushed east into Iran, with the Indo-Pakistan plain unlikely to see meaningful cooling before Sunday.
+
+The World Health Organization's Geneva headquarters convened an emergency coordination call with health ministries from eight affected countries on Tuesday morning, and said it was releasing standby contingency funding to Pakistan, Iraq and India for oral rehydration salts, electrolyte solutions and portable cooling equipment. "We are watching for a mortality signal that will not be fully visible for another two to three weeks," said Dr. Maria Neira, the WHO's director for environment, climate change and health, on the call's public briefing. "Excess-death analyses from the 2022 and 2024 South Asian heat events suggest the official tallies in real time capture perhaps a third of the actual toll."
+
+Agricultural economists at the Asian Development Bank warned that wheat already harvested and sitting in open storage across the Punjab grain belt could lose quality grade if humidity stayed elevated under the ridge, and parametric heat-coverage products piloted in Rajasthan and Sindh since 2024 appeared likely to trigger payouts this week if temperature thresholds held through Thursday.
+
+Forecasters said the next 72 hours would be the most dangerous of the event for the Indus basin, and urged residents to treat overnight hours as the critical intervention window for vulnerable family members. Additional emergency measures, including possible suspension of intercity rail in worst-affected corridors, would be announced as district health authorities completed Tuesday's hospital-load assessments.

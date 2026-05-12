@@ -1,0 +1,40 @@
+---
+layout: post-layout
+title: "Stocks Grind Higher, Brent Near $94 as Tech Earnings Week Opens on Firmer Footing"
+date: 2026-04-21 09:05:00 -0500
+lastUpdated: 2026-04-21 09:05:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, business, markets, oil, earnings, index]
+image: https://images.unsplash.com/photo-1560221328-12fe60f83ab8?q=80&w=1600&auto=format&fit=crop
+excerpt: "Global equities edged higher and crude prices slipped to fresh post-ceasefire lows Tuesday as investors entered the busiest week of first-quarter earnings with the Iran ceasefire holding into its seventh day."
+---
+
+Global equity benchmarks pushed higher in early Tuesday trading and Brent crude slipped to its lowest level in nearly seven weeks as investors leaned into the busiest stretch of first-quarter earnings, encouraged by a sixth straight session of calm along the Strait of Hormuz and a clean opening for the second tranche of the Doha prisoner exchange.
+
+S&P 500 futures pointed to an opening gain of 0.6%, building on Monday's 1.1% advance that lifted the index to within a single percentage point of its pre-war level. The Stoxx Europe 600 traded 0.8% higher by mid-morning London time, led by banks and industrials, while Japan's Nikkei 225 closed up 1.4% and Hong Kong's Hang Seng added 1.9%. The MSCI All-Country World Index is now positive for the year-to-date for the first time since March 4.
+
+Brent crude for June delivery traded at $94.10 a barrel, down $1.20 on the session and roughly 24% below its late-March peak. West Texas Intermediate slipped to $90.30, briefly trading with an $89 handle in early Asian hours before recovering. The slide carried prices below the $95 level that several large dealers had described last week as a near-term floor and reopened the debate about how quickly the war-risk premium could fully unwind.
+
+"At $94 you are essentially back to the pre-war fundamental range plus a thin geopolitical buffer," said Maya Bergstrom, a markets strategist at Nordea in Stockholm. "The OPEC+ barrels from the April 1 hike are starting to land in the physical market, U.S. SPR refilling has not yet returned in size, and demand readings out of Asia have been steady rather than spectacular. That is a recipe for a $90 to $95 trading range, and a test of $90 is now plausible by mid-May if the ceasefire continues to hold."
+
+The second-tranche prisoner handover, which was completed Sunday in Erbil under Iraqi and Qatari mediation, returned 27 civilian detainees held in Syria and northern Iraq to their respective governments and was characterized by Western diplomats as a successful follow-on to Saturday's larger Doha exchange. A senior State Department official, speaking on condition of anonymity, said the handover had cleared "the most procedurally difficult" item on the ceasefire's confidence-building list and that attention would now turn to a phased drawdown of U.S. Navy assets in the eastern Mediterranean.
+
+That backdrop set up what strategists are calling the most consequential earnings week of the cycle. More than 180 S&P 500 companies are scheduled to report between Tuesday and Friday, including Microsoft, Alphabet, Meta Platforms and Tesla on Wednesday and Thursday, and ExxonMobil, Chevron and several major airlines on Friday. Apple's results, originally slated for Thursday, were pushed to the following Tuesday during the war and remain there.
+
+"This is the week the market finds out whether guidance for the second quarter is going to absorb the war's fuel-cost overhang or look past it," said John Reilly, head of commodities strategy at Citi, in a note to clients Monday evening. "We think the message from energy and transports will be cautious, but the hyperscalers have an opportunity to reset the narrative, particularly if capex commentary on data-center buildout holds at the elevated levels we have seen all year."
+
+Bank earnings last week set a mixed tone. JPMorgan Chase, Wells Fargo and Citigroup all beat on the top line, lifted by trading revenue during the war's peak volatility, but each guided net interest income modestly lower and increased loan-loss provisions in commercial real estate and small-business lending. Goldman Sachs, reporting Friday, said its commodities desk had its strongest March quarter in more than a decade, an unusually direct acknowledgment of how the firm had positioned through the Iran conflict.
+
+Tuesday's pre-market roster was thinner but closely watched. General Electric reported a 14% rise in aerospace orders and reaffirmed full-year guidance. United Airlines, which announces after the close, was expected to detail the cost of its mid-March route rerouting program and to update on the resumption of Tel Aviv and Dubai services that were suspended for much of the war. The shares of major U.S. carriers, which had been among the worst performers in the S&P 500 through April, traded 2% to 4% higher Monday.
+
+Currency and rates markets continued the post-ceasefire drift. The dollar index slipped a further 0.2% to its lowest level since mid-January, with the euro climbing back above $1.10 for the first time since February. The Japanese yen strengthened to 147.80 per dollar. Two-year U.S. Treasury yields rose three basis points to 4.41% as money markets nudged the implied probability of a June Federal Reserve rate cut down to 38% from 46% a week earlier, reflecting the partial reversal of the wartime flight-to-quality bid.
+
+Gold, which had reached $2,890 an ounce on April 9, traded at $2,344 Tuesday morning, its lowest level since early February. Silver and platinum, both of which had outpaced gold during the war, gave back further ground. The Bloomberg Commodity Index was 0.4% lower on the session and is down nearly 8% from its early-April peak.
+
+Shipping markets, which began normalizing within hours of the ceasefire announcement, continued to lead the broader recovery. The Baltic Dirty Tanker Index closed Monday at its lowest level since February 21. War-risk insurance premiums on Hormuz transits, quoted at 0.7% of hull value Friday, were marked at 0.55% in early Tuesday circulars from the marine broker Howden, according to two underwriters with direct knowledge of the rates. Maersk and CMA CGM said over the weekend they would begin returning select Asia-Europe services to Suez routing in early May, conditional on continued Houthi restraint, though both carriers cautioned that container rates would not return to pre-war norms before the third quarter.
+
+In Asia, the People's Bank of China set the yuan's reference rate at its strongest level against the dollar since January. Officials at the Bank of Japan, in remarks at a regular policy briefing in Tokyo on Tuesday, said the easing of energy prices would feed through to consumer inflation "with a lag of one to two quarters" and reiterated that the central bank's normalization path remained on track. The Reserve Bank of Australia, by contrast, signaled in minutes released Tuesday that it remained alert to second-round wage effects from the wartime fuel spike.
+
+Reconstruction-themed equities were among the strongest performers in European morning trade. Shares of CRH, Holcim and Saint-Gobain rose between 2% and 4% on continued speculation about contracts for rebuilding work in southern Iraq, Yemen and parts of Iran's industrial corridor. A senior official at the European Bank for Reconstruction and Development, speaking ahead of next week's Marseille reconstruction conference, said the institution was preparing to announce an initial financing envelope of "several billion euros" for projects across the war-affected region.
+
+Traders said the next set-piece events would be Microsoft and Alphabet earnings on Wednesday afternoon, the second OPEC+ technical committee meeting of the month on Thursday, and Friday's preliminary U.S. first-quarter gross domestic product release. Officials at the Treasury Department said additional details on the resumption of SPR refilling and the management of the wartime drawdown would be released alongside the monthly refunding statement in early May.

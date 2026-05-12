@@ -1,0 +1,40 @@
+---
+layout: post-layout
+title: "Early-season wildfires erupt across Southwest as drought and wind event strain firefighting resources"
+date: 2026-05-04 13:00:00 -0500
+lastUpdated: 2026-05-04 13:00:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, global, climate, weather, wildfires, united-states, index]
+image: https://images.unsplash.com/photo-1584820537082-8e19daff36bd?q=80&w=1600&auto=format&fit=crop
+excerpt: "A cluster of fast-moving wildfires fueled by a record-dry winter and a multi-day downslope wind event has burned more than 180,000 acres across Arizona, New Mexico and southern Colorado, forcing evacuations in 14 communities and stretching federal firefighting crews barely a month into the western fire calendar."
+---
+
+A cluster of fast-moving wildfires fueled by a record-dry winter and a multi-day downslope wind event has burned more than 180,000 acres across Arizona, New Mexico and southern Colorado over the past 96 hours, forcing evacuations in 14 communities and stretching federal firefighting crews barely a month into the official western fire calendar, the National Interagency Fire Center said Monday.
+
+The largest of the active fires, the Coronado Ridge complex south of Show Low, Arizona, had grown to 74,200 acres by Monday morning with 8 percent containment, after a single afternoon run on Sunday pushed flames more than nine miles east through ponderosa pine and pinyon-juniper stands left brittle by a snowpack that finished the winter at 38 percent of normal. Fire managers ordered a Type 1 incident management team to assume command Sunday night and requested additional resources from California and the Pacific Northwest.
+
+"What we are seeing in early May looks much more like a late-June fire environment," said Bryce Tanaka, the federal incident commander on the Coronado Ridge fire, at a morning briefing in Springerville. "Fuel moistures in the live timber are running where we would normally see them after the monsoon failure of a bad summer. The wind did the rest."
+
+The Southwest Coordination Center in Albuquerque said it was now managing 11 active large fires across its region, the highest May 4 tally in its 22 years of standardized record-keeping. Two of those fires — the Vallecitos in northern New Mexico and the Spring Creek in Colorado's Huerfano County — crossed the 30,000-acre threshold over the weekend after a Pacific trough drove sustained winds of 35 to 50 miles per hour across the Mogollon Rim and the southern Sangre de Cristos on Saturday and Sunday.
+
+Mandatory evacuations were in place Monday for the Arizona communities of Pinetop-Lakeside, Vernon and parts of Eagar; for the New Mexico villages of Truchas, Ojo Sarco and Las Trampas in Rio Arriba County; and for ranching corridors south of La Veta, Colorado. The American Red Cross said it had opened nine shelters across the three states and was housing roughly 1,400 evacuees as of Sunday night, with the largest concentrations at fairgrounds in Holbrook and Las Vegas, New Mexico.
+
+Arizona Gov. Katie Hobbs declared a statewide fire emergency Sunday evening and mobilized 600 National Guard members to support evacuation traffic control, shelter operations and aviation logistics at staging fields in Flagstaff and Winslow. New Mexico Gov. Michelle Lujan Grisham followed with a parallel declaration covering nine counties, and Colorado Gov. Jared Polis added Huerfano, Las Animas and Costilla to an existing wildfire emergency order. The White House said early Monday that President Donald Trump had directed the Department of Agriculture and Department of the Interior to expedite federal firefighting resource requests from all three states.
+
+The conditions that produced the outbreak have been building for months. The Climate Prediction Center said the four-state region of Arizona, New Mexico, southern Utah and southern Colorado closed the cool season with its second-driest October-through-April stretch on record, behind only 2017–18. The U.S. Drought Monitor's most recent map, issued last Thursday, classified more than 62 percent of the Southwest as in extreme or exceptional drought, the two most severe categories.
+
+"The setup was sitting there in plain sight," said Dr. Park Williams, a hydroclimatologist at the University of California, Los Angeles who studies aridification in the interior West. "You had a failed winter, fuels that never recharged, and an unusually strong late-spring lee-side wind event lined up against the eastern flanks of the Mogollon and the Sangre de Cristos. The fire weather forecasters at Albuquerque flagged the red-flag windows days out. The fires came in on schedule."
+
+Smoke from the fires reached as far north as Denver and as far east as the Texas Panhandle over the weekend, with air-quality monitors in Albuquerque, Santa Fe and Flagstaff registering "very unhealthy" readings on the Environmental Protection Agency's index for portions of Sunday afternoon. State health officials in New Mexico urged residents with respiratory or cardiac conditions to remain indoors and distributed roughly 40,000 N95 masks through county public-health offices over the weekend.
+
+One civilian fatality has been confirmed. The Apache County, Arizona, sheriff's office said a 71-year-old man died Saturday night when he returned to his evacuated property south of Vernon to retrieve livestock and was overtaken by the fire's leading edge. Three firefighters have been hospitalized with non-life-threatening burns and heat injuries, including two members of a Bureau of Land Management hotshot crew based out of Silver City.
+
+The early start to the western fire year has reignited a long-running debate over federal preparedness. The U.S. Forest Service said roughly 11,200 of its targeted 11,600 wildland firefighter positions had been filled as of May 1, an improvement over the same point last year, but acknowledged that crew rotations had not yet ramped to peak-season staffing. "We are deploying out of a posture that assumes the season starts in late May, not the last week of April," said Forest Service Chief Randy Moore in a written statement Monday. "We will adjust." The agency said it was activating an additional three Type 1 teams and 18 Type 2 hand crews from outside the region this week.
+
+In Congress, members of the western state delegations said the outbreak would intensify pressure on negotiators working a long-pending wildfire-management package that has stalled over thinning-policy disputes. Sen. Mark Kelly of Arizona told reporters in Phoenix on Sunday that he intended to push for an immediate supplemental appropriation if initial damage assessments warranted, separate from the larger Iran-war supplemental moving through the chamber. "The country has had a brutal weather year and we are not even to summer," Kelly said.
+
+Insurance industry analysts said it remained too early to estimate losses, but several private modelers said the destruction of structures in Pinetop-Lakeside and around La Veta could push insured damages into the high hundreds of millions of dollars if containment did not improve quickly. Roughly 380 structures, including 240 primary residences, had been confirmed destroyed across the three fires as of Monday morning, according to state forestry and emergency-management agencies.
+
+Forecasters offered a cautiously favorable outlook for the next 48 hours. The National Weather Service's Albuquerque office said winds would ease Monday afternoon as the upper-level trough departed, with humidity recoveries expected overnight across most of the burning country. A weak Pacific system tracking through the Four Corners on Wednesday could deliver scattered showers to the higher elevations, although forecasters cautioned that dry-thunderstorm activity ahead of that system carried its own ignition risk.
+
+Federal officials said additional resource orders, including military aviation support out of Davis-Monthan Air Force Base, would be announced as incident commanders completed Monday afternoon's fire-behavior assessments.

@@ -1,0 +1,38 @@
+---
+layout: post-layout
+title: "Chip Supply Chain Recalibrates as Moratorium Uncertainty Spreads From Hyperscalers to Fabs"
+date: 2026-04-09 15:00:00 -0500
+lastUpdated: 2026-04-09 15:00:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, tech, ai, ai-moratorium, semiconductors, supply-chain, index]
+image: https://images.unsplash.com/photo-1680992044138-ce4864c2b962?q=80&w=1600&auto=format&fit=crop
+excerpt: "Chipmakers and AI hardware suppliers began trimming forward shipment guidance Thursday as the Senate-passed compute moratorium rippled through the GPU supply chain, with Taiwan Semiconductor, SK Hynix and a handful of optical-networking vendors signaling that hyperscaler order books had begun to soften."
+---
+
+Pressure from the Senate-passed artificial intelligence moratorium reached the chip supply chain in earnest on Thursday, as three of the largest hardware suppliers to the U.S. cloud sector signaled that hyperscaler order books had softened in the seventy-two hours since the bill's passage, and as analysts began rewriting second-half forecasts for an industry that had spent the past two years assuming uninterrupted American demand.
+
+Taiwan Semiconductor Manufacturing Company, which fabricates the advanced graphics processors that anchor every U.S. frontier-model training campus, told analysts on a hastily added Thursday call that its second-half outlook for high-bandwidth-memory-bonded AI packaging volumes was "subject to a wider band of uncertainty than previously communicated." Chief Financial Officer Wendell Huang said the company had not received cancellations but had been asked by "more than one large customer" to delay incremental capacity reservations until clarity emerged from the U.S. House.
+
+The remarks, unusual in their specificity for a Taiwanese chipmaker that ordinarily declines to discuss individual customers, sent the company's American depositary receipts down 3.9 percent in New York trading and contributed to a second consecutive day of declines across the broader semiconductor complex. The Philadelphia Semiconductor Index fell 2.7 percent on Thursday, building on Wednesday's 3.1 percent slide and bringing its two-day loss to its sharpest since the opening week of the Iran war.
+
+SK Hynix, the dominant supplier of the high-bandwidth memory stacks that pair with U.S.-designed graphics processors, issued a brief statement from its Icheon headquarters acknowledging that one previously announced expansion of its Cheongju memory fab — a project tied substantially to U.S. data-center demand — had been moved from "committed" to "under review." A company spokeswoman, Jiyeon Park, declined to identify the customer driving the change but said the decision was "consistent with our usual practice of aligning capital expenditure to visible demand."
+
+The reaction extended to the smaller specialist firms that supply the optical networking, liquid cooling and power-conversion equipment that goes into a frontier training campus. Coherent Corp., which supplies the high-speed optical transceivers used in modern AI clusters, said on a Thursday investor update that visibility into second-half bookings "has degraded" and pulled its full-year revenue guidance from a point estimate to a range. Vertiv, a major supplier of liquid-cooling and power-distribution infrastructure, did not formally update guidance but said in a brief statement that it was "in active conversation with major customers regarding the timing of certain U.S. deployments."
+
+"The supply chain is a slow-motion echo of what happened on the Senate floor on Tuesday," said John Reilly, a senior semiconductor analyst at Citi, in a note circulated to clients Thursday morning. "Order books at the tier-one names did not change overnight. What changed overnight is the price hyperscalers are willing to pay for incremental capacity they may not be able to deploy. That is the conversation now happening at every Tuesday procurement meeting from Santa Clara to Hsinchu."
+
+Reilly's note revised Citi's second-half forecast for U.S. AI-related semiconductor capital expenditure downward by between 8 and 14 percent under a scenario in which the House Ways and Means Committee reports out a bill close to the Senate-passed version. A separate research note from Morgan Stanley analyst Mehmet Aydin, also circulated Thursday, cut the bank's price target for Nvidia by 6 percent and for Broadcom by 4 percent, while leaving Advanced Micro Devices and Marvell unchanged on the view that their non-frontier portfolios provided partial insulation.
+
+Nvidia, whose shares fell 4.6 percent on Wednesday, declined a further 2.8 percent Thursday before paring losses into the close. Chief Executive Jensen Huang, in Washington for a previously scheduled visit, met Thursday morning with three Ways and Means Democrats and a small bipartisan group of senators. A company spokesman, Marcus Lin, declined to characterize the meetings beyond confirming that they had occurred. Two people familiar with one of the conversations said Huang had focused on the bill's threshold definitions and on the question of whether second-tier model training, which sits below the regulated compute ceiling, would remain unaffected in practice.
+
+For chip distributors and the secondary market in GPUs, the week's developments produced a more immediate effect. Two brokers that specialize in resale of last-generation Nvidia accelerators said inquiries from U.S. enterprise customers had risen sharply since Tuesday, while listing prices for surplus H200 boards had drifted higher by between 4 and 7 percent on the largest secondary marketplaces. "It is a textbook hoarding response," said Eduardo Marin, a partner at a Miami-based hardware brokerage. "Buyers are not waiting to find out what the House decides."
+
+The broader market reaction reflected the same uncertainty. The S&P 500 closed down 1.1 percent on Thursday, with the technology sector underperforming, while the dollar slipped against the yen and the Korean won, the latter responding to the SK Hynix announcement.
+
+Supporters of the bill rejected the argument that the legislation would reach beyond U.S. data-center construction. "There is nothing in this bill that prevents Taiwan Semiconductor from selling a wafer, or SK Hynix from selling a memory stack, or Nvidia from selling a board," said Maya Friedrichs, a spokeswoman for Senator Bernie Sanders. "What this bill prevents is the construction of gigawatt-class campuses in places where the grid cannot support them. That is a question of where the chips go, not whether they are made."
+
+Two senior executives at major chipmakers, granted anonymity to discuss customer strategy, said the practical effect of the moratorium would not be to halt sales but to compress the window in which the largest U.S. customers placed their orders. "Our hyperscaler customers will buy what they need to buy in the next ninety days," said one of the executives. "What we lose is the visibility we had into the eighteen months after that. That is the part that hurts."
+
+South Korea's Ministry of Trade, Industry and Energy issued a brief statement Thursday saying it was "monitoring U.S. legislative developments closely" and was in contact with major Korean exporters. A Taiwanese economic-affairs official, speaking on background, said Taipei was watching the House debate "with interest but without alarm."
+
+Industry executives said additional guidance updates would be released as the House schedule clarified, with several companies pointing to their late-April earnings calls as the next likely inflection point.

@@ -1,0 +1,38 @@
+---
+layout: post-layout
+title: "Wall Street Trims AI Capex Forecasts Ahead of Hyperscaler Earnings as Moratorium Uncertainty Clouds Guidance"
+date: 2026-04-10 15:00:00 -0500
+lastUpdated: 2026-04-10 15:00:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, tech, ai, ai-moratorium, earnings, data-centers, index]
+image: https://images.unsplash.com/photo-1770210217380-d78a69acdc77?q=80&w=1600&auto=format&fit=crop
+excerpt: "Sell-side analysts cut combined 2026 capital spending forecasts for the four largest U.S. cloud providers by an aggregate $34 billion Friday, citing the House moratorium fight and warning that hyperscaler guidance later this month will likely arrive with unusually wide ranges."
+---
+
+Sell-side equity research desks marked down their combined 2026 capital expenditure forecasts for the four largest U.S. cloud providers by an aggregate $34 billion on Friday, the steepest single-week revision of the cycle, as analysts braced clients for hyperscaler earnings calls that they said would almost certainly carry the heaviest legislative overhang the sector had faced since the 2018 antitrust wave.
+
+The cuts, distributed across notes published Thursday evening and Friday morning by Morgan Stanley, Jefferies, Wedbush Securities, Bernstein and Citi, reduced the consensus 2026 combined capex line for Microsoft, Alphabet, Amazon and Meta from roughly $462 billion to roughly $428 billion. Analysts attributed the revision almost entirely to the Sanders-Ocasio-Cortez moratorium bill, now in House Ways and Means deliberation, and to what several research notes described as a sharply elevated probability that the legislation, or some materially binding compromise version of it, will reach the president's desk before the third quarter.
+
+Microsoft is scheduled to report fiscal third-quarter results April 22, with Alphabet following April 23, Meta April 28 and Amazon May 1. Nvidia, which is on a different fiscal calendar, will not report until late May, but its trading has tracked the hyperscaler complex closely over the past two weeks and several desks noted that the firm's annual GTC investor day, scheduled for April 14, will be the first major company-hosted forum at which executives address the post-Senate-vote landscape.
+
+"Guidance ranges in this print are going to be the widest we have seen in a decade," wrote Brent Thill, the Jefferies software analyst, in a Friday morning note to clients. "Management teams cannot tell you with any precision what their 2027 build looks like because the bill is not yet a law and is not yet a final text, and they cannot pretend otherwise on a public call. We expect each of the four to widen their fiscal-year capex guidance corridor by at least 15 percent."
+
+The revised numbers landed in a market already absorbing a difficult two weeks. The Philadelphia Semiconductor Index closed Friday 11.4 percent below its level on the eve of the April 7 Senate vote. The Nasdaq 100 finished the week down 4.8 percent, although a Friday afternoon rally on improving signals from the Islamabad cease-fire talks pared the worst of the decline. Microsoft closed the week down 6.2 percent, Alphabet 5.4 percent, Amazon 4.7 percent and Meta 3.9 percent. Nvidia, which has been the most volatile of the AI complex through the entire moratorium cycle, finished the week down 8.1 percent.
+
+Behind the headline cuts lay a more nuanced picture. Several of the same research desks raised their 12-month price targets on a handful of names within the broader complex, citing what Citi's Tyler Radke described as "an underappreciated bifurcation" between companies whose growth profile depends most directly on new domestic data center construction and those whose business mix is weighted toward software, services and existing capacity utilization. Citi raised its price target on Salesforce by $14 and on ServiceNow by $22 in the same package of notes that cut its Microsoft capex forecast by $11 billion.
+
+"The market is doing the work of a regulator three months before the regulator does the work," said Priya Anand, the Wedbush managing director who covers the cloud sector. "Investors are essentially saying: if Congress is going to cap the rate at which new training capacity comes online, then the marginal dollar of return shifts to companies that monetize installed compute, not companies that build new compute. That is a real reallocation, and it is happening in front of us."
+
+Microsoft, Alphabet, Amazon and Meta all declined to comment on the analyst revisions, citing pre-earnings quiet-period policies. A senior finance executive at one of the four, who requested anonymity because the company is in its pre-earnings window, said the firm's investor relations team had received "an unprecedented volume" of analyst inquiries in the past 72 hours seeking clarification on the company's exposure to specific provisions of the Senate-passed text, particularly the bill's licensing regime for training runs above defined compute thresholds.
+
+The same executive said the company was preparing two distinct guidance scenarios for the April call, one assuming the bill dies in Ways and Means and one assuming a modified version reaches enactment by midsummer, and that the company was still debating internally whether to present both ranges to investors or to pick one and footnote the alternative.
+
+The analyst cuts also resonated through the AI infrastructure supply chain. Shares of Vertiv, the data center cooling and power equipment provider, fell 9.7 percent on the week. Eaton declined 6.3 percent. Schneider Electric's U.S.-listed shares fell 5.1 percent. Two privately held small modular reactor developers with announced hyperscaler offtake agreements told MetaCurrents that follow-on funding conversations with growth-equity investors had been paused pending clarity on the bill's treatment of behind-the-meter generation.
+
+Not every desk took the bearish view. Bernstein's Stacy Rasgon, in a note that drew significant push-back on the trading floor Friday afternoon, argued that the market was overweighting the political risk and underweighting what he called the "binding-floor effect" of the hyperscalers' expanded infrastructure commitments. "If the House process produces a bill that codifies what the industry has already volunteered — quarterly transparency disclosures, grid-investment commitments, water caps — and exempts existing pipelines from the licensing regime, the marginal capex impact is materially smaller than the headlines imply," Rasgon wrote.
+
+That view, several traders said, was a minority position by Friday's close. The CBOE volatility index for the Nasdaq 100 finished the week at its highest level since the second week of the Iran war.
+
+Analysts said the next ten days would be unusually consequential for a normally quiet pre-earnings stretch. The Ways and Means Committee is expected to release a witness list and probable markup schedule on Monday. The American AI Coalition's expanded commitment package, which two coalition advisers said would include a binding industry-wide cap on aggregate U.S. training-campus electricity consumption tied to grid-capacity additions, is expected to be unveiled before that markup begins. Nvidia's GTC keynote on Tuesday, originally framed as a product event, has been substantially restructured to address regulatory and policy questions, two people briefed on the agenda said.
+
+"Earnings season this quarter is going to be a referendum on whether the industry can hold a coherent capital plan together while Congress decides what the rules are," Anand said. "Nobody on a buy-side desk thinks that is going to be tidy."

@@ -1,0 +1,38 @@
+---
+layout: post-layout
+title: "Ankara Stakes Claim on Iran-Iraq Reconstruction as Erdogan Pitches Turkey as Indispensable Corridor"
+date: 2026-04-22 16:00:00 -0500
+lastUpdated: 2026-04-22 16:00:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, global, turkey, reconstruction, middle-east, diplomacy, index]
+image: https://images.unsplash.com/photo-1776248783518-400b6d0da64c?q=80&w=1600&auto=format&fit=crop
+excerpt: "President Erdogan opened a two-day regional reconstruction forum in Ankara on Wednesday, pressing the case for Turkish construction firms, road corridors and ports to anchor the rebuild of Iran and Iraq before the Marseille donor conference convenes next month."
+---
+
+ANKARA — President Recep Tayyip Erdogan opened a two-day regional reconstruction forum at the Cankaya Palace on Wednesday with a blunt sales pitch to visiting Iraqi, Iranian and Gulf delegations: any credible plan to rebuild the territories scarred by the six-week Iran war will have to move through Turkish ports, Turkish trucks and, in many cases, Turkish balance sheets.
+
+The forum, attended by deputy prime ministers from Iraq and Iran, the foreign ministers of Qatar and Oman and senior officials from the United Arab Emirates and Saudi Arabia, was timed pointedly to land two weeks before the European Union and France convene their own Marseille reconstruction conference in early May. Turkish officials, who briefed reporters on background ahead of the opening session, made little effort to disguise the competitive intent: Ankara wants its bid in front of regional capitals before Brussels can frame the agenda.
+
+"Reconstruction is not an abstraction. It is cement, it is rebar, it is electrical wire, it is the diesel that moves all of it across borders," Erdogan told the opening plenary, according to a translation circulated by the presidency. "Geography has placed Turkey at the center of every supply line that matters for this rebuilding. We are prepared to act as a partner, not as a contractor of last resort."
+
+The forum's working agenda, a copy of which was reviewed by reporters in Ankara, lists three corridors that Turkish planners have begun stress-testing for sustained reconstruction traffic: the Habur crossing into Iraqi Kurdistan, which carried roughly 60 percent of overland humanitarian flows during the war; the Bazargan corridor into Iranian Azerbaijan, which has handled refugee returns over the past week; and a longer-term proposal to upgrade the Gurbulak-Bazargan rail link in coordination with Iranian Railways, a project that had been dormant since 2023.
+
+Foreign Minister Hakan Fidan, who chaired the working sessions, framed Turkey's pitch in terms of logistics rather than politics. "We do not ask for a seat at any table that does not already exist," Fidan said at a midday press availability. "We ask only that the tables which do exist recognize what is geographically self-evident. Goods that arrive in Mersin or Iskenderun can be in Baghdad in 48 hours and in Tehran in five days. That is not a claim. That is a logbook."
+
+Iraqi Deputy Prime Minister Mohammed Ali Tamim, who leads Baghdad's reconstruction task force, told the plenary that Iraq was prepared to sign framework memoranda with Turkish construction firms covering an initial $4.2 billion in priority rebuilding around Basra, the southern oil fields and the Mosul-Baquba power corridor, contingent on financing arrangements being finalized at Marseille. He declined to specify which Turkish firms had been shortlisted, but Turkish industry sources named Limak Holding, Cengiz Insaat and Tekfen as the most active bidders.
+
+Iran's delegation, led by Deputy Foreign Minister Ali Bagheri Kani, was more cautious in public remarks, emphasizing what officials called "the principle of Iranian agency" over reconstruction inside its borders. In a closed-door session, however, two officials briefed on the discussions said Tehran had signaled openness to Turkish involvement in three areas: the rebuilding of damaged refining capacity at Tabriz and Isfahan, electrical grid restoration in western provinces, and the resumption of the Tabriz-Ankara natural gas pipeline, which was shut for most of March.
+
+"The Iranians do not want to be seen accepting reconstruction help from European powers they consider co-belligerents," said Sinan Ulgen, a former Turkish diplomat who directs the Istanbul-based Center for Economics and Foreign Policy Studies. "Turkey occupies an unusual position. Ankara was vocal in opposing the strikes, it kept its airspace conditional, and it never broke economic relations with Tehran. That gives Erdogan a credibility with the Iranian system that the Europeans simply do not have. He is using that credibility now, before it depreciates."
+
+The pitch is not without complications. European officials, speaking on background ahead of the Marseille meeting, expressed concern that an Ankara-led track could fragment donor coordination and complicate conditionality on Iranian nuclear cooperation, which European capitals want to anchor to reconstruction disbursements. A senior official in the office of the EU High Representative said European preparations for Marseille "assume a single, coherent framework" and warned that "parallel tracks would not serve anyone, least of all the affected populations."
+
+Turkish officials pushed back sharply against that framing. Vice President Cevdet Yilmaz, who delivered the forum's economic keynote, said Turkey was "not building a parallel architecture" but rather "the load-bearing wall of any architecture that will actually be built." He noted that Turkish exports to Iraq reached $13.8 billion in 2025, more than the combined exports of all EU member states, and that Turkish construction firms held active contracts in Iraq worth $8.6 billion as of the end of the first quarter.
+
+Saudi and Emirati delegations, whose presence Turkish officials had treated as a major diplomatic achievement, kept their public commentary brief. A statement from the Saudi delegation said Riyadh viewed the Ankara forum as "a useful technical exchange" and noted that the kingdom's own reconstruction commitments would be announced at Marseille. Emirati officials emphasized that DP World and Etihad Rail saw "natural complementarities" with Turkish logistics corridors, language that Turkish industry interpreted as openness to joint bids.
+
+On the sidelines, Turkish Treasury and Finance Minister Mehmet Simsek convened a smaller meeting with the heads of the Islamic Development Bank and the Arab Monetary Fund to discuss a proposed reconstruction trust fund denominated in a basket of dirhams, dinars and lira, an arrangement aimed at insulating disbursements from dollar volatility. A senior Treasury official said discussions were "exploratory" but that initial pledges in the range of $2 billion to $3 billion could be announced before the forum closes Thursday evening.
+
+The forum is set to release a joint declaration Thursday outlining principles for cross-border reconstruction coordination, a Turkish-Iraqi-Iranian working group on corridor logistics and a follow-on technical meeting in Istanbul in late May. Erdogan said in his closing remarks Wednesday that Turkey would send a high-level delegation to Marseille, but that Ankara expected its proposals to "arrive there already half-built."
+
+Officials in both Ankara and Baghdad said the next benchmark would come at the Marseille conference, where financing commitments are expected to determine which of the corridors mapped out this week move from working paper to construction tender.

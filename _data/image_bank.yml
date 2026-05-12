@@ -1,0 +1,76 @@
+# Verified Unsplash photo URLs for the article backfill operation.
+# Every URL was confirmed HTTP 200 at the time this file was written.
+# Articles pick a URL from the cluster that best matches their primary topic.
+# Excluded from output via _config.yml? No — _data/*.yml is loaded into site.data
+# and is not served as a page, so it stays out of /_site/ naturally.
+
+middle_east_war:
+  - https://images.unsplash.com/photo-1640693788837-e1903a5fdb95?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1761789083759-42c4fcb31b7e?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1728320696422-74eff3ea0a21?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1580128660010-fd027e1e587a?q=80&w=1600&auto=format&fit=crop
+
+markets_finance:
+  - https://images.unsplash.com/photo-1651341050677-24dba59ce0fd?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1560221328-12fe60f83ab8?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1766218329569-53c9270bb305?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1612198273689-b437f53152ca?q=80&w=1600&auto=format&fit=crop
+
+oil_energy:
+  - https://images.unsplash.com/photo-1602056820935-316884c035f8?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1588011930968-eadac80e6a5a?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1678532685208-54acdd41187d?q=80&w=1600&auto=format&fit=crop
+
+shipping_supply:
+  - https://images.unsplash.com/photo-1670121180530-cfcba4438038?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1691591765923-3bd6f12f4209?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1601311852860-1d8f42381551?q=80&w=1600&auto=format&fit=crop
+
+diplomacy:
+  - https://images.unsplash.com/photo-1759310610775-b298f34f73aa?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1758138258458-64ee0fbdef4c?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1776248783518-400b6d0da64c?q=80&w=1600&auto=format&fit=crop
+
+basketball_sports:
+  - https://images.unsplash.com/photo-1546519638-68e109498ffc?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1504450758481-7338eba7524a?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1519766304817-4f37bda74a26?q=80&w=1600&auto=format&fit=crop
+
+ai_tech:
+  - https://images.unsplash.com/photo-1691435828932-911a7801adfb?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1680992046626-418f7e910589?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1680992044138-ce4864c2b962?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1770210217380-d78a69acdc77?q=80&w=1600&auto=format&fit=crop
+
+refugees_humanitarian:
+  - https://images.unsplash.com/photo-1721390017772-12182f8b685b?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1721390017771-78b4c67d9334?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1594841343391-97ac1b9a950e?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1626695436783-d942d5928174?q=80&w=1600&auto=format&fit=crop
+
+africa:
+  - https://images.unsplash.com/photo-1670641308198-a466142b6b6f?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1670641290867-d97debf0e5af?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1670641318256-63785b325f4d?q=80&w=1600&auto=format&fit=crop
+
+aviation:
+  - https://images.unsplash.com/photo-1542296332-2e4473faf563?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1561101904-da649fcbf03f?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1530521954074-e64f6810b32d?q=80&w=1600&auto=format&fit=crop
+
+us_politics:
+  - https://images.unsplash.com/photo-1649457741403-afc8160a1280?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1690848012121-4752eaffbf98?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1659995880953-f01cb1b3b6d5?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1540908390241-82158ab62887?q=80&w=1600&auto=format&fit=crop
+
+climate_weather:
+  - https://images.unsplash.com/photo-1561470508-fd4df1ed90b2?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1594760467013-64ac2b80b7d3?q=80&w=1600&auto=format&fit=crop
+  - https://images.unsplash.com/photo-1584820537082-8e19daff36bd?q=80&w=1600&auto=format&fit=crop
+
+asia:
+  - https://images.unsplash.com/photo-1583654979589-aa7a6053a0d6?q=80&w=1600&auto=format&fit=crop
+
+satire_military:
+  - https://images.unsplash.com/photo-1579600161224-cac5a2971069?q=80&w=1600&auto=format&fit=crop

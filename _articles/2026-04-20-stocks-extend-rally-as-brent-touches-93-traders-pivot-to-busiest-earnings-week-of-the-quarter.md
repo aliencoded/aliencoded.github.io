@@ -1,0 +1,40 @@
+---
+layout: post-layout
+title: "Stocks extend rally as Brent touches $93; traders pivot to busiest earnings week of the quarter"
+date: 2026-04-20 09:10:00 -0500
+lastUpdated: 2026-04-20 09:10:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, business, markets, oil, earnings, middle-east, index]
+image: https://images.unsplash.com/photo-1560221328-12fe60f83ab8?q=80&w=1600&auto=format&fit=crop
+excerpt: "Global equities pushed higher and Brent crude touched a fresh post-war low Monday as investors absorbed a peaceful weekend in the Gulf and pivoted attention toward more than 175 S&P 500 earnings reports due over the next ten sessions."
+---
+
+Global equities opened the week firmly higher and Brent crude touched a fresh post-war low near $93 a barrel on Monday, as the first full trading session after the Doha prisoner exchange passed without incident and investor attention swung decisively from Middle East risk to the busiest stretch of corporate earnings since January.
+
+Brent for June delivery slipped to an intraday low of $93.10 in early London trade before recovering to $93.85 by mid-morning, down 1.4 percent on the session and roughly 25 percent below the late-March peak above $125. West Texas Intermediate traded at $89.40, briefly dipping under $89 for the first time since the war began on March 1. Front-month contracts have now fallen for seven straight sessions, the longest unbroken slide since November 2024.
+
+"You have a market that spent six weeks pricing the worst case and is now systematically unwinding that bet," said Maren Loftus, head of oil research at Helvetia Commodities in Geneva. "The bid that should be sitting under crude — a war that hasn't fully ended, an OPEC+ group that may regret the April hike, Iranian barrels that aren't really back yet — none of it is being expressed in the curve. That's a market whose risk managers want the weekend behind them."
+
+European bourses opened in the green and built on the gains through the morning. The Stoxx Europe 600 was up 0.9 percent by lunchtime in Paris, on track for an eighth consecutive higher close, while Germany's DAX added 1.1 percent and France's CAC 40 rose 0.7 percent. The FTSE 100 lagged at plus 0.2 percent, weighed down again by Shell, BP and the oil-services contingent. Earlier in Asia, Japan's Nikkei 225 closed up 1.6 percent and South Korea's Kospi gained 2.1 percent, with semiconductor names leading after a strong weekend report on chip shipments from the Korea International Trade Association. Hong Kong's Hang Seng added 1.4 percent and the Shanghai Composite was up 0.6 percent.
+
+S&P 500 futures pointed to an opening gain of about 0.5 percent, putting the cash index roughly half a percent below its pre-war close of Feb. 27 and within striking distance of fully retracing the conflict's losses. Nasdaq 100 futures were indicated up 0.8 percent, helped by chip stocks tracking the Asian session. Russell 2000 futures, which had badly underperformed during the war as small-cap balance sheets absorbed higher fuel costs, were indicated up 1.1 percent.
+
+The earnings calendar will dominate the rest of the week. More than 175 S&P 500 companies are scheduled to report before May 1, including 11 of the index's 20 largest constituents. Microsoft, Alphabet and Meta Platforms report Thursday after the close, with Apple and Amazon following the next week. ExxonMobil and Chevron, the two largest U.S. integrated oil majors, report Friday, in what analysts said would be the most closely watched energy prints in more than a year given the swings in crude over the quarter.
+
+"This is the cleanest pivot trade we've had since the start of the year — out of geopolitics, into fundamentals," said John Reilly, head of commodities and cross-asset strategy at Citi. "The question is whether the megacap tech cohort can carry the index from here, because the energy contribution is going to flip from tailwind to headwind in the second quarter. Guidance language about AI capex is going to matter more than the headline beats."
+
+That language carries an added political charge this week. The House Ways and Means Committee is expected to vote Wednesday on the Sanders-Ocasio-Cortez AI moratorium bill that narrowly passed the Senate on April 7, and several hyperscaler executives have warned in recent days that their second-half capital spending plans assume the measure fails. Strategists at Morgan Stanley wrote in a Monday note that an unexpected committee approval would likely produce "a 3 to 5 percent intraday gap lower" in Microsoft, Alphabet, Meta and Amazon, though the bank's base case remains that the bill stalls.
+
+Bond markets reflected the same risk-on tone. The U.S. 10-year Treasury yield climbed three basis points to 4.36 percent, its highest level since late February, as investors continued to rotate out of haven positions. The two-year yield rose to 4.61 percent. German Bunds tracked the move, with the 10-year yield up four basis points to 2.46 percent. Italian BTP spreads narrowed by two basis points, a small further sign that the European periphery was sharing in the relief rally.
+
+Currency markets registered the unwind of war hedges. The dollar index fell another 0.4 percent against a basket of major peers, its lowest level since mid-January. The euro climbed back above $1.10 for the first time since the conflict began, the British pound traded above $1.27, and the Japanese yen strengthened toward 148 per dollar — its strongest level in nearly three months. The Swiss franc, which had benefited heavily from haven flows, gave back a further 0.6 percent against the euro. Gold extended its retreat to $2,318 an ounce, down nearly 8 percent from its early-April peak.
+
+The physical oil market moved in parallel. Saudi Aramco published its May official selling prices over the weekend, cutting Arab Light into Asia by $2.10 a barrel against benchmark — the largest single-month reduction since 2023 — and easing prices into northwest Europe and the Mediterranean. Two refining sources in Singapore said cargo nominations for May loading had been "fully covered" by Sunday evening, a sharp turnaround from late March, when several Chinese teapot refiners had deferred liftings entirely. The Strait of Hormuz Joint Maritime Information Center logged 96 tanker transits over the weekend, the highest two-day count since February.
+
+"The choke point is functionally reopened, and the next question is whether the OPEC+ barrel pledge will be tapered," said Ingrid Aaltonen, head of tanker research at Clarksons in London. "We are watching nominations into June and July. So far there's no sign Saudi Arabia or the UAE is pulling supply, and that is what's letting the curve flatten."
+
+The OPEC+ joint ministerial monitoring committee is scheduled to meet by video Thursday to review the April 1 supply hike of 1.5 million barrels per day. Two Gulf delegates, speaking on condition of anonymity because the deliberations are private, said the committee would likely defer any production decision to the next full ministerial meeting in Vienna in June, but acknowledged that pressure to tighten was building internally as the war premium continued to drain.
+
+Insurance markets continued to normalize. The Lloyd's Joint War Committee said over the weekend it would formally review its high-risk listing of the Strait of Hormuz at its next session on April 30, a step brokers said could trigger a further fall in war-risk premiums on tankers transiting the strait. Quotes Monday morning were running between 0.40 and 0.55 percent of hull value, down from a Friday range of 0.55 to 0.70 percent.
+
+Beyond the earnings flow, investors said they would watch for confirmation of an early-May donor conference in Riyadh on Iraqi and Yemeni reconstruction, where Gulf states and the European Union are expected to outline financing commitments. Officials at the State Department said over the weekend that a U.S. delegation would travel to Doha by midweek to participate in phase-two ceasefire talks, with further announcements on troop rotations and the Hormuz monitoring regime expected in the coming days.

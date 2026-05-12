@@ -1,0 +1,36 @@
+---
+layout: post-layout
+title: "Muscat shuttle diplomacy intensifies as Oman hosts pre-talks between US and Iranian envoys"
+date: 2026-04-28 11:00:00 -0500
+lastUpdated: 2026-04-28 11:00:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, geopolitics, middle-east, diplomacy, iran, oman, index]
+image: https://images.unsplash.com/photo-1759310610775-b298f34f73aa?q=80&w=1600&auto=format&fit=crop
+excerpt: "Senior US and Iranian envoys arrived in Muscat on Tuesday for two days of indirect preparatory talks, the highest-level American engagement with Tehran since the April 15 ceasefire took effect."
+---
+
+Senior American and Iranian envoys arrived separately in Muscat on Tuesday for two days of indirect preparatory talks hosted by Omani Foreign Minister Sayyid Badr al-Busaidi, the highest-level American engagement with Tehran since the Apr. 15 ceasefire took effect and a key proving ground for the broader May negotiating round that Gulf mediators have spent the past fortnight quietly assembling.
+
+The American delegation, led by Deputy Secretary of State Brian Whitford and accompanied by the National Security Council's senior director for the Near East, William Kasperov, was met at Seeb International Airport by a small Omani protocol detail and driven to the Al Bustan Palace, where two adjoining wings have been sealed off for the duration of the talks. The Iranian team, led by Deputy Foreign Minister Majid Takht-Ravanchi and including a senior Atomic Energy Organization official, arrived four hours later from Tehran via a chartered Iran Air flight and was lodged in a separate wing of the same compound.
+
+Al-Busaidi, who has shuttled between the two delegations during three previous rounds of indirect contacts dating back to 2024, told reporters in a brief statement at the Omani Ministry of Foreign Affairs that the goal of the Muscat session was "to clarify the agenda, not to negotiate its outcome." He said the parties had agreed to a single working text drafted by Omani mediators that lists six issues for the May round, in an order he declined to disclose.
+
+The Muscat encounter is the first formal U.S.-Iran process since the war that does not run through the Islamabad framework, which produced the ceasefire but stopped short of addressing the broader sanctions architecture or the disposition of Iran's surviving nuclear program. Officials from three governments involved in the preparations described the Muscat track as deliberately narrower in scope, focused on what one senior Gulf diplomat called "the bilateral residue" of the conflict: detained dual nationals not covered by the Apr. 18 Doha exchange, frozen assets held in third-country jurisdictions, and a possible interim understanding on enrichment activity at the damaged Natanz facility pending fuller International Atomic Energy Agency verification.
+
+"What Muscat does is take the pieces that Islamabad could not carry and gives them a smaller, quieter room," said Layla Hassan, a Beirut-based regional analyst with the Levant Strategy Group. "The Pakistani-Saudi-Egyptian framework was built for the ceasefire. The Omani channel is built for everything that comes after."
+
+The Trump administration has been notably restrained in its public characterization of the talks. White House press secretary Karoline Leavitt, asked about the Whitford trip at Monday's briefing, said only that the administration was "exploring all available channels to advance American interests in the region" and declined to confirm the venue. A senior State Department official, speaking on condition of anonymity ahead of the delegation's departure, said the U.S. side had set "modest and concrete" objectives for Muscat and would not be drawn into broader strategic questions before the May round.
+
+Iranian state media took a different posture. The official IRNA news agency carried Takht-Ravanchi's departure remarks at the top of its bulletin and quoted him as saying Iran was "prepared for serious diplomacy on the basis of mutual respect and the lifting of unjust pressures." The semi-official Tasnim agency, which tracks the views of the Islamic Revolutionary Guard Corps, reported the trip in considerably more clipped terms and noted that "the supreme decision-making bodies have not authorized any new commitments."
+
+The Omani-hosted track has long enjoyed quiet bipartisan support in Washington as the most reliable conduit for direct messaging between American and Iranian principals, dating from the 2013 nuclear negotiations through several prisoner-release deals over the following decade. European officials have largely welcomed the resumption of the Muscat channel, though some have expressed private concern that a parallel U.S.-Iran process could complicate the EU's own conditional sanctions-relief framework, which Foreign Minister Abbas Araghchi has been pressing for during a four-capital European tour now in its sixth day.
+
+"The Muscat track is necessary, and Europe knows it is necessary," said Marc Levaux, a senior fellow at the European Council on Foreign Relations. "But there is a question of sequence that has not yet been answered. If Washington and Tehran reach a narrow understanding before Brussels finishes its phased framework, the European leverage that everyone has talked about for the past month evaporates overnight."
+
+Israeli officials briefed on the Muscat talks said Prime Minister Benjamin Netanyahu had requested and received a pre-departure readout from National Security Adviser Mike Waltz on Sunday. Foreign Minister Gideon Sa'ar told the Knesset Foreign Affairs and Defense Committee on Tuesday morning that Israel would judge the talks "by what they prevent, not by what they produce," and reiterated Jerusalem's longstanding position that no relief should accrue to Iran without verifiable, irreversible limits on enrichment.
+
+Saudi and Emirati officials have so far adopted a more permissive line. A senior Saudi diplomat at the Gulf-led security track meeting in Doha last week, speaking on background, said Riyadh viewed the Muscat process as "complementary, not competing," and noted that the broader regional security framework being drafted in Doha would be "more credible, not less," if accompanied by a stable U.S.-Iran understanding.
+
+The first session of the Muscat talks was expected to convene Tuesday evening local time at the Al Bustan Palace, with al-Busaidi carrying initial positions between the two delegations. A second session is scheduled for Wednesday morning, with a joint Omani statement possible by Wednesday afternoon if the two sides agree on a single readout. Officials cautioned that no breakthrough was expected from the preparatory round itself, and that the principal measure of success would be whether the May meeting in Muscat is confirmed with a fixed date and a published agenda.
+
+A senior Omani official, speaking on condition of anonymity to discuss internal planning, said the sultanate had budgeted for the talks to run as long as Friday if either side requested additional time. "We have hosted this conversation in many of its forms," the official said. "We are patient about how it ends. We are less patient about whether it begins."

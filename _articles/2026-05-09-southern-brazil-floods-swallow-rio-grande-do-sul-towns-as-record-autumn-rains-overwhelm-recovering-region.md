@@ -1,0 +1,36 @@
+---
+layout: post-layout
+title: "Southern Brazil floods swallow Rio Grande do Sul towns as record autumn rains overwhelm a still-recovering region"
+date: 2026-05-09 13:00:00 -0500
+lastUpdated: 2026-05-09 13:00:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, global, climate, flooding, brazil, south-america, index]
+image: https://images.unsplash.com/photo-1594760467013-64ac2b80b7d3?q=80&w=1600&auto=format&fit=crop
+excerpt: "A week of relentless rain across southern Brazil has killed at least 31 people, forced more than 84,000 from their homes and submerged farmland and small towns across the Rio Grande do Sul interior, with the Guaiba River once again rising past historic crest levels in Porto Alegre."
+---
+
+PORTO ALEGRE, Brazil — A week of relentless autumn rain across the Brazilian state of Rio Grande do Sul has killed at least 31 people, forced more than 84,000 residents from their homes and submerged stretches of farmland and small towns across the state's central interior, civil-defense officials said Saturday, as the Guaiba River once again pushed past historic crest levels at this state-capital riverfront still scarred by the catastrophic 2024 floods.
+
+The Rio Grande do Sul Civil Defense Coordination said the Guaiba had reached 5.12 meters at the Cais Maua gauge in central Porto Alegre by Saturday morning, surpassing the official flood threshold of 3.0 meters by more than two meters and approaching the 5.33-meter mark that drowned much of the city two years ago. Pumping stations across the Cidade Baixa, Menino Deus and Floresta neighborhoods were running at capacity but had begun to fail under the combined load of saturated ground, runoff from the Sinos and Cai tributaries and a sustained southerly wind backing water up the lake system, officials said.
+
+"The system has not had time to recover from 2024, and the soil has not had time to dry between rain events," said Maj. Adriana Castilhos, the state's civil-defense operations chief, at a midmorning briefing in Porto Alegre. "We are seeing flooding in neighborhoods that did not flood in any prior event we have on record, including the worst weeks of two years ago."
+
+The state's bulletin counted 264 of Rio Grande do Sul's 497 municipalities as affected, with the upper Taquari, Caí and Sinos valleys reporting the heaviest damage. In the small Caí Valley town of Roca Sales, where rebuilt riverfront blocks completed only last year were inundated again Friday night, Mayor Amilton Fontana told reporters that "we have families who lost their homes for the second time in two years before they finished hanging the curtains." Approximately 1,900 of the town's 11,500 residents had been moved to a regional shelter at a gymnasium in Lajeado, he said.
+
+Brazil's National Institute of Meteorology, Inmet, reported that a stalled low-pressure system over Uruguay had drawn warm, moist air off the South Atlantic into a near-stationary frontal boundary over central Rio Grande do Sul since May 3, producing 72-hour rainfall totals of 380 millimeters at São Francisco de Paula and 412 millimeters at Canela — values, Inmet said, that fell at recurrence intervals of more than once in 100 years for early May. The Cemaden national disaster-monitoring center said river-rise rates on the Taquari at Encantado had run two-and-a-half times the average for the season.
+
+President Luiz Inácio Lula da Silva, returning to Brasília from a state visit to Mexico City, signed a federal emergency decree Saturday morning authorizing 4.8 billion reais in initial disaster response and dispatched ministers of Integration and National Development, Defense and Health to Porto Alegre. The Brazilian Air Force said it had moved 14 C-130 and C-105 transports to Canoas Air Base, and the Navy's southern command had positioned river-patrol vessels at Eldorado do Sul to support rescues across the lower delta.
+
+"The federal government will not let Rio Grande do Sul stand alone, and we will not allow this state's people to go through a repeat of 2024 without the full weight of the national response behind them," Lula said in a statement issued from the presidential plane. He said he would visit the affected zones Sunday alongside Gov. Eduardo Leite.
+
+Leite, at the state operations center in Porto Alegre, said the rebuilt federal dike system along the Mauá Wall — the centerpiece of the post-2024 reconstruction effort — was holding but had been forced to a level of stress its designers had not expected to encounter for at least a decade. He said two of the city's 23 pumping stations had been taken offline by water intrusion overnight and that the Salgado Filho International Airport, reopened only 14 months ago after its runway was rebuilt above the 2024 flood line, had been closed Saturday morning as standing water again crossed the perimeter.
+
+Across the wider region, agricultural losses were already significant. The state federation of farm cooperatives, FecoAgro/RS, estimated that more than 320,000 hectares of late-season soybean and rice acreage had been inundated, with combine harvesters and grain in storage stranded across the lowland riverine zones of the Jacuí and Camaquã basins. "We are looking at a soybean loss in the southern cone that will register at the global price screen," said Carlos Eduardo Bertotti, FecoAgro/RS's chief economist. "Chicago will feel it on Monday morning."
+
+In Porto Alegre's downtown core, scenes from two years ago repeated themselves. At the Mercado Público, sandbag walls held through Friday night but were being reinforced Saturday morning as water lapped against the south facade. "We rebuilt, and we did it well, and we still flooded," said Renata Soares, 41, a hairdresser whose salon in the Cidade Baixa neighborhood took on water for the second time in two years. "I do not know what 'well enough' is supposed to mean in this city anymore."
+
+Climate scientists said the event fit a pattern of compounding extremes that have become characteristic of subtropical South America over the past decade, with stalled blocking patterns over the South Atlantic producing back-to-back deluges separated by short, intense dry periods. "What we are seeing is a hydrologic memory problem on top of a meteorological one," said Dr. Marina Sampaio, a hydroclimatologist at the Federal University of Rio Grande do Sul. "The watersheds never finished draining the 2024 event. The infrastructure rebuild is barely complete. And the atmosphere has produced another return-period rainfall on top of it."
+
+Insurance industry analysts said it was too early to put a number on Brazilian insured losses but pointed out that 2024 had cost domestic and reinsurance markets a combined 9 billion reais and that uptake of new flood policies in the rebuilt zones had been uneven. "Coverage thinned out after the first event, not deepened, because premiums spiked," said Heloísa Camargo, a São Paulo-based catastrophe analyst at IRB Brasil Resseguros.
+
+Civil-defense officials said additional evacuations were under active consideration through Saturday night for low-lying districts of Eldorado do Sul, Guaíba and Canoas, with revised forecasts and a coordinated federal-state briefing scheduled for Sunday morning in Porto Alegre.

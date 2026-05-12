@@ -1,0 +1,36 @@
+---
+layout: post-layout
+title: "Brent whipsaws near $102 as traders count down final hours to Iran-Israel ceasefire"
+date: 2026-04-14 09:00:00 -0500
+lastUpdated: 2026-04-14 09:00:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, business, markets, oil, middle-east, earnings, index]
+image: https://images.unsplash.com/photo-1612198273689-b437f53152ca?q=80&w=1600&auto=format&fit=crop
+excerpt: "Crude oscillated in a four-dollar band and global equities traded mixed Tuesday as traders weighed the overnight ballistic salvo from Iran and an Israeli strike on a Khorasan enrichment site against a ceasefire clock now inside its final 15 hours."
+---
+
+Brent crude swung in a four-dollar band on either side of $102 a barrel through Tuesday's European session and global equities traded mixed as markets digested an overnight ballistic salvo from Iran and a fresh Israeli strike on an enrichment-adjacent site in Khorasan, with the Islamabad-brokered ceasefire now inside its final 15 hours before taking effect at midnight Greenwich Mean Time on Wednesday.
+
+The June Brent contract opened the London session at $104.10, sold off to a session low of $100.60 after the mediators in Islamabad issued a third successive statement reaffirming the timetable, then crawled back to $102.40 by late morning. West Texas Intermediate tracked the same arc, ending European hours at $98.10. Tuesday's intraday range was the widest in eight sessions, according to ICE data circulated to brokers, and front-month implied volatility on Brent options briefly tagged 64 percent before easing to 58 percent — still about double its February average but well below the 91 percent peak reached on March 19.
+
+"This is the most expensive coin-flip in the calendar," said Priya Nair, head of commodities research at Macquarie in Singapore, in a morning note. "If midnight Wednesday holds, the strip prices in twelve to fourteen dollars of erasure inside a week. If a single Houthi launch lands on a tanker between now and then, we are back through $115 before lunch in New York."
+
+European bourses opened higher and gave most of it back. The Stoxx Europe 600 was last quoted up 0.2 percent, paring an early 1.1 percent advance, with energy producers BP and Shell among the laggards and Lufthansa, IAG and Air France-KLM holding gains of between 2.4 and 3.6 percent on the prospect of a phased reopening of regional airspace. Frankfurt's DAX traded flat, the CAC 40 added 0.3 percent and London's FTSE 100 slipped 0.1 percent as a stronger pound weighed on the index's dollar-earning multinationals. U.S. equity futures pointed to a modestly higher New York open, with S&P 500 contracts indicated up 0.4 percent and Nasdaq 100 futures up 0.6 percent, both pulling back from larger overnight gains after the Khorasan strike headlines crossed at 4:42 a.m. Eastern.
+
+Asia had closed firmer, with the Nikkei 225 up 1.1 percent, the Kospi 1.6 percent higher, and Hong Kong's Hang Seng adding 1.9 percent on a rally in shipping names tied to expectations of a phased return to Red Sea transits. India's Nifty 50 closed up 0.7 percent.
+
+Bank earnings continued to share the tape with the war. JPMorgan Chase and Wells Fargo report before Wednesday's New York open, with Citi and Goldman Sachs to follow Thursday. Consensus estimates compiled by Bloomberg point to first-quarter earnings per share for the four firms collectively running about 2.8 percent below the prior quarter, with trading desks expected to log a banner quarter on volatility while net interest income comes in flat to softer.
+
+"The headline number will be fine; the disclosure that matters is geographic concentration in the war-affected book," said Hannah Eldridge, chief economist at BNY Mellon, in a televised interview Tuesday morning. "If the big four can say their Gulf exposures are well-hedged and their war-related charge-offs are below $200 million combined, that is a market-friendly print regardless of where Brent settles tonight."
+
+Insurance underwriters continued to mark down war-risk premia in slow motion. Lloyd's syndicates writing Gulf hull cover have quoted rates in a band of 0.55 to 0.70 percent of vessel value since Saturday's joint statement, down from a peak of 0.95 percent ten days ago, according to two London-based marine brokers who spoke on condition of anonymity because the rates have not been formally published. Bab el-Mandeb premia held near 1.25 percent after Sunday night's Houthi missile launch at a U.S. Navy destroyer. Container freight indices were little changed on the day; the Shanghai Containerized Freight Index ticked down 0.6 percent.
+
+European natural gas extended its slide. The Dutch TTF month-ahead contract traded at 34.20 euros per megawatt-hour, the lowest level since early March and roughly half the panic peak reached on the day of the March 18 strikes on Bandar Abbas. Norwegian flows remained near 320 million cubic meters per day and EU storage was at 41 percent of capacity, comfortably above the seasonal five-year average. A senior European Commission energy official, speaking on background to reporters in Brussels, said the bloc would maintain its existing demand-reduction guidance through April but expected to formally rescind contingency measures drafted in March "within ten days of a clean ceasefire."
+
+Currency markets reflected the same partial unwind of the wartime haven bid. The dollar index drifted 0.2 percent lower to 103.9, the Swiss franc gave back another 0.4 percent against the euro, and the Japanese yen weakened to 153.80, its softest level since February. Gold eased $14 to $2,328 an ounce.
+
+Treasury markets nudged in the direction of risk. The two-year U.S. note yield rose three basis points to 4.31 percent and the ten-year sat at 4.39 percent in pre-market dealing, extending Monday's move higher as Fed funds futures continued to price out the more aggressive easing path that had dominated curves at the height of the war. Markets now imply a roughly 18 percent probability of a 25-basis-point cut at the May 7 meeting, down from a peak of 44 percent on April 6.
+
+"The rates market has now done about three-quarters of its ceasefire trade," said John Reilly, a cross-asset strategist at Citi in New York. "What is left to price is the shape of the recovery on the other side — whether the Saudi barrels stay, whether Iranian export licenses come back faster than people think, and how much of the war's $30 risk premium was structural versus tactical. Our base case has Brent in an $88-to-$92 range by mid-May if Wednesday holds."
+
+The next 36 hours will be dense with scheduled events. OPEC will publish its monthly oil market report on Wednesday morning, the U.S. Energy Information Administration releases weekly inventory data the same day, and Iranian and Israeli liaison officers are expected to take their places at a Pakistani-hosted deconfliction cell in Islamabad before the midnight deadline. Senior Treasury officials, in a background briefing to reporters, said the department was coordinating with the Federal Reserve and primary dealer banks to ensure orderly trading through the Wednesday session and would publish further guidance to market participants as needed.
