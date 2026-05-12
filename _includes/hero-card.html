@@ -1,0 +1,34 @@
+{%- comment -%}
+  Hero card for the home page. Expects `include.post` to be the article object.
+  Picks the first non-generic category as the badge.
+{%- endcomment -%}
+
+{%- assign primary_cat = nil -%}
+{%- for cat in include.post.categories -%}
+  {%- if cat != "articles" and cat != "index" -%}
+    {%- assign primary_cat = cat -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+
+<article class="hero-card">
+  <a href="{{ include.post.url | relative_url }}" class="hero-card__link">
+    {% if include.post.image and include.post.image != "" %}
+      <div class="hero-card__image">
+        <img src="{{ include.post.image }}" alt="" loading="eager">
+      </div>
+    {% endif %}
+    <div class="hero-card__content">
+      {% if primary_cat %}
+        <span class="hero-card__category">{{ primary_cat | replace: "-", " " | capitalize }}</span>
+      {% endif %}
+      <h2 class="hero-card__title">{{ include.post.title | escape }}</h2>
+      {% if include.post.excerpt %}
+        <p class="hero-card__excerpt">{{ include.post.excerpt | strip_html | truncate: 240 }}</p>
+      {% endif %}
+      <div class="hero-card__meta">
+        <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: "%b %-d, %Y" }}</time>
+      </div>
+    </div>
+  </a>
+</article>

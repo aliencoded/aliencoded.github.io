@@ -1,11 +1,3 @@
-<div>
-    {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.header_pages | default: default_paths -%}
-
-  <div class="site-logo">
-    <a href="{{ "/" | relative_url }}">
-      <img src="/assets/images/meta-currents-icon-large.jpeg" alt="Meta Currents">
-    </a>
-  </div>
-
-</div>
+<a href="{{ '/' | relative_url }}" class="mc-mark" aria-label="Meta Currents — home">
+  <img class="mc-mark__icon" src="{{ '/assets/images/meta-currents-icon-medium.jpeg' | relative_url }}" alt="Meta Currents">
+</a>

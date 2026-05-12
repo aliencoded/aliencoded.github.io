@@ -4,5 +4,6 @@ title: Tech
 permalink: /pages/tech/
 pageOrder: 8
 nav: true
+navGroup: section
 content-category: tech
 ---

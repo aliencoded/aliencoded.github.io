@@ -17,10 +17,10 @@ title: Meta Currents
 # email: redacted
 author: Ali Abid
 description: >- # this means to ignore newlines until "baseurl:"
-  Meta Currents is a blog about the latest trends in technology, programming, and software development. We cover a wide range of topics, including web development, mobile app development, artificial intelligence, machine learning, and more. Our goal is to provide our readers with the most up-to-date information and insights on the latest developments in the tech industry. 
+  Meta Currents is an independent news site presenting global stories from multiple political perspectives. We cover geopolitics, business, technology, US politics, and more — giving readers context from across the political spectrum so they can form their own views.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://metacurrents.com" # the base hostname & protocol for your site
 twitter_username: alisotropy
 github_username:  aliencoded
 

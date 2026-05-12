@@ -4,12 +4,21 @@
  * Site header
  */
 .site-header {
-  border-top: 2px solid $grey-color-light;
-  border-bottom: 2px solid $grey-color-light;
+  border-top: 1px solid $mc-rule;
+  border-bottom: 2px solid $mc-navy;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
   position: relative;
+}
+
+.site-header__row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
 }
 
 .site-title {
@@ -31,12 +40,10 @@
 }
 
 .site-nav {
-  //float: left;
-  //line-height: $base-line-height * $base-font-size * 2.25;
   display: flex;
-  justify-content: center; // centers horizontally
-  align-items: center;     // centers vertically (optional)
-  flex-wrap: nowrap;
+  align-items: center;
+  flex: 1 1 auto;          // share remaining space with the logo
+  min-width: 0;            // allow the trigger to shrink and wrap
 
   .nav-trigger {
       display: none;
@@ -46,22 +53,29 @@
     display: none;
   }
 
+  .trigger {
+    display: flex;
+    flex-wrap: wrap;        // wrap to multiple rows instead of overflowing
+    justify-content: flex-end;
+    align-items: center;
+    gap: 6px 14px;          // row-gap, col-gap
+    width: 100%;
+  }
+
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
     white-space: nowrap;
+    padding: 2px 6px;
 
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
-    }
-
-    // Smooth background hover effect
-    transition: background-color 0.3s ease;
+    // Underline on hover/active instead of a solid grey block
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.2s ease, color 0.2s ease;
 
     &:hover {
-      background-color: #a3a2a2; // light grey background on hover
-      text-decoration: none;   // remove underline on hover
+      border-bottom-color: $mc-accent;
+      text-decoration: none;
+      color: $mc-navy;
     }
   }
 
@@ -132,6 +146,116 @@
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit * 0.5;
+}
+
+.site-header__utility {
+  border-top: 1px solid $mc-rule;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: nowrap; // keep date and utility nav on the same row
+  // NB: .wrapper extends %clearfix which adds a :after flex item.
+  // We avoid `space-between` (which would distribute that phantom item) and
+  // instead use `margin-left: auto` on the nav to push it right.
+}
+
+.header-time {
+  font-size: $small-font-size;
+  color: $mc-slate;
+  white-space: nowrap;
+  flex-shrink: 0;
+
+  // Drop the live clock on narrow screens, keep just the date.
+  @include media-query($on-palm) {
+    .header-time__clock {
+      display: none;
+    }
+  }
+}
+
+.site-nav-utility {
+  position: relative;
+  flex-shrink: 0;
+  margin-left: auto; // push nav to the right edge, ignoring the .wrapper :after pseudo
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    gap: 16px;
+  }
+
+  a {
+    color: $mc-slate;
+    font-size: $small-font-size;
+    text-decoration: none;
+    white-space: nowrap;
+    border-bottom: 1px solid transparent;
+    transition: color 0.2s ease, border-color 0.2s ease;
+
+    &:hover {
+      color: $mc-navy;
+      border-bottom-color: $mc-accent;
+    }
+  }
+
+  // The "More" toggle button is hidden in inline mode.
+  .site-nav-utility__toggle {
+    display: none;
+    background: none;
+    border: 0;
+    padding: 2px 8px;
+    color: $mc-slate;
+    font-size: $small-font-size;
+    font-family: inherit;
+    cursor: pointer;
+
+    &:hover {
+      color: $mc-navy;
+    }
+  }
+
+  // Collapsed (overflow detected): show toggle, hide inline list. List becomes a dropdown when opened.
+  &[data-collapsed="true"] {
+    ul {
+      display: none;
+    }
+
+    .site-nav-utility__toggle {
+      display: inline-block;
+    }
+
+    &[data-open="true"] ul {
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      right: 0;
+      top: calc(100% + 6px);
+      background: $mc-bg;
+      border: 1px solid $mc-rule;
+      border-radius: 4px;
+      padding: 6px 0;
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+      min-width: 160px;
+      z-index: 200;
+      gap: 0;
+
+      li a {
+        display: block;
+        padding: 6px 16px;
+
+        &:hover {
+          background: $mc-bg-alt;
+          border-bottom-color: transparent;
+        }
+      }
+    }
+  }
 }
 
 .contact-list,
@@ -339,31 +463,6 @@
   text-transform: capitalize;
 }
 
-
-
-.header-time {
-  font-size: 0.8rem;
-  color: #777;
-  margin-left: auto;
-  white-space: nowrap;
-  width: 100%;
-  text-align: center;
-  font-size: 0.85rem;
-  color: #777;
-  margin-top: 6px;
-}
-
-
-.site-nav .trigger {
-  display: flex;
-  flex-wrap: nowrap;     /* prevents wrapping to second line */
-  gap: 18px;             /* space between links */
-  align-items: center;
-}
-
-.site-nav .page-link {
-  white-space: nowrap;   /* prevents text breaking */
-}
 
 
 .site-header {

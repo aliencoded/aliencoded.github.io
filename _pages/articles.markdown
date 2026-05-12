@@ -3,6 +3,7 @@ layout: page-card-grid-layout
 title: All Articles
 pageOrder: 17
 nav: true
+navGroup: utility
 content-category: articles
 permalink: /pages/articles/
 ---

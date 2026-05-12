@@ -10,9 +10,8 @@ function updateNYTime() {
   };
 
   const timeOptions = {
-    hour: "2-digit",
+    hour: "numeric",
     minute: "2-digit",
-    second: "2-digit",
     hour12: true,
     timeZone: "America/New_York"
   };
@@ -23,11 +22,10 @@ function updateNYTime() {
   const dateEl = document.getElementById("today-date");
   const timeEl = document.getElementById("ny-time");
 
-  if (dateEl && timeEl) {
-    dateEl.textContent = dateString;
-    timeEl.textContent = " | Time: " + timeString + " (New York)";
-  }
+  if (dateEl) dateEl.textContent = dateString;
+  if (timeEl) timeEl.textContent = " · " + timeString + " ET";
 }
 
 updateNYTime();
-setInterval(updateNYTime, 1000);
+// minute-precision display — no need to tick every second
+setInterval(updateNYTime, 30000);

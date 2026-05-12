@@ -4,12 +4,13 @@ title: About
 permalink: /pages/about/
 pageOrder: 20
 nav: true
+navGroup: utility
 content-category: about
 ---
 
 
 
-<img src="/assets/images/meta-currents-icon-large.jpeg" alt="Ali Abid" >
+<img src="/assets/images/meta-currents-icon-large.jpeg" alt="Meta Currents" style="max-width: 240px; display: block; margin: 1rem auto;">
 
 <h3>About Meta Currents</h3>
 <p>

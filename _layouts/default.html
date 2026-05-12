@@ -8,9 +8,7 @@
   {%- include head.html -%}
 
   <body>
-    <!--common top most logo -->
-    {%- include logo.html -%}
-    <!-- common navigation links -->
+    <!-- combined site header: logo (top-left) + nav -->
     {%- include header.html -%}
     <!-- unique content -->
     <main class="page-content" aria-label="Content">
@@ -23,7 +21,9 @@
     {%- include footer.html -%}
 
     <script src="{{ '/assets/js/clock.js' | relative_url }}"></script>
-    
+    <script src="{{ '/assets/js/load-more.js' | relative_url }}" defer></script>
+    <script src="{{ '/assets/js/utility-nav.js' | relative_url }}" defer></script>
+
   </body>
 
 </html>

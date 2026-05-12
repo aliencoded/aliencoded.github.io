@@ -5,7 +5,7 @@
 layout: page-card-grid-layout
 title: Meta Currents
 pageOrder: 1
-nav: true
+nav: false
 content-category: index
 # this will break the index page and show root directory instead
 # permalink: /index/  

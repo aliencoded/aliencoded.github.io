@@ -4,6 +4,7 @@ title: Sponsors
 permalink: /pages/sponsors/
 pageOrder: 19
 nav: true
+navGroup: utility
 content-category: sponsor
 ---
 

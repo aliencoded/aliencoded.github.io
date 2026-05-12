@@ -1,9 +1,9 @@
 ---
 layout: page-card-grid-layout
 title: Geopolitics
-permalink: /geopolitics/
 pageOrder: 6
 nav: true
+navGroup: section
 content-category: geopolitics
 permalink: /pages/geopolitics/
 ---

@@ -20,13 +20,20 @@ layout: default
 {% assign posts_filtered = site.articles | where_exp:"post","post.categories contains page.content-category" | sort: "date" | reverse %}
 
 
-<div class="cards-container">
-  {% if posts_filtered.size > 0 %}
-    {% for post in posts_filtered %}
-      {% include article-card.html post=post %}
-    {% endfor %}
-  {% else %}
-    <p>No articles found in category '{{ page.content-category }}'.</p>
+<div class="cards-with-loadmore">
+  <div class="cards-container" data-page-size="10">
+    {% if posts_filtered.size > 0 %}
+      {% for post in posts_filtered %}
+        {% include article-card.html post=post %}
+      {% endfor %}
+    {% else %}
+      <p>No articles found in category '{{ page.content-category }}'.</p>
+    {% endif %}
+  </div>
+  {% if posts_filtered.size > 10 %}
+    <div class="load-more-wrapper">
+      <button type="button" class="load-more-btn">Load more</button>
+    </div>
   {% endif %}
 </div>
 

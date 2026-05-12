@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+{%- comment -%}
+  Home page: hero article on top, then the rest of the articles in a paged grid.
+  Hero source: first article with `featured: true` in front matter, otherwise the newest article.
+{%- endcomment -%}
+
+{%- assign featured = site.articles | where: "featured", true | sort: "date" | reverse -%}
+{%- assign sorted = site.articles | sort: "date" | reverse -%}
+{%- if featured.size > 0 -%}
+  {%- assign hero = featured.first -%}
+{%- else -%}
+  {%- assign hero = sorted.first -%}
+{%- endif -%}
+
+{% if hero %}
+  {% include hero-card.html post=hero %}
+{% endif %}
+
+{{ content }}
+
+<h2 class="post-list-heading">Latest</h2>
+
+{%- assign remaining = sorted | where_exp: "p", "p.url != hero.url" -%}
+
+<div class="cards-with-loadmore">
+  <div class="cards-container" data-page-size="9">
+    {% for post in remaining %}
+      {% include article-card.html post=post %}
+    {% endfor %}
+  </div>
+  {% if remaining.size > 9 %}
+    <div class="load-more-wrapper">
+      <button type="button" class="load-more-btn">Load more</button>
+    </div>
+  {% endif %}
+</div>

@@ -2,17 +2,27 @@
 
 // Define defaults for each variable.
 
-$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.5 !default;
+$base-line-height: 1.6 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #030a11 !default;
-$background-color: #ffffff !default;
-$brand-color:      #0b2c4e !default;
+// Brand palette (sampled from the metacurrents wordmark)
+$mc-navy:          #1a2c4a !default; // "meta" — primary brand
+$mc-slate:         #7a8a9b !default; // "currents" — secondary, meta text
+$mc-accent:        #3d6a8f !default; // wave gradient mid — links, pills, active states
+$mc-accent-light:  #5a8fb2 !default; // wave gradient top — hovers
+$mc-pale:          #9bc1d9 !default; // pale teal — subtle accents
+$mc-bg:            #ffffff !default; // background
+$mc-bg-alt:        #f4f6f9 !default; // section dividers, card hover bg
+$mc-rule:          #e3e8ef !default; // hairline rules
+
+$text-color:       $mc-navy !default;
+$background-color: $mc-bg !default;
+$brand-color:      $mc-navy !default;
 
 $grey-color:       #525050 !default;
 $grey-color-light: color.scale($grey-color, $lightness: 40%) !default;

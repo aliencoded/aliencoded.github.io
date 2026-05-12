@@ -1,9 +1,10 @@
 <header class="site-header" role="banner">
 
-  <div class="wrapper">
+  <div class="wrapper site-header__row">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <!--    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> -->
+
+    {%- include logo.html -%}
 
     {%- if page_paths -%}
     <nav class="site-nav">
@@ -17,22 +18,11 @@
         </span>
       </label>
 
-      <!-- <div class="trigger">
-          {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-            
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            {%- endif -%}
-          {%- endfor -%}
-        </div> -->
-
-
-      <!--custom page ordering-->
-
+      <!--top nav row 1: section pages-->
       <div class="trigger">
         {% assign nav_pages = site.pages
         | where: "nav", true
+        | where: "navGroup", "section"
         | sort: "pageOrder" %}
 
         {% for my_page in nav_pages %}
@@ -48,9 +38,27 @@
     {%- endif -%}
   </div>
 
-  <div class="header-time">
-    <span id="today-date"></span>
-    <span id="ny-time"></span>
+  {% assign utility_pages = site.pages
+     | where: "nav", true
+     | where: "navGroup", "utility"
+     | sort: "pageOrder" %}
+  <div class="wrapper site-header__utility">
+    <div class="header-time">
+      <span id="today-date"></span>
+      <span id="ny-time" class="header-time__clock"></span>
+    </div>
+    {% if utility_pages.size > 0 %}
+    <nav class="site-nav-utility" aria-label="Site links" data-collapsed="false" data-open="false">
+      <button type="button" class="site-nav-utility__toggle" aria-expanded="false" aria-controls="site-nav-utility-list">
+        More <span aria-hidden="true">▾</span>
+      </button>
+      <ul id="site-nav-utility-list">
+        {% for my_page in utility_pages %}
+          <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+    {% endif %}
   </div>
 
 </header>

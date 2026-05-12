@@ -1,14 +1,21 @@
-.site-logo {
-  text-align: center; // center the image
+.mc-mark {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  flex-shrink: 0;
 
-  a {
-    display: inline-block; // ensures centering works properly
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }
+}
 
-    img {
-      width: 150px;       // adjust size as needed
-      height: auto;      // keep aspect ratio
-      display: block;    // remove any inline spacing
-      margin: 0 auto;    // center inside the link
-    }
+.mc-mark__icon {
+  display: block;
+  height: 48px;
+  width: auto;
+
+  @include media-query($on-palm) {
+    height: 38px;
   }
 }

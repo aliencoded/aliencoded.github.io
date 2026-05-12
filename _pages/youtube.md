@@ -3,6 +3,7 @@ layout: video-list
 title: "Youtube"
 permalink: /pages/youtube/
 nav: true
+navGroup: utility
 pageOrder: 18
 content-category: youtube
 ---
