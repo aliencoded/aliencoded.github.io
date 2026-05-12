@@ -7,6 +7,20 @@
   <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/assets/images/meta-currents-icon-small.jpeg' | relative_url }}">
 
+  <script>
+    // Inline theme init — runs before paint to avoid a flash of light theme
+    // when the reader prefers dark.
+    (function () {
+      try {
+        var stored = localStorage.getItem('mc-theme');
+        var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (stored === 'dark' || (!stored && prefersDark)) {
+          document.documentElement.setAttribute('data-theme', 'dark');
+        }
+      } catch (e) {}
+    })();
+  </script>
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">

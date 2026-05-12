@@ -62,6 +62,8 @@ layout: default
     {{ content }}
   </div>
 
+  {% include share-buttons.html %}
+
 {% unless page.is_llm_generated == false %}
   <div class="llm-note">
     <hr/>

@@ -1,24 +1,29 @@
 ---
+permalink: /404.html
 layout: default
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+<section class="not-found">
+  <p class="not-found__eyebrow">404</p>
+  <h1 class="not-found__title">We couldn't find that page.</h1>
+  <p class="not-found__lede">The link may be broken or the article may have moved. Try the search, or browse the latest below.</p>
 
-<div class="container">
-  <h1>404</h1>
+  <p class="not-found__actions">
+    <a href="{{ '/' | relative_url }}" class="not-found__home-link">← Back to home</a>
+  </p>
+</section>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+{%- assign latest = site.articles | sort: "date" | reverse | slice: 0, 5 -%}
+{% if latest.size > 0 %}
+  <h2 class="not-found__heading">Latest articles</h2>
+  <ul class="related-articles__list">
+    {% for post in latest %}
+      <li class="related-articles__item">
+        <a class="related-articles__link" href="{{ post.url | relative_url }}">
+          <span class="related-articles__title">{{ post.title | escape }}</span>
+          <time class="related-articles__date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}

@@ -3,33 +3,62 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    {%- assign section_pages = site.pages | where: "nav", true | where: "navGroup", "section" | sort: "pageOrder" -%}
+    {%- assign utility_pages = site.pages | where: "nav", true | where: "navGroup", "utility" | sort: "pageOrder" -%}
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+    <div class="site-footer__top">
+      <a href="{{ '/' | relative_url }}" class="site-footer__brand" aria-label="{{ site.title | escape }} — home">
+        <img src="{{ '/assets/images/meta-currents-icon-medium.jpeg' | relative_url }}" alt="" class="site-footer__icon">
+        <span class="site-footer__wordmark">
+          <span class="site-footer__wordmark-meta">meta</span><span class="site-footer__wordmark-currents">currents</span>
+        </span>
+      </a>
+      {% if site.tagline %}
+        <p class="site-footer__tagline">{{ site.tagline }}</p>
+      {% endif %}
+    </div>
 
-            © 2026 MetaCurrents
+    <div class="site-footer__nav">
+
+      {% if section_pages.size > 0 %}
+      <nav class="site-footer__group" aria-labelledby="footer-sections-heading">
+        <h3 id="footer-sections-heading" class="site-footer__heading">Sections</h3>
+        <ul>
+          {% for p in section_pages %}
+            <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a></li>
+          {% endfor %}
         </ul>
-      </div>
+      </nav>
+      {% endif %}
 
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
+      {% if utility_pages.size > 0 %}
+      <nav class="site-footer__group" aria-labelledby="footer-site-heading">
+        <h3 id="footer-site-heading" class="site-footer__heading">Site</h3>
+        <ul>
+          {% for p in utility_pages %}
+            <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+      {% endif %}
 
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-      </div>
+      <nav class="site-footer__group" aria-labelledby="footer-follow-heading">
+        <h3 id="footer-follow-heading" class="site-footer__heading">Follow</h3>
+        <ul>
+          {% if site.twitter_username %}
+            <li><a href="https://twitter.com/{{ site.twitter_username | escape }}" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+          {% endif %}
+          {% if site.github_username %}
+            <li><a href="https://github.com/{{ site.github_username | escape }}" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+          {% endif %}
+          <li><a href="{{ '/feed.xml' | relative_url }}">RSS feed</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="site-footer__bottom">
+      <p>© {{ site.time | date: "%Y" }} {{ site.title | escape }}. All rights reserved.</p>
     </div>
 
   </div>

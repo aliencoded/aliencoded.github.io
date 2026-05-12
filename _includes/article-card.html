@@ -10,6 +10,11 @@
       {% endif %}
       <div class="card-meta">
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+        {%- assign words = post.content | number_of_words -%}
+        {%- assign minutes = words | divided_by: 200 | ceil -%}
+        {%- if minutes < 1 %}{% assign minutes = 1 %}{% endif -%}
+        <span class="card-meta__separator" aria-hidden="true">·</span>
+        <span class="card-meta__read-time">{{ minutes }} min read</span>
       </div>
     </div>
   </a>

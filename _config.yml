@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Meta Currents
+tagline: "Independent news from multiple perspectives"
 # email: redacted
 author: Ali Abid
 description: >- # this means to ignore newlines until "baseurl:"
@@ -48,18 +49,20 @@ exclude:
   - Gemfile.lock
   - vendor
   - _scripts
+  - _posts            # legacy unused collection — files in here aren't part of the site
+  - _drafts
 
 collections:
   pages:
-    output: true        # this is REQUIRED to generate HTML pages
-    permalink: /pages/:title/   # optional: makes URLs clean 
+    output: true
+    permalink: /pages/:title/
   articles:
-    output: true      # ensures each article generates a page
+    output: true
+    permalink: /articles/:title/   # clean URL without .html extension
   people:
-    output: true        # this is REQUIRED to generate HTML pages
+    output: true
   videos:
-    output: true        # this is REQUIRED to generate HTML pages
-   #  permalink: /people/:title/   # optional: makes URLs clean
+    output: true
    
 
 

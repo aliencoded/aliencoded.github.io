@@ -394,3 +394,75 @@
   color: $mc-slate;
   white-space: nowrap;
 }
+
+
+/* ---------------------------------------------------------------------------
+   Share buttons (article footer)
+   --------------------------------------------------------------------------- */
+
+.share-buttons {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: $spacing-unit * 1.2 0 $spacing-unit * 0.5;
+  padding-top: 18px;
+  border-top: 1px solid $mc-rule;
+}
+
+.share-buttons__label {
+  font-size: $small-font-size;
+  font-weight: 600;
+  color: $mc-slate;
+  margin-right: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.share-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border: 1px solid $mc-rule;
+  border-radius: 50%;
+  background: transparent;
+  color: $mc-slate;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 0;
+  transition: color 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+
+  &:hover,
+  &:focus-visible {
+    color: $mc-navy;
+    border-color: $mc-accent;
+    background: $mc-bg-alt;
+    text-decoration: none;
+  }
+
+  svg {
+    display: block;
+  }
+}
+
+// Copy-link button: swap icons after a successful copy
+.share-button--copy {
+  .share-button__icon-done {
+    display: none;
+  }
+
+  &.is-copied {
+    color: $mc-accent;
+    border-color: $mc-accent;
+    background: $mc-bg-alt;
+
+    .share-button__icon-default {
+      display: none;
+    }
+    .share-button__icon-done {
+      display: block;
+    }
+  }
+}
