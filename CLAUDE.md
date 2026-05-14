@@ -90,6 +90,10 @@ There's also inconsistent casing/punctuation in the corpus (`Asia` vs `asia`, `M
 
 To promote an article to the hero slot, add `featured: true` to its front matter. The hero is excluded from the "Latest" grid below it so it doesn't appear twice.
 
+### Card hover effect
+
+Card images darken on hover via `filter: brightness(0.75)` with a 0.25s ease transition. Applied to `.card img` (article cards on home + section pages), `.hero-card__image img` (composed with the existing 1.02× scale zoom), and `.video-card img` (inline-styled in `_layouts/video-list.html`). Only the image dims — text, excerpts, and meta are untouched, and the effect never applies to images inside the article body (`post-layout.html` images aren't in a `.card` ancestor). To dial the intensity, adjust the single `0.75` value in three places: two in `_sass/meta-currents/_cards-custom.scss` and one in `_layouts/video-list.html`.
+
 ### Load-more pattern
 
 Card grids on `home` and `page-card-grid-layout` are wrapped in `.cards-with-loadmore`, which contains a `.cards-container[data-page-size="N"]` plus a `.load-more-btn`. `assets/js/load-more.js` (loaded by `default.html` with `defer`) hides cards past the page size with a `.card--hidden` class, and reveals the next batch on button click. No plugin required — pure client-side, all cards still in the rendered HTML so SEO/links are preserved. Default page size is 10 (9 on home, since the hero counts as one).

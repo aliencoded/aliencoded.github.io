@@ -14,7 +14,8 @@
       "WebFetch(domain:www.cnn.com)",
       "WebFetch(domain:keyt.com)",
       "WebFetch(domain:www.aljazeera.com)",
-      "WebFetch(domain:www.newyorktribune.com)"
+      "WebFetch(domain:www.newyorktribune.com)",
+      "Bash(bundle exec *)"
     ]
   }
 }
