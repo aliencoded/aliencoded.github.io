@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, iran, nuclear, diplomacy, index]
 image: https://images.unsplash.com/photo-1759310610775-b298f34f73aa?q=80&w=1600&auto=format&fit=crop
 excerpt: "The UN nuclear watchdog told its Board of Governors that Israeli strikes and emergency inspections have set Iran's enrichment program back by years, while warning that a meaningful quantity of near-weapons-grade uranium remains unaccounted for."
-featured: true
 ---
 
 VIENNA — The International Atomic Energy Agency told its 35-member Board of Governors on Tuesday that Israeli strikes and a four-week emergency inspection regime have set Iran's uranium enrichment capability back by at least two to three years, but cautioned that a "meaningful quantity" of near-weapons-grade material remained unaccounted for and that key centrifuge components had been moved before agency teams arrived.
