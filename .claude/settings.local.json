@@ -15,7 +15,9 @@
       "WebFetch(domain:keyt.com)",
       "WebFetch(domain:www.aljazeera.com)",
       "WebFetch(domain:www.newyorktribune.com)",
-      "Bash(bundle exec *)"
+      "Bash(bundle exec *)",
+      "Bash(awk -F- '{print $1\"-\"$2\"-\"$3}')",
+      "Bash(xargs -I {} sh -c 'echo \"=== {} ===\"; head -10 {}')"
     ]
   }
 }

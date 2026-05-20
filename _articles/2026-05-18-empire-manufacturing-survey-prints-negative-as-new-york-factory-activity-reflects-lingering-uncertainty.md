@@ -1,0 +1,38 @@
+---
+layout: post-layout
+title: "Empire Manufacturing survey prints negative as New York factory activity reflects lingering uncertainty"
+date: 2026-05-18 07:00:00 -0500
+lastUpdated: 2026-05-18 07:00:00 -0500
+author: [MetaCurrents Staff]
+categories: [articles, business, index, markets, economy, manufacturing]
+image: https://images.unsplash.com/photo-1626695436783-d942d5928174?q=80&w=1600&auto=format&fit=crop
+excerpt: "The Federal Reserve Bank of New York's Empire State Manufacturing Survey printed at minus three-point-four for May Monday morning, below consensus and reflecting lingering post-war uncertainty."
+---
+
+NEW YORK — The Federal Reserve Bank of New York's Empire State Manufacturing Survey printed at minus three-point-four for May Monday morning, below the consensus expectation of minus two-point-one and reflecting lingering post-war uncertainty in the New York region's manufacturing-sector sentiment despite the broader recovery indicators that have characterized recent data flow.
+
+The survey's headline general-business-conditions index reading was the second consecutive negative print and the eighth negative print in the past twelve months, indicating that the regional manufacturing-sector recovery has been substantially less robust than the broader consumer-sector recovery captured in Friday's retail-sales data. The print's substantive composition showed continued weakness in new orders and shipments, partially offset by stabilization in employment intentions.
+
+The new-orders component, which had been negative through the entire war period and the immediate post-war period, printed at minus four-point-seven against last month's minus six-point-two, indicating modest improvement at the margin but continued contraction in the underlying order flow. The shipments component, which tends to lag the new-orders signal by approximately one month, printed at minus two-point-one against last month's minus three-point-eight.
+
+The employment intentions component, by contrast, printed at plus four-point-six against last month's plus three-point-one, indicating that the surveyed manufacturers were marginally more inclined to add to headcount than they had been in April. The component's positive print across the past three months reflects, according to the New York Fed's accompanying commentary, both the resilient labor-market environment and the manufacturers' positioning for an anticipated demand recovery later in the year.
+
+The prices-paid component, which the Federal Reserve closely watches as a regional input-cost signal, printed at plus thirty-one-point-two against last month's plus twenty-nine-point-eight, indicating modestly elevated input-cost pressure. The prices-received component printed at plus seventeen-point-six against last month's plus fifteen-point-three, indicating that the surveyed manufacturers had been able to pass through approximately fifty-six percent of input-cost increases to their downstream customers — a substantively lower pass-through rate than the multi-year average.
+
+The survey's six-month-forward expectations component, which tends to be more forward-looking than the headline current-conditions index, printed at plus twenty-two-point-six against last month's plus eighteen-point-four, indicating substantial improvement in manufacturers' medium-term outlook. The expectations component's elevation reflects the broader macro environment's recent improvement and the manufacturers' expectations that the post-war recovery will broaden into the manufacturing sector during the second half of 2026.
+
+A senior New York Fed economist, in remarks accompanying the survey's release, said the survey's substantive composition was "consistent with a manufacturing sector that has not yet experienced the recovery momentum visible in the consumer sector" but indicated that the forward-expectations component's substantive elevation was "directionally encouraging." The economist noted that the survey's particular composition — heavily weighted toward small and medium-sized regional manufacturers — could be expected to lag the broader recovery indicators by several months.
+
+The survey's release coincided with several other Monday-morning data points. The National Association of Home Builders' May builders' confidence index, scheduled for release at 10 a.m. Eastern, is expected to provide additional information on the housing-sector momentum that the Tuesday housing-starts data will substantially address. The U.S. Treasury's monthly auction calendar will include a $46 billion three-year note auction Tuesday afternoon, with the auction's substantive demand reception expected to inform the broader Treasury-curve positioning.
+
+A senior economist at a major U.S. brokerage, in a Monday-morning client note, said the Empire survey's substantive print should be interpreted as "consistent with a manufacturing-sector recovery that is taking longer than the consensus had anticipated" but cautioned against extrapolating the regional New York signal to the broader U.S. manufacturing sector. The economist noted that the Philadelphia Fed manufacturing survey, scheduled for Thursday, would provide a substantively complementary read.
+
+The Federal Reserve speaker calendar's substantive content is expected to address the manufacturing-sector recovery question through the week. Cleveland Fed President Beth Hammack, speaking Monday morning in Cleveland, was scheduled to address regional economic conditions and may provide substantive commentary on the manufacturing-sector recovery trajectory. The vice chair's Wednesday speech at the New York Economic Club will be the most closely watched substantive policy communication of the week.
+
+Equity-market reaction to the Empire print was muted in pre-market trading, with the S&P 500 futures complex showing modest losses on the print but with the broader pre-market session reflecting other substantive considerations. The dollar index strengthened modestly on the print, while the yield on the ten-year Treasury note ticked down two basis points to four-point-three-six percent. The two-year note was little changed.
+
+A senior manufacturing-sector analyst at a major U.S. consulting firm, in a Monday-morning client note, said the Empire survey's substantive content was "broadly consistent" with the operating-conditions assessments that have emerged from recent manufacturer earnings calls. The analyst noted that the principal industrial-sector firms had communicated through their first-quarter earnings calls that the manufacturing-sector recovery was "expected to materialize during the second half of 2026" rather than during the first half.
+
+The Empire survey's substantive content will be incorporated into the broader Federal Reserve regional-banking analysis through the Beige Book preparation cycle. The Beige Book's June edition, scheduled for publication June 4, will provide a substantively detailed national assessment of the manufacturing-sector recovery framework. The Beige Book's substantive content has historically been an important input into the FOMC's substantive deliberations.
+
+The week's substantive manufacturing-sector data flow will continue with the Philadelphia Fed survey Thursday and with the preliminary May S&P Global Manufacturing PMI scheduled for release Friday morning at 9:45 a.m. Eastern. The PMI's substantive content will be the most comprehensive single read on the May manufacturing-sector conditions and is expected to substantially inform the consensus framework for the May ISM Manufacturing PMI scheduled for release June 2.
