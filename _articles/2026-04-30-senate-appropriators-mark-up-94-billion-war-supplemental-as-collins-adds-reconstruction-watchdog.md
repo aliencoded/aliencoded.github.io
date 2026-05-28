@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Senate appropriators mark up $94 billion war supplemental as Collins adds reconstruction watchdog"
 date: 2026-04-30 10:00:00 -0500
@@ -7,14 +7,13 @@ author: [MetaCurrents Staff]
 categories: [articles, us, congress, white-house, war-costs, supplemental, index]
 image: https://images.unsplash.com/photo-1690848012121-4752eaffbf98?q=80&w=1600&auto=format&fit=crop
 excerpt: "The Senate Appropriations Committee opened markup of a $94.1 billion Iran war supplemental Thursday morning, bolting on roughly $4.7 billion in mental health funding and a Senate-confirmed inspector general for reconstruction over administration objections."
-featured: true
 ---
 
 The Senate Appropriations Committee opened markup of a $94.1 billion Iran war supplemental Thursday morning, bolting an additional $4.7 billion for veterans' mental health services and a Senate-confirmed inspector general for reconstruction onto a White House package that had arrived at $89.4 billion only six days earlier.
 
 The chairman's mark, circulated to members shortly after 9 a.m. and obtained by reporters at the dais, kept intact every line of the administration's munitions-replenishment request, including the $34.2 billion earmarked for Patriot, THAAD, SM-6 and Tomahawk inventory. But it added a free-standing title creating a Special Inspector General for Iran and Iraq Reconstruction, modeled on the SIGAR office that oversaw the Afghanistan rebuild, with a five-year sunset and a $190 million standing budget drawn from administrative set-asides on the reconstruction account itself.
 
-Chair Susan Collins of Maine, in a brief statement gaveling in the session, said the additions reflected "two lessons that this committee has refused to learn three times in a generation" — the costs borne by service members long after a war ends, and the costs borne by taxpayers when reconstruction dollars are pushed out the door without an independent watchdog. "There will not be a fourth time on my watch," Collins said.
+Chair Susan Collins of Maine, in a brief statement gaveling in the session, said the additions reflected "two lessons that this committee has refused to learn three times in a generation" â€” the costs borne by service members long after a war ends, and the costs borne by taxpayers when reconstruction dollars are pushed out the door without an independent watchdog. "There will not be a fourth time on my watch," Collins said.
 
 The markup arrived less than 16 hours after the Senate adopted the Kaine-Murphy war powers resolution 58-42, with five Republicans crossing the aisle, and only hours after Defense Secretary Pete Hegseth completed eight hours of closed and open testimony Wednesday before the Senate Armed Services Committee. The pace, three senior aides said Thursday morning, was deliberate. Collins and ranking member Patty Murray of Washington had spent the previous weekend agreeing on what one aide called "a Thursday vehicle" that would force the House to react before its Memorial Day recess targets slipped.
 

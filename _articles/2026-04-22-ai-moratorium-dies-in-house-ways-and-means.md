@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "AI Moratorium Dies in House Ways and Means on 24-21 Vote"
 date: 2026-04-22 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, us, ai, congress, tech-policy, index]
 image: https://images.unsplash.com/photo-1659995880953-f01cb1b3b6d5?q=80&w=1600&auto=format&fit=crop
 excerpt: "The Sanders-Ocasio-Cortez moratorium on frontier AI training runs collapsed in the House Ways and Means Committee on Wednesday, killed by a 24-21 vote that united Republicans with a bloc of moderate Democrats."
-featured: true
 ---
 
 The two-year federal moratorium on frontier artificial intelligence training runs collapsed in the House Ways and Means Committee on Wednesday afternoon, killed by a 24-21 vote that united every Republican on the panel with three moderate Democrats and effectively ended the most ambitious congressional effort yet to slow the build-out of large-scale AI systems.

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Geneva Talks Yield Tentative Sanctions Roadmap as Iran-IAEA Deal Clears Final Hurdle"
 date: 2026-04-28 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, iran, sanctions, diplomacy, index]
 image: https://images.unsplash.com/photo-1776248783518-400b6d0da64c?q=80&w=1600&auto=format&fit=crop
 excerpt: "Negotiators in Geneva on Monday produced a draft framework for phased sanctions relief tied to Iranian compliance with inspections, while Tehran and the IAEA finalized terms for the agency's return to nuclear sites untouched by Israeli strikes."
-featured: true
 ---
 
 Negotiators meeting under Swiss and Omani mediation in Geneva produced a tentative roadmap on Monday for the phased lifting of sanctions on Iran, tied step-by-step to verified compliance with a renewed inspections regime, in what diplomats called the most concrete diplomatic gain of the two-week-old post-war phase and a critical test of whether the Islamabad ceasefire can be converted into a durable settlement.

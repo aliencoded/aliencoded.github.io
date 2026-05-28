@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Iran Fires Largest Missile Barrage of War at Israel as U.S. Death Toll Rises in Iraq"
 date: 2026-04-03 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, military, iran, israel, index]
 image: https://images.unsplash.com/photo-1761789083759-42c4fcb31b7e?q=80&w=1600&auto=format&fit=crop
 excerpt: "More than 180 Iranian missiles and drones streaked toward Israeli cities overnight in the largest single salvo of the five-week war, even as a fresh strike on a U.S. logistics base in western Iraq pushed American combat deaths past 290."
-featured: true
 ---
 
 

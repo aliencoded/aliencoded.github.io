@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Marseille Conference Opens With $84 Billion Pledge Target for Postwar Middle East"
 date: 2026-05-06 10:00:00 -0500
@@ -7,12 +7,11 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, diplomacy, reconstruction, index]
 image: https://images.unsplash.com/photo-1759310610775-b298f34f73aa?q=80&w=1600&auto=format&fit=crop
 excerpt: "Delegates from more than 60 nations gathered at Marseille's Palais du Pharo on Wednesday to launch a two-day donor conference aimed at raising $84 billion for Iran, Iraq and Yemen reconstruction, with European hosts pressing Gulf states for the bulk of the commitments."
-featured: true
 ---
 
 Delegates from more than 60 nations convened at Marseille's Palais du Pharo on Wednesday for a two-day donor conference seeking $84 billion in pledges to rebuild infrastructure damaged during the Iran war, with French and German officials pressing Gulf capitals to shoulder the largest share of an effort that will define the postwar order in the Persian Gulf.
 
-The conference, co-chaired by France and Japan and convened under United Nations auspices, opened with addresses from French President Emmanuel Macron, UN Secretary-General António Guterres and Iranian Foreign Minister Abbas Araghchi, marking the first time since the April 15 ceasefire that an Iranian cabinet minister has appeared at a Western-hosted multilateral forum. Iraqi Prime Minister Mohammed Shia al-Sudani and a senior Yemeni delegation led by Foreign Minister Shaya al-Zindani also attended.
+The conference, co-chaired by France and Japan and convened under United Nations auspices, opened with addresses from French President Emmanuel Macron, UN Secretary-General AntÃ³nio Guterres and Iranian Foreign Minister Abbas Araghchi, marking the first time since the April 15 ceasefire that an Iranian cabinet minister has appeared at a Western-hosted multilateral forum. Iraqi Prime Minister Mohammed Shia al-Sudani and a senior Yemeni delegation led by Foreign Minister Shaya al-Zindani also attended.
 
 Organizers said the $84 billion figure, drawn from a joint World Bank and UN Development Programme damage assessment released April 28, covers a five-year horizon and is split roughly into $38 billion for Iran, $26 billion for Iraq, $14 billion for Yemen and the balance for regional refugee programs administered through UNHCR and the IOM. The assessment counted damage to roughly 4,200 buildings, 31 power-generation facilities, 12 ports and harbor installations and an estimated 2.1 million internally displaced persons.
 
@@ -40,4 +39,4 @@ Reconstruction contracting will be coordinated through a new Marseille Compact s
 
 Markets responded modestly to the conference's opening. Brent crude settled at $91.40 a barrel, down 80 cents on the session, while the euro firmed against the dollar on expectations that European pledges would lean heavily on grant financing rather than loans. Construction and engineering equities listed in Paris and Frankfurt traded broadly higher.
 
-Final pledge totals are expected to be announced Thursday evening at a closing session, with a joint communiqué to follow. Macron, in his opening remarks, said co-chairs would also propose a follow-up donor meeting in Tokyo in early 2027 to assess progress and address any shortfall.
+Final pledge totals are expected to be announced Thursday evening at a closing session, with a joint communiquÃ© to follow. Macron, in his opening remarks, said co-chairs would also propose a follow-up donor meeting in Tokyo in early 2027 to assess progress and address any shortfall.

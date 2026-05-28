@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "IAEA team conducts first full-access Fordow inspection since 2023"
 date: 2026-05-20 07:00:00 -0500
@@ -6,15 +6,14 @@ lastUpdated: 2026-05-20 07:00:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, global, geopolitics, index, middle-east, iran, international-relations]
 image: https://images.unsplash.com/photo-1580128660010-fd027e1e587a?q=80&w=1600&auto=format&fit=crop
-featured: true
 excerpt: "An IAEA technical team conducted a full-access inspection of the Fordow underground enrichment facility Wednesday, the first such visit in more than two years and a centerpiece of the post-war framework."
 ---
 
-QOM, Iran — An International Atomic Energy Agency technical team conducted a full-access inspection of the Fordow underground enrichment facility Wednesday morning, the first such visit in more than two years and the most operationally significant single event of the post-war inspection framework's early implementation.
+QOM, Iran â€” An International Atomic Energy Agency technical team conducted a full-access inspection of the Fordow underground enrichment facility Wednesday morning, the first such visit in more than two years and the most operationally significant single event of the post-war inspection framework's early implementation.
 
 The visit, scheduled to run from 8 a.m. local time through late afternoon, gave the inspection team access to the facility's underground galleries, its surface support infrastructure, and the principal enrichment hall whose configuration had been at the center of pre-war IAEA access disputes. Director-General Rafael Grossi accompanied the team for the first three hours of the visit before departing for a parallel senior-officials meeting at the Iranian Foreign Ministry in Tehran.
 
-Fordow's significance as a verification target reflects both its physical configuration — built into a mountain near the city of Qom, with overhead protection that makes external observation difficult — and its operational history. The facility had been declared to the IAEA in 2009 but had been the subject of recurring access disputes through the late 2010s and early 2020s. IAEA access had been substantially curtailed since the 2023 agreement breakdown, with the agency relying on satellite observation and infrequent transit-style visits to maintain even partial situational awareness.
+Fordow's significance as a verification target reflects both its physical configuration â€” built into a mountain near the city of Qom, with overhead protection that makes external observation difficult â€” and its operational history. The facility had been declared to the IAEA in 2009 but had been the subject of recurring access disputes through the late 2010s and early 2020s. IAEA access had been substantially curtailed since the 2023 agreement breakdown, with the agency relying on satellite observation and infrequent transit-style visits to maintain even partial situational awareness.
 
 A senior IAEA official, in a Wednesday-morning briefing from the facility's entrance, said the team's access scope matched what had been pre-coordinated through the working-level channel established in early May. The team's access includes the underground gallery's principal cascade halls, the enrichment-monitoring equipment installations, and the surface-level uranium-hexafluoride handling infrastructure. Environmental sampling protocols are being executed at designated locations across the facility.
 

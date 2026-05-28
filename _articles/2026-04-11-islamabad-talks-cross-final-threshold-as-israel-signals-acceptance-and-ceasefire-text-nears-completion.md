@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Islamabad Talks Cross Final Threshold as Israel Signals Acceptance and Ceasefire Text Nears Completion"
 date: 2026-04-11 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, diplomacy, iran, israel, index]
 image: https://images.unsplash.com/photo-1776248783518-400b6d0da64c?q=80&w=1600&auto=format&fit=crop
 excerpt: "Mediators in Islamabad said Saturday that the framework principles document had been initialed by Iranian and U.S. delegations and that Israel had signaled it would not block a joint statement, putting a ceasefire announcement within reach as soon as Sunday."
-featured: true
 ---
 
 The trilateral mediation team in Islamabad said Saturday that Iranian and American delegations had initialed the working text of the "framework principles" document and that Israel had separately signaled, through U.S. channels, that it would not stand in the way of a joint statement, narrowing the gap to a ceasefire announcement to a matter of hours rather than days and producing the most consequential diplomatic moment of the six-week war.

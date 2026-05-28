@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Last-Minute Strikes Test Iran-Israel Ceasefire Before Wednesday Deadline"
 date: 2026-04-13 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, iran, ceasefire, index]
 image: https://images.unsplash.com/photo-1761789083759-42c4fcb31b7e?q=80&w=1600&auto=format&fit=crop
 excerpt: "A burst of last-minute attacks rattled the Iran-Israel ceasefire framework Monday, even as mediators in Islamabad insisted the Wednesday halt remains on track and both governments publicly reaffirmed the timetable."
-featured: true
 ---
 
 A wave of last-minute strikes and rocket fire rippled across the Middle East on Monday, testing the fragile ceasefire framework announced in Islamabad less than 48 hours earlier and stoking public anxiety in the final stretch before the truce is scheduled to take effect at midnight Wednesday GMT.
@@ -34,6 +33,6 @@ Civilians across the region braced through another tense night. In Tel Aviv, she
 
 U.S. forces in the region remained at heightened alert. The Pentagon said the death of a Marine corporal killed by drone fragments at Al-Asad Air Base in western Iraq on Sunday night brought the total U.S. service-member toll since the conflict began to 352. The Pentagon identified the Marine as Cpl. Ethan Vasquez, 22, of Bakersfield, California. Defense Secretary Pete Hegseth, in a statement Monday morning, said American forces would "maintain full defensive posture through the moment the ceasefire takes effect, and beyond."
 
-Analysts cautioned that even a clean transition to the truce on Wednesday would leave a tangle of unresolved issues — sanctions relief, prisoner exchanges, the fate of Iranian-aligned militias in Iraq and Syria, and the politically charged question of an international monitoring presence at Iran's surviving enrichment sites. A draft prisoner-exchange list circulating among the mediators reportedly includes roughly 40 detained foreign nationals on the Iranian side, alongside the remains of several U.S. service members, in return for Iranian and Hezbollah-affiliated detainees held by the United States and Israel.
+Analysts cautioned that even a clean transition to the truce on Wednesday would leave a tangle of unresolved issues â€” sanctions relief, prisoner exchanges, the fate of Iranian-aligned militias in Iraq and Syria, and the politically charged question of an international monitoring presence at Iran's surviving enrichment sites. A draft prisoner-exchange list circulating among the mediators reportedly includes roughly 40 detained foreign nationals on the Iranian side, alongside the remains of several U.S. service members, in return for Iranian and Hezbollah-affiliated detainees held by the United States and Israel.
 
 For now, officials on all sides said, the priority is simply getting to Wednesday. "The hardest part of any ceasefire is the day before it begins," said retired U.S. Air Force Gen. Marcus Holloway, a former CENTCOM deputy commander now at the Atlantic Council. "Everyone is watching the clock, and no one wants to blink first." Mediators in Islamabad said additional confidence-building measures would be announced Tuesday.

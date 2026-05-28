@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "IAEA preliminary report finds Natanz and Fordow cascades largely destroyed, complicating Vienna talks"
 date: 2026-04-29 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, nuclear, iran, diplomacy, index]
 image: https://images.unsplash.com/photo-1728320696422-74eff3ea0a21?q=80&w=1600&auto=format&fit=crop
 excerpt: "An IAEA preliminary assessment circulated to member states Wednesday found that Israeli strikes destroyed an estimated 70 to 85 percent of the enrichment cascades at Natanz and Fordow, a finding that has reordered the calculus of the Vienna talks on day 14 of the ceasefire."
-featured: true
 ---
 
 Israeli strikes during the six-week war destroyed an estimated 70 to 85 percent of Iran's installed enrichment capacity at the Natanz and Fordow complexes, according to a preliminary International Atomic Energy Agency assessment circulated to member states on Wednesday, a finding that has scrambled the negotiating posture in Vienna and handed the most consequential piece of paper to land on diplomats' desks in the two weeks since the ceasefire took hold.

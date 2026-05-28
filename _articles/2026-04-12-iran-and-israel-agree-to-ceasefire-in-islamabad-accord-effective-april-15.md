@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Iran and Israel Agree to Ceasefire in Islamabad Accord, Effective April 15"
 date: 2026-04-12 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, diplomacy, iran, ceasefire, index]
 image: https://images.unsplash.com/photo-1758138258458-64ee0fbdef4c?q=80&w=1600&auto=format&fit=crop
 excerpt: "Iran and Israel agreed Sunday to halt the six-week war under a ceasefire brokered in Islamabad and set to take effect at 00:00 GMT on April 15, with mediators announcing a four-pillar framework and a 30-day verification window."
-featured: true
 ---
 
 Iran and Israel agreed Sunday to halt their six-week war under a ceasefire brokered by Pakistan, Saudi Arabia and Egypt, with a joint statement issued from Islamabad announcing that hostilities would end at 00:00 GMT on April 15 and that a 30-day international verification regime would begin the same day.
@@ -38,6 +37,6 @@ The prisoner exchange, scheduled for April 18 at Doha's Hamad International Airp
 
 In Riyadh, Cairo and Ankara, governments issued statements welcoming the accord. The French and German foreign ministers, who had pressed mediators to keep European technical observers in the verification mix, said the European Union would help fund the monitoring mission. Russia, whose role in the talks was minimal, called the outcome "a positive development."
 
-UN Secretary-General António Guterres said an advance team of observers would deploy to the Strait of Hormuz on Tuesday and that a fuller mission would be operational by April 15. He urged "maximum restraint" in the intervening hours.
+UN Secretary-General AntÃ³nio Guterres said an advance team of observers would deploy to the Strait of Hormuz on Tuesday and that a fuller mission would be operational by April 15. He urged "maximum restraint" in the intervening hours.
 
 Pakistani officials said the host country would convene a follow-on meeting at the deputy-minister level in May to begin discussions on a longer-term framework, including a return to nuclear talks separately under Omani auspices. Officials said additional steps, including the precise timing of the Doha exchange and the deployment schedule for UN observers, would be announced in the coming days.

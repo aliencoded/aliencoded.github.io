@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Netanyahu Signals Conditional Engagement With Islamabad Framework as Mediators Brace for Hardest Week"
 date: 2026-04-09 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, diplomacy, iran, israel, index]
 image: https://images.unsplash.com/photo-1776248783518-400b6d0da64c?q=80&w=1600&auto=format&fit=crop
 excerpt: "Israeli Prime Minister Benjamin Netanyahu signaled Thursday that his government would engage 'conditionally and through Washington' with the Islamabad framework, ending an awkward silence and clearing a procedural hurdle that had threatened to stall the mediation."
-featured: true
 ---
 
 Israeli Prime Minister Benjamin Netanyahu told his security cabinet Thursday that his government would engage "conditionally and through Washington" with the framework principles circulated by Pakistani, Saudi and Egyptian mediators in Islamabad, ending an awkward four-day silence from Jerusalem and clearing a procedural hurdle that had threatened to stall the mediation just as it gathered momentum.
@@ -46,4 +45,4 @@ The Pentagon, in its daily war update, reported the cumulative U.S. casualty fig
 
 Markets again read the diplomatic signals before they read the strike reports. Brent crude fell another $1.80 in London trading to settle near $103, its lowest close since the war began, and the S&P 500 closed up 1.1 percent as traders priced in a higher probability of a near-term ceasefire. "The Israeli statement was the gate everyone had been waiting on," said John Reilly, a commodities analyst at Citi. "It does not get us to a deal, but it tells the market the deal is now possible."
 
-Pakistani officials said the revised non-paper would be circulated Friday evening and that a third joint communiqué from the mediators was expected by Sunday. Dar said additional steps, including a possible expansion of the Riyadh liaison cell and the formal designation of Muscat as the monitoring hub, would be announced as the parties responded.
+Pakistani officials said the revised non-paper would be circulated Friday evening and that a third joint communiquÃ© from the mediators was expected by Sunday. Dar said additional steps, including a possible expansion of the Riyadh liaison cell and the formal designation of Muscat as the monitoring hub, would be announced as the parties responded.

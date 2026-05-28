@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Israel Launches Broadest Strikes Yet on Iranian Nuclear and Energy Sites in Response to Tel Aviv Barrage"
 date: 2026-04-04 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, military, iran, israel, index]
 image: https://images.unsplash.com/photo-1640693788837-e1903a5fdb95?q=80&w=1600&auto=format&fit=crop
 excerpt: "Israeli warplanes and standoff munitions hit at least 27 sites across Iran in a sweeping overnight operation that targeted enrichment infrastructure near Natanz, IRGC command nodes and the Bandar Abbas oil-export terminal, officials in Tel Aviv and Tehran said."
-featured: true
 ---
 
 Israeli warplanes and standoff cruise missiles struck at least 27 targets across Iran in a sweeping overnight operation that ranged from uranium-enrichment infrastructure near Natanz to the country's largest oil-export terminal at Bandar Abbas, military officials in Tel Aviv said Saturday, in what the Israel Defense Forces described as the most extensive single operation against Iranian territory since the war began five weeks ago.

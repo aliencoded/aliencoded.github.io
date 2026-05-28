@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Israel Hits Natanz and Parchin in Largest Air Campaign Since War Began as U.S. Toll Nears 330"
 date: 2026-04-05 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, iran, israel, military, index]
 image: https://images.unsplash.com/photo-1640693788837-e1903a5fdb95?q=80&w=1600&auto=format&fit=crop
 excerpt: "Israeli warplanes struck the Natanz enrichment complex and the Parchin military site in an overnight wave the IDF called its broadest operation of the war, as the U.S. combat death toll climbed toward 330 with two more attacks on bases in Iraq."
-featured: true
 ---
 
 

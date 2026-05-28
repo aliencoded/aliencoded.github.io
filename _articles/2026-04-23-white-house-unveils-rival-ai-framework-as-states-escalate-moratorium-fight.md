@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "White House Unveils Rival AI Framework as States Escalate Moratorium Fight"
 date: 2026-04-23 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, us, ai, ai-moratorium, tech-policy, congress, index]
 image: https://images.unsplash.com/photo-1690848012121-4752eaffbf98?q=80&w=1600&auto=format&fit=crop
 excerpt: "One day after the Sanders-Ocasio-Cortez moratorium collapsed in committee, the White House circulated its own AI framework while New York and California lawmakers fast-tracked state-level pauses on frontier training."
-featured: true
 ---
 
 The White House on Thursday circulated a competing artificial intelligence framework to congressional leaders, sketching a regulatory approach built around disclosure, energy reporting and a voluntary safety-evaluation regime, as Democratic-led legislatures in New York and California moved within hours to advance their own moratorium bills and reshape a fight that had appeared to end on Capitol Hill the day before.

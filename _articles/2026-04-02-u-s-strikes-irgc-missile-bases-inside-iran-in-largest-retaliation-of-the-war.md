@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "U.S. Strikes IRGC Missile Bases Inside Iran in Largest Retaliation of the War"
 date: 2026-04-02 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, military, iran, escalation, index]
 image: https://images.unsplash.com/photo-1761789083759-42c4fcb31b7e?q=80&w=1600&auto=format&fit=crop
 excerpt: "American warplanes and Tomahawk missiles struck five Islamic Revolutionary Guard Corps missile complexes deep inside Iran overnight, the Pentagon said, in the largest single U.S. operation since fighting began a month ago."
-featured: true
 ---
 
 American warplanes and ship-launched cruise missiles struck five Islamic Revolutionary Guard Corps missile complexes deep inside Iran in the overnight hours of Wednesday and Thursday, the Pentagon said, in what U.S. officials described as the largest single American operation since the war with Iran erupted in early March and the most direct retaliation yet for Monday's attack on Ain al-Asad airbase that killed nine U.S. service members.

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Tehran cabinet shake-up: reformist bloc gains ground as Pezeshkian cedes economic portfolios"
 date: 2026-05-10 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, iran, post-war, index]
 image: https://images.unsplash.com/photo-1759310610775-b298f34f73aa?q=80&w=1600&auto=format&fit=crop
 excerpt: "President Masoud Pezeshkian on Saturday accepted the resignations of three senior ministers and signaled a broader reshuffle, the clearest sign yet that Iran's wartime cabinet is being recast for a long recovery."
-featured: true
 ---
 
 President Masoud Pezeshkian on Saturday accepted the resignations of three senior ministers and signaled a broader reshuffle of his government, the clearest sign yet that Iran's wartime cabinet is being recast for a long and politically fraught recovery from the six-week war with Israel.

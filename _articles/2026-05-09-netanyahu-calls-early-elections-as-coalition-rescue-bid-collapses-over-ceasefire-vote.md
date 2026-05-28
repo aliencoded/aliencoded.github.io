@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Netanyahu Calls Early Elections as Coalition Rescue Bid Collapses Over Ceasefire Vote"
 date: 2026-05-09 10:00:00 -0500
@@ -7,10 +7,9 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, israel, post-war, elections, index]
 image: https://images.unsplash.com/photo-1776248783518-400b6d0da64c?q=80&w=1600&auto=format&fit=crop
 excerpt: "Prime Minister Benjamin Netanyahu announced early Israeli elections in a Saturday night address from Jerusalem after a two-week effort to draw the National Unity bloc into a wartime cabinet collapsed over the Islamabad framework and a looming Knesset confidence vote."
-featured: true
 ---
 
-JERUSALEM — Prime Minister Benjamin Netanyahu told Israelis on Saturday night that he was sending the country to early elections in late July, conceding the failure of a two-week effort to broaden his coalition and bowing to a Knesset confidence vote scheduled for Monday that aides acknowledged he no longer expected to survive.
+JERUSALEM â€” Prime Minister Benjamin Netanyahu told Israelis on Saturday night that he was sending the country to early elections in late July, conceding the failure of a two-week effort to broaden his coalition and bowing to a Knesset confidence vote scheduled for Monday that aides acknowledged he no longer expected to survive.
 
 In a 14-minute televised address delivered from the Prime Minister's Office shortly after the end of Shabbat, Mr. Netanyahu said he had instructed his cabinet secretary to formally request a dissolution motion on Sunday and would urge Knesset Speaker Amir Ohana to schedule a vote on the writ by midweek. Polling stations, he said, would open on July 28, the earliest date permitted under the Basic Law: The Knesset once a dissolution bill is enacted.
 

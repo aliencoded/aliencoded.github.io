@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "After Doha Handover, Focus Shifts to a Fragile Reconstruction"
 date: 2026-04-19 10:00:00 -0500
@@ -7,12 +7,11 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, ceasefire, reconstruction, iran, index]
 image: https://images.unsplash.com/photo-1759310610775-b298f34f73aa?q=80&w=1600&auto=format&fit=crop
 excerpt: "A day after the Doha prisoner handover, governments turned to the harder work of rebuilding battered cities and ports, with donor pledges, monitoring rules and refugee returns at the top of the agenda."
-featured: true
 ---
 
 A day after the prisoner exchange in Doha closed the most charged chapter of the seven-week Iran war, governments on Sunday turned to the slower and more politically treacherous task of rebuilding shattered cities, restoring power to gulf ports and managing the return of more than two million displaced people across four countries.
 
-Diplomats from the Islamabad mediation group — Pakistan, Saudi Arabia and Egypt — convened a closed-door working session in Doha to draft what one participant described as a "phase-two" framework for the ceasefire that took effect on April 15. The session followed Saturday's handover, in which Iran released roughly 40 detained foreign nationals and the remains of seven U.S. service members in exchange for a smaller group of Iranian and Hezbollah-affiliated detainees held by the United States and Israel.
+Diplomats from the Islamabad mediation group â€” Pakistan, Saudi Arabia and Egypt â€” convened a closed-door working session in Doha to draft what one participant described as a "phase-two" framework for the ceasefire that took effect on April 15. The session followed Saturday's handover, in which Iran released roughly 40 detained foreign nationals and the remains of seven U.S. service members in exchange for a smaller group of Iranian and Hezbollah-affiliated detainees held by the United States and Israel.
 
 "The guns are quiet, but quiet is not the same as peace," Pakistani Foreign Minister Ishaq Dar told reporters as he left the morning session. "Phase two is about whether reconstruction can outpace resentment. That is the work of months, not weeks."
 
@@ -20,7 +19,7 @@ The State Department confirmed that the remains of the seven service members wer
 
 In Tehran, state media broadcast images of the returned detainees being greeted at Mehrabad Airport, where Foreign Minister Abbas Araghchi described the handover as "a step taken without illusions." He repeated Iran's position that no negotiation over its civilian nuclear program would be tied to the ceasefire, a stance that has frustrated U.S. and Israeli officials but which mediators have so far accepted as the price of keeping the truce intact.
 
-The early days of the ceasefire have not been seamless. A Houthi missile fired from western Yemen on April 16 was intercepted over the southern Red Sea, and a small rocket launched from an Iraqi militia position struck open desert near Ain al-Asad airbase a day later. Both incidents drew condemnations from Tehran and from the Islamabad group, and neither prompted a military response — a pattern U.S. Central Command on Sunday described as "the discipline we need to see continue."
+The early days of the ceasefire have not been seamless. A Houthi missile fired from western Yemen on April 16 was intercepted over the southern Red Sea, and a small rocket launched from an Iraqi militia position struck open desert near Ain al-Asad airbase a day later. Both incidents drew condemnations from Tehran and from the Islamabad group, and neither prompted a military response â€” a pattern U.S. Central Command on Sunday described as "the discipline we need to see continue."
 
 UN observers, deployed last week to monitor traffic through the Strait of Hormuz, reported that commercial transits had risen to 78 vessels on Saturday, the highest single-day total since early March, though still below the pre-war average of about 110. Insurance underwriters at Lloyd's of London said war-risk premiums for tankers in the gulf had eased for a fourth straight session.
 

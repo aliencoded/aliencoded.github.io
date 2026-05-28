@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "U.S. Launches Large-Scale Retaliatory Strikes on IRGC Bases Inside Iran"
 date: 2026-03-31 10:00:00 -0500
@@ -7,14 +7,13 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, military, iran, escalation, index]
 image: https://images.unsplash.com/photo-1761789083759-42c4fcb31b7e?q=80&w=1600&auto=format&fit=crop
 excerpt: "U.S. forces struck more than two dozen Islamic Revolutionary Guard Corps targets across western and central Iran overnight, the largest American military operation against Iranian soil since the war began, in retaliation for Monday's deadly attack on Ain al-Asad airbase."
-featured: true
 ---
 
 American warplanes and Tomahawk cruise missiles struck more than two dozen Islamic Revolutionary Guard Corps facilities across western and central Iran in a coordinated overnight operation, U.S. Central Command said Tuesday, in by far the largest American military action against Iranian soil since the war erupted four weeks ago and a direct response to the deadly missile barrage that killed at least nine U.S. service members at Ain al-Asad airbase a day earlier.
 
 The strikes, which began at roughly 1:40 a.m. local time and continued for more than two hours, hit IRGC missile-launch complexes, drone-assembly facilities, command-and-control nodes and a logistics depot in Kermanshah, Hamadan, Isfahan and Yazd provinces, according to a Pentagon battle-damage briefing delivered to reporters shortly after dawn in Washington. CENTCOM said all American aircraft had returned safely to their bases.
 
-President Donald Trump, in a brief televised address from the Oval Office at 10:14 p.m. Eastern time Monday — already past midnight in Iran when the first weapons impacted — said the operation had been authorized "with full deliberation and at the unanimous recommendation" of his national security team. He did not take questions.
+President Donald Trump, in a brief televised address from the Oval Office at 10:14 p.m. Eastern time Monday â€” already past midnight in Iran when the first weapons impacted â€” said the operation had been authorized "with full deliberation and at the unanimous recommendation" of his national security team. He did not take questions.
 
 "Yesterday morning, the Islamic Republic of Iran murdered nine Americans in their bunks," Trump said. "Tonight, the United States has delivered a measured but devastating answer. The Iranian regime will understand that aggression against our forces will be met without delay and without apology."
 

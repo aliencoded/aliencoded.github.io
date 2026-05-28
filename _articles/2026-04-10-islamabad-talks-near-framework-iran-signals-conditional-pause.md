@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Islamabad Talks Near Framework as Iran Signals Conditional Pause"
 date: 2026-04-10 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, diplomacy, iran, index]
 image: https://images.unsplash.com/photo-1759310610775-b298f34f73aa?q=80&w=1600&auto=format&fit=crop
 excerpt: "Mediators in Islamabad circulated a draft of 'framework principles' Friday as Iran's foreign minister signaled openness to a conditional halt in strikes, raising the strongest hope yet for a ceasefire in a war now in its sixth week."
-featured: true
 ---
 
 Mediators in Islamabad circulated a draft set of "framework principles" on Friday aimed at halting the six-week war between Iran and Israel, and Iranian Foreign Minister Abbas Araghchi told reporters that Tehran was prepared to discuss a conditional pause in strikes if reciprocal commitments were secured, the most explicit opening from either combatant since fighting began in early March.

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Iran Fires Final Volley, Israel Strikes Nuclear Site on Ceasefire Eve"
 date: 2026-04-14 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, iran, israel, ceasefire, index]
 image: https://images.unsplash.com/photo-1761789083759-42c4fcb31b7e?q=80&w=1600&auto=format&fit=crop
 excerpt: "Iran launched a barrage of more than 90 missiles and drones at Israeli targets early Tuesday while Israeli warplanes struck a hardened nuclear facility near Natanz, a final exchange of blows on the eve of a ceasefire set to take effect at midnight Wednesday."
-featured: true
 ---
 
 Iran launched a barrage of more than 90 missiles and drones at Israeli targets in the predawn hours Tuesday, drawing a sweeping Israeli air response that included a strike on a hardened uranium-enrichment facility south of Natanz, in what officials on both sides described as a final exchange of blows before a ceasefire scheduled to take effect at midnight Wednesday GMT.

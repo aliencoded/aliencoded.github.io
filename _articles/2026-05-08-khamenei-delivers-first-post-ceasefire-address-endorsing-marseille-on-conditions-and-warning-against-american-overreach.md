@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Khamenei endorses Marseille on conditions and warns against American overreach in first post-ceasefire address"
 date: 2026-05-08 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, iran, post-war, diplomacy, index]
 image: https://images.unsplash.com/photo-1761789083759-42c4fcb31b7e?q=80&w=1600&auto=format&fit=crop
 excerpt: "Supreme Leader Ayatollah Ali Khamenei delivered his first major public address since the April 15 ceasefire on Friday, conditionally blessing the Marseille reconstruction framework while warning that Tehran would treat any U.S. attempt to use disbursements for political leverage as a violation of the truce."
-featured: true
 ---
 
 Supreme Leader Ayatollah Ali Khamenei delivered his first major public address since the April 15 ceasefire on Friday, conditionally blessing the $84 billion Marseille reconstruction framework while warning that Tehran would treat any U.S. attempt to use disbursements for political leverage as a violation of the truce and reserving for the Islamic Republic the right to walk away from the inspection regime "at the moment our sovereignty is challenged."
@@ -18,11 +17,11 @@ Speaking for just over forty minutes from the Imam Khomeini Hosseiniyeh in centr
 
 The supreme leader's intervention had been anticipated inside the government for several days, according to two senior Iranian officials who described the deliberations on condition of anonymity. The officials said Pezeshkian and Foreign Minister Abbas Araghchi had pressed for an explicit blessing of the Supreme National Security Council's Thursday night decision to accept the Marseille framework in principle, recognizing that without it the reformist-led government could face escalating attacks from conservative factions in the Majlis already restive over the rial's slide and fuel shortages.
 
-Khamenei delivered that blessing, but on terms calibrated to preserve his own room to withdraw it. He endorsed Pezeshkian's three conditions — that reconstruction funds destined for Iran pass through Central Bank of Iran accounts rather than third-country intermediaries, that no pledge be tied to verification demands beyond those agreed at Doha and Geneva, and that European sanctions on Iranian individuals not directly linked to combat operations be reviewed within ninety days — and elevated each to the status of "red lines."
+Khamenei delivered that blessing, but on terms calibrated to preserve his own room to withdraw it. He endorsed Pezeshkian's three conditions â€” that reconstruction funds destined for Iran pass through Central Bank of Iran accounts rather than third-country intermediaries, that no pledge be tied to verification demands beyond those agreed at Doha and Geneva, and that European sanctions on Iranian individuals not directly linked to combat operations be reviewed within ninety days â€” and elevated each to the status of "red lines."
 
 He singled out the United States for sustained criticism, drawing a careful distinction between the European and Asian co-conveners of the Marseille conference and the Trump administration, which contributed a $6.5 billion pledge but has insisted that no U.S. funds flow to Iranian sovereign accounts. "There are two faces at this table," Khamenei said. "There is the face of countries that lost nothing in this war and now claim the right to grade our compliance, and there is the face of countries that understand that a wound is healed by stitching, not by lecturing. We will work with the second face. We will be patient with the first, but our patience is not infinite."
 
-The remarks were welcomed cautiously in European capitals. French Foreign Minister Jean-Noël Barrot called the address "a constructive contribution to a difficult conversation" and said France remained committed to opening disbursements through the Marseille Compact secretariat in the third quarter. German Foreign Minister Annalena Baerbock said co-chairs would convene a technical meeting in Brussels later this month to review the conditions Tehran had attached.
+The remarks were welcomed cautiously in European capitals. French Foreign Minister Jean-NoÃ«l Barrot called the address "a constructive contribution to a difficult conversation" and said France remained committed to opening disbursements through the Marseille Compact secretariat in the third quarter. German Foreign Minister Annalena Baerbock said co-chairs would convene a technical meeting in Brussels later this month to review the conditions Tehran had attached.
 
 In Washington, the response was more guarded. White House press secretary Marlena Cortez said the administration had "noted the supreme leader's remarks" and reiterated that U.S. participation in any reconstruction architecture would remain "tightly conditioned on verified compliance." Secretary of State Marco Rubio, in a separate statement, said the United States "does not require the supreme leader's permission to enforce its sanctions laws" but added that Washington remained "supportive of the broader multilateral framework so long as it does not become a back door to Iranian rearmament."
 

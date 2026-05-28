@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Iran Ceasefire Takes Hold at Midnight GMT as U.N. Observers Reach Strait of Hormuz"
 date: 2026-04-15 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, iran, ceasefire, diplomacy, index]
 image: https://images.unsplash.com/photo-1759310610775-b298f34f73aa?q=80&w=1600&auto=format&fit=crop
 excerpt: "A six-week war between Iran and an Israeli-American coalition paused at 00:00 GMT Wednesday under terms brokered in Islamabad, with U.N. observers deploying along the Strait of Hormuz as the first day held without major incident."
-featured: true
 ---
 
 The guns fell silent across the Persian Gulf at midnight Greenwich Mean Time on Wednesday, as the ceasefire ending six weeks of open warfare between Iran and an Israeli-American coalition took effect on schedule, with the first 24 hours holding despite a final exchange of strikes in the closing hours before the deadline.

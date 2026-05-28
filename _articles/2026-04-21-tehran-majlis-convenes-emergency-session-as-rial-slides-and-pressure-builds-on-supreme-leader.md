@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Tehran Majlis Convenes Emergency Session as Rial Slides and Pressure Builds on Supreme Leader"
 date: 2026-04-21 10:00:00 -0500
@@ -7,10 +7,9 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, iran, ceasefire, index]
 image: https://images.unsplash.com/photo-1761789083759-42c4fcb31b7e?q=80&w=1600&auto=format&fit=crop
 excerpt: "Iran's parliament opened an emergency session in Tehran on Tuesday to confront a collapsing currency, soaring food prices and the first audible calls from inside the system for an accounting of the war, just six days into the ceasefire with Israel."
-featured: true
 ---
 
-TEHRAN — Iran's parliament opened an emergency session on Tuesday to confront a collapsing currency, soaring food prices and the first audible calls from inside the system for an accounting of the seven-week war with Israel, just six days into a ceasefire that has stopped the missiles but not the political reckoning gathering in their wake.
+TEHRAN â€” Iran's parliament opened an emergency session on Tuesday to confront a collapsing currency, soaring food prices and the first audible calls from inside the system for an accounting of the seven-week war with Israel, just six days into a ceasefire that has stopped the missiles but not the political reckoning gathering in their wake.
 
 The Majlis, recalled from a scheduled recess by Speaker Mohammad Bagher Ghalibaf, met under unusual conditions. Several committee rooms remained closed for damage assessments after Israeli strikes earlier in the month, and lawmakers from the northern provinces arrived by overland convoy because of the partial closure of Mehrabad Airport's military side. By midmorning, the rial had weakened past 1,070,000 to the dollar on Tehran's free market, a drop of nearly 18 percent since the ceasefire took effect on April 15 and roughly 40 percent since the war began on March 1, according to currency dealers in the Ferdowsi district.
 
@@ -20,7 +19,7 @@ Tuesday's session marked the most direct public criticism from within the politi
 
 President Masoud Pezeshkian, whose reformist administration entered the war with diminished authority and emerged with even less, addressed the parliament for roughly forty minutes. He defended the decision to accept the Islamabad framework and the prisoner exchange in Doha as "necessary to preserve the country itself," and warned against what he called "the temptation to look for traitors when the honest answer is that the cost was high and the choice was real." He confirmed that the cabinet had approved an emergency draw of $4.8 billion from the National Development Fund to stabilize subsidized food and medicine imports, and said an additional $2.1 billion would be requested through a supplementary budget.
 
-Foreign Minister Abbas Araghchi, who briefed lawmakers in a closed session before the public sitting, told them that no sanctions relief had yet been formally agreed in Islamabad and that any phased relaxation of secondary oil sanctions would be tied to verification steps on enrichment, according to two parliamentarians who attended the briefing and spoke on condition of anonymity to describe its contents. One of the lawmakers said Araghchi had cautioned that the relief, when it came, would be "calibrated and reversible — a tap, not a flood."
+Foreign Minister Abbas Araghchi, who briefed lawmakers in a closed session before the public sitting, told them that no sanctions relief had yet been formally agreed in Islamabad and that any phased relaxation of secondary oil sanctions would be tied to verification steps on enrichment, according to two parliamentarians who attended the briefing and spoke on condition of anonymity to describe its contents. One of the lawmakers said Araghchi had cautioned that the relief, when it came, would be "calibrated and reversible â€” a tap, not a flood."
 
 The economic backdrop is the most acute of any moment since the 2019 protests. The Statistical Centre of Iran reported overnight that headline inflation had risen to 64.2 percent year-on-year in the Iranian month ending April 20, with food and beverage inflation running above 90 percent. Bread queues have lengthened in working-class districts of Tehran, Mashhad and Tabriz; the union representing pharmacy owners said on Monday that 27 percent of essential medicines were now unavailable through official channels. Damage to the Abadan and Bandar Abbas refineries during the war has cut domestic gasoline output by an estimated 38 percent, forcing the government to lean on emergency imports financed partly through ruble-denominated swap lines with Russia.
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Donor Conference in Geneva Pledges $34 Billion Toward Iran-Iraq Reconstruction"
 date: 2026-04-24 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, reconstruction, diplomacy, index]
 image: https://images.unsplash.com/photo-1759310610775-b298f34f73aa?q=80&w=1600&auto=format&fit=crop
 excerpt: "A two-day donor conference in Geneva closed Friday with $34 billion in initial pledges for postwar rebuilding across Iran, Iraq and Yemen, even as participants clashed over how reconstruction funds would flow to sanctioned Iranian entities."
-featured: true
 ---
 
 A two-day international donor conference in Geneva closed Friday with roughly $34 billion in initial pledges toward postwar reconstruction across Iran, Iraq and Yemen, marking the first concrete financial scaffolding for a recovery effort that the United Nations estimates will ultimately cost more than $180 billion.
@@ -24,7 +23,7 @@ The conference's preliminary damage assessment, prepared by a joint U.N.-World B
 
 Saudi Foreign Minister Prince Faisal bin Farhan Al Saud, who co-chaired the second day's sessions, described the Gulf bloc's $11 billion contribution as "a regional choice, not a regional concession." Riyadh, Abu Dhabi and Doha each committed in the range of $3 billion, with Kuwait and Oman adding smaller sums. Egyptian Foreign Minister Badr Abdelatty, whose government helped broker the Islamabad framework, pressed European donors for additional contributions to Yemeni port restoration, arguing that Red Sea commerce would not fully normalize without it.
 
-Among private-sector observers, the tone was cautiously constructive. "This is a starter pledge, not a finish line," said Layla Hassan, a Beirut-based regional analyst at the Levant Policy Institute. "The headline number is roughly a fifth of what's eventually needed, but the political signal — that twenty Sunni-led, Western and East Asian governments are willing to write the same check — is what markets and reconstruction firms have been waiting on."
+Among private-sector observers, the tone was cautiously constructive. "This is a starter pledge, not a finish line," said Layla Hassan, a Beirut-based regional analyst at the Levant Policy Institute. "The headline number is roughly a fifth of what's eventually needed, but the political signal â€” that twenty Sunni-led, Western and East Asian governments are willing to write the same check â€” is what markets and reconstruction firms have been waiting on."
 
 Logistical questions dominated the corridors. Several European donors privately raised concerns about Iranian Revolutionary Guard Corps-linked construction conglomerates, which have historically captured a large share of domestic infrastructure contracts. The conference's final communique committed signatories to a joint procurement-oversight body, to be hosted in Vienna, that will screen prime contractors and require subcontractor disclosure for projects above $25 million.
 
@@ -34,4 +33,4 @@ Iraqi Prime Minister Mohammed Shia al-Sudani, in a video address to the conferen
 
 Humanitarian groups urged donors to front-load disbursements. "Pledges that arrive in 2027 will not feed a family in Dhamar this summer," said Jean-Pierre Caradec, regional director for the Norwegian Refugee Council. According to the U.N. Office for the Coordination of Humanitarian Affairs, roughly 3.1 million people remain displaced across the three countries, with another 1.4 million inside Iran living in damaged or unsafe housing.
 
-A second pledging conference is scheduled for September in Riyadh, where organizers said specific project portfolios — including a multibillion-dollar Strait of Hormuz traffic-management upgrade — would be put forward. Officials said additional pledges and a formal sanctions-relief roadmap would be discussed before the autumn meeting.
+A second pledging conference is scheduled for September in Riyadh, where organizers said specific project portfolios â€” including a multibillion-dollar Strait of Hormuz traffic-management upgrade â€” would be put forward. Officials said additional pledges and a formal sanctions-relief roadmap would be discussed before the autumn meeting.

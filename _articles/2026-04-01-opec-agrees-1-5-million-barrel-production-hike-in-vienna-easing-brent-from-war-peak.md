@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "OPEC+ Agrees 1.5 Million Barrel Production Hike in Vienna, Easing Brent From War Peak"
 date: 2026-04-01 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, oil, opec, energy, markets, index]
 image: https://images.unsplash.com/photo-1602056820935-316884c035f8?q=80&w=1600&auto=format&fit=crop
 excerpt: "OPEC+ ministers meeting in emergency session in Vienna agreed Tuesday to add roughly 1.5 million barrels a day to global supply over the coming six weeks, the alliance's largest coordinated production response since the pandemic and a direct intervention in the Iran war's grip on energy markets."
-featured: true
 ---
 
 OPEC+ energy ministers meeting in emergency session in Vienna agreed Tuesday to add roughly 1.5 million barrels a day of crude oil to global supply over the next six weeks, the alliance's largest coordinated production response since the pandemic and an unmistakable signal that the war between Iran and a U.S.-Israeli coalition has begun to fracture the producer group's long-standing discipline.

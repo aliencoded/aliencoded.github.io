@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "IAEA technical team opens Vienna session to operationalize Iran inspection regime"
 date: 2026-05-04 10:00:00 -0500
@@ -7,10 +7,9 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, iran, iaea, ceasefire, index]
 image: https://images.unsplash.com/photo-1776248783518-400b6d0da64c?q=80&w=1600&auto=format&fit=crop
 excerpt: "A joint technical committee convened at IAEA headquarters in Vienna on Monday to write the operating procedures behind the Iran-Israel inspection regime, with the first on-site visit to Natanz tentatively penciled in for May 19."
-featured: true
 ---
 
-VIENNA — A joint technical committee convened at the International Atomic Energy Agency's headquarters on Monday morning to translate the inspection annex of the Doha ceasefire extension into operating procedures, with negotiators racing to lock down access rules at three Iranian nuclear sites before the first on-site visit, tentatively penciled in for May 19.
+VIENNA â€” A joint technical committee convened at the International Atomic Energy Agency's headquarters on Monday morning to translate the inspection annex of the Doha ceasefire extension into operating procedures, with negotiators racing to lock down access rules at three Iranian nuclear sites before the first on-site visit, tentatively penciled in for May 19.
 
 The session, gaveled in at 9:42 a.m. local time by IAEA Director General Rafael Grossi, brought together inspectorate engineers, Iranian Atomic Energy Organization staff, and observers from the four governments seated on the technical review panel agreed in Doha on Friday: the United States, Germany, Pakistan and Saudi Arabia, the first occupant of the rotating Gulf seat. Israeli officials were not present in the room but were briefed throughout the day through a U.S. liaison cell, in keeping with the indirect-verification formula written into the extension.
 
@@ -24,7 +23,7 @@ The American delegation is led by Ambassador Laura Holt, the State Department's 
 
 European officials present in Vienna described the mood inside the technical sessions as businesslike but tightly bounded. "There is no room here to test goodwill. There is only room to operationalize the text," said one senior European diplomat, who was granted anonymity to describe a closed session. "Every word in the chain-of-custody section has a German engineer, an Iranian engineer and a Saudi observer reading it the same way. That is harder than it sounds."
 
-The committee's most politically sensitive item is the protocol governing what the Doha text calls the "Israeli summary channel" — the redacted-then-unredacted pathway by which inspection findings travel from Vienna to Washington to Jerusalem. A draft technical schedule circulated late Sunday by Pakistani envoy Asim Iftikhar proposes that summaries be hand-delivered by a U.S. nonproliferation officer at the U.S. embassy in Jerusalem rather than transmitted electronically, a measure intended to limit the digital footprint that Iranian negotiators raised as a concern during the final 48 hours of the Doha talks. The summaries would arrive in a sealed pouch within 72 hours of each visit and be opened in the presence of an IAEA observer, two officials briefed on the draft said.
+The committee's most politically sensitive item is the protocol governing what the Doha text calls the "Israeli summary channel" â€” the redacted-then-unredacted pathway by which inspection findings travel from Vienna to Washington to Jerusalem. A draft technical schedule circulated late Sunday by Pakistani envoy Asim Iftikhar proposes that summaries be hand-delivered by a U.S. nonproliferation officer at the U.S. embassy in Jerusalem rather than transmitted electronically, a measure intended to limit the digital footprint that Iranian negotiators raised as a concern during the final 48 hours of the Doha talks. The summaries would arrive in a sealed pouch within 72 hours of each visit and be opened in the presence of an IAEA observer, two officials briefed on the draft said.
 
 Israeli Prime Minister Benjamin Netanyahu, briefed Sunday evening at his Jerusalem residence by national security adviser Tzachi Hanegbi and U.S. ambassador Mike Huckabee, told members of his security cabinet that he would await the first inspection cycle before judging the regime, according to a readout shared by two coalition officials. The same officials said the prime minister had instructed his team not to leak operational details and had reiterated that any "material reconstitution" of Iranian enrichment beyond declared thresholds would warrant a renewed military response, a position the United States neither endorsed nor contradicted in its own briefing notes circulated Monday.
 

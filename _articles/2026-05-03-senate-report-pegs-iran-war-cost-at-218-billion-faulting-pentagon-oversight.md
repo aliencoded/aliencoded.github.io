@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Senate report pegs Iran war cost at $218 billion, faulting Pentagon oversight"
 date: 2026-05-03 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, us-politics, defense, index]
 image: https://images.unsplash.com/photo-1649457741403-afc8160a1280?q=80&w=1600&auto=format&fit=crop
 excerpt: "A bipartisan Senate Armed Services report released Saturday put the total direct U.S. cost of the six-week Iran war at $218 billion, citing rushed procurement and gaps in oversight as drivers of overruns."
-featured: true
 ---
 
 A bipartisan Senate Armed Services Committee report released Saturday placed the total direct U.S. cost of the six-week Iran war at $218 billion, a figure that exceeds initial White House estimates by more than 40 percent and is already reshaping the early-summer fight over the Pentagon's supplemental budget request.
@@ -26,7 +25,7 @@ The fiscal toll is one strand of a wider political reckoning over an interventio
 
 On Capitol Hill, the report immediately sharpened a clash over the $94 billion defense supplemental the administration sent to Congress last Tuesday, which includes $61 billion for munitions replenishment, $14 billion for ship repair and $9 billion for veterans' medical care tied to the war. Senator Tomas Velasquez, a Texas Democrat who sits on the Armed Services panel, told reporters he would seek to condition the munitions tranche on a new inspector general office for wartime procurement. "We are not going to write a check this size and walk away from the lessons," Velasquez said.
 
-Hyun-jin Park, a senior fellow at the Stimson Center, said the $218 billion figure was likely to be a floor rather than a ceiling once indirect costs are tallied. "What this report explicitly excludes is the long-tail burden — disability benefits, depot-level maintenance, the cost of replacing aircraft that were used hard for six weeks but not lost in combat," Park said. "Historically those numbers, integrated over decades, run between 60 and 90 percent of the direct figure. We are likely looking at a real total above $350 billion before this is finished."
+Hyun-jin Park, a senior fellow at the Stimson Center, said the $218 billion figure was likely to be a floor rather than a ceiling once indirect costs are tallied. "What this report explicitly excludes is the long-tail burden â€” disability benefits, depot-level maintenance, the cost of replacing aircraft that were used hard for six weeks but not lost in combat," Park said. "Historically those numbers, integrated over decades, run between 60 and 90 percent of the direct figure. We are likely looking at a real total above $350 billion before this is finished."
 
 The report devoted a separate chapter to the campaign's most expensive single operation, the April 3 strike package against hardened sites near Natanz and Fordow, which the panel said cost roughly $4.1 billion in munitions and aviation fuel for a single 11-hour window. The chapter, much of it redacted, concluded that the strikes "achieved or exceeded planning objectives" but noted that bomb-damage assessments are still being reconciled with International Atomic Energy Agency monitoring data that began flowing under the post-ceasefire framework.
 

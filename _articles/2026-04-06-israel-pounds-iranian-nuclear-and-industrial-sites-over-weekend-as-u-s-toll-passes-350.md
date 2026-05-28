@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Israel Pounds Iranian Nuclear and Industrial Sites Over Weekend as U.S. Toll Passes 350"
 date: 2026-04-06 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, military, iran, israel, index]
 image: https://images.unsplash.com/photo-1640693788837-e1903a5fdb95?q=80&w=1600&auto=format&fit=crop
 excerpt: "Israeli warplanes hit a dozen Iranian nuclear, missile and refinery targets over a 60-hour campaign that ended Monday morning, as the cumulative American military death toll in the five-week war crossed 350."
-featured: true
 ---
 
 Israeli warplanes and standoff missiles struck at least a dozen Iranian nuclear, missile-production and refinery targets over a 60-hour campaign that wound down before dawn Monday, the Israel Defense Forces said, while a renewed wave of Iran-aligned militia attacks on U.S. positions in Iraq and Syria pushed the cumulative American military death toll in the five-week war past 350.

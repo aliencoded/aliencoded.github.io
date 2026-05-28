@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Iran Ceasefire Holds Into Third Day as Doha Prisoner Exchange Set for Saturday"
 date: 2026-04-17 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, iran, ceasefire, diplomacy, index]
 image: https://images.unsplash.com/photo-1758138258458-64ee0fbdef4c?q=80&w=1600&auto=format&fit=crop
 excerpt: "The Iran-Israel ceasefire passed its third full day Friday despite two minor violations, as Qatari mediators announced a prisoner exchange in Doha Saturday that will include the remains of fallen U.S. service members."
-featured: true
 ---
 
 Three days after the guns fell silent across the Persian Gulf, the ceasefire between Iran and an Israeli-American coalition remained intact on Friday, with mediators in Doha announcing that the first formal prisoner exchange of the post-war phase would take place at the Qatari capital on Saturday and would include the repatriation of remains of American service members killed during six weeks of war.

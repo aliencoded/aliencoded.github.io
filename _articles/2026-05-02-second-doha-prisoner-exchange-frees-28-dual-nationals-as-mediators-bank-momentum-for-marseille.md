@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Second Doha prisoner exchange frees 28 dual nationals as mediators bank momentum for Marseille"
 date: 2026-05-02 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, iran, diplomacy, ceasefire, index]
 image: https://images.unsplash.com/photo-1759310610775-b298f34f73aa?q=80&w=1600&auto=format&fit=crop
 excerpt: "Iran released 28 dual nationals at a Doha handover on Saturday in the largest prisoner exchange since the April ceasefire, a move mediators called a confidence builder four days before the Marseille reconstruction conference."
-featured: true
 ---
 
 Iran released 28 dual nationals at a Doha handover on Saturday in exchange for nine detainees held in U.S., Israeli and European custody, the largest swap since the April ceasefire and an outcome that Qatari and Omani mediators said was designed to bank political momentum four days before the multinational reconstruction conference convenes in Marseille.

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Iran Launches Coordinated Strikes on U.S. Bases as Israel Pounds Missile Production and Islamabad Text Hangs Fire"
 date: 2026-04-08 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, iran, israel, military, index]
 image: https://images.unsplash.com/photo-1728320696422-74eff3ea0a21?q=80&w=1600&auto=format&fit=crop
 excerpt: "Iranian and allied forces struck five U.S. installations across Iraq and the Gulf in a coordinated overnight assault that killed at least nine American service members, even as Israeli jets again hit missile-production sites and mediators in Islamabad waited for Tehran's written reply."
-featured: true
 ---
 
 

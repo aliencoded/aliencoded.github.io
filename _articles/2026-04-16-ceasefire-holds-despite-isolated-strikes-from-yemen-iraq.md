@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Ceasefire Holds Despite Isolated Strikes From Yemen, Iraq"
 date: 2026-04-16 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, ceasefire, iran, index]
 image: https://images.unsplash.com/photo-1761789083759-42c4fcb31b7e?q=80&w=1600&auto=format&fit=crop
 excerpt: "A Houthi missile intercepted over the southern Red Sea and a rocket launched from a militia base in western Iraq tested the day-old ceasefire on Thursday, but all parties moved swiftly to condemn the strikes and reaffirm the truce."
-featured: true
 ---
 
 A Houthi missile intercepted over the southern Red Sea and a rocket launched from a Shia militia base in western Iraq tested the day-old Iran-Israel ceasefire on Thursday, but all signatories to the Islamabad framework moved swiftly to condemn the strikes and reaffirm that the truce remained in force.
@@ -34,7 +33,7 @@ The composure of the response on all sides reflected what diplomats described as
 
 Markets, which had risen sharply on Wednesday following the ceasefire's entry into force, wobbled briefly on news of the Red Sea engagement before recovering. Brent crude, which had closed at $103.40 on Wednesday, spiked to $106.20 in early Asian trading before settling back to $103.90 by the New York open. The S&P 500 opened flat.
 
-United Nations observers, the first contingent of whom were deployed to monitoring stations along the Strait of Hormuz on Wednesday afternoon, were expected to expand their presence in the coming days. Secretary-General António Guterres, in a statement from New York, urged "every actor with influence" to use it to prevent further violations.
+United Nations observers, the first contingent of whom were deployed to monitoring stations along the Strait of Hormuz on Wednesday afternoon, were expected to expand their presence in the coming days. Secretary-General AntÃ³nio Guterres, in a statement from New York, urged "every actor with influence" to use it to prevent further violations.
 
 Behind the scenes, U.S. officials said back-channel communications with Tehran, mediated by Oman, had continued through the night. A senior administration official, briefing reporters under standard ground rules, said the prisoner exchange scheduled for April 18 in Doha remained on track and that no party had signaled an intent to delay.
 

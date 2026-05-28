@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Iran ceasefire holds at 10 days as reconstruction bill mounts and pressure grows for permanent accord"
 date: 2026-04-25 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, ceasefire, reconstruction, diplomacy, index]
 image: https://images.unsplash.com/photo-1759310610775-b298f34f73aa?q=80&w=1600&auto=format&fit=crop
 excerpt: "Ten days into the Iran-Israel ceasefire, United Nations monitors reported the truce was largely holding even as preliminary damage estimates topped $180 billion across four countries and negotiators in Doha pushed for a more durable framework."
-featured: true
 ---
 
 The ceasefire between Iran and Israel held into its tenth day on Saturday, with United Nations monitors reporting the truce was broadly intact despite a string of isolated violations, even as preliminary damage assessments released across four countries pushed the war's regional reconstruction bill above $180 billion and pressure mounted on negotiators in Doha to convert the fragile halt into a permanent accord.
@@ -16,7 +15,7 @@ The figure, compiled by a joint working group of the World Bank, the United Nati
 
 "The headline number is sobering, and the real number will be higher," said Reem al-Sabah, the working group's lead author and a senior fellow at the Doha-based Gulf Economic Forum. "What we are seeing is not a postwar accounting so much as a starting point. Power grids, water systems and refineries are the most visible damage. The harder repair will be to industries and labor markets that have lost two months."
 
-At a briefing in New York on Friday evening, U.N. spokeswoman Mireille Doucet said unarmed observers stationed at four positions along the Strait of Hormuz and at two crossings in southern Iraq had recorded "no organized military activity attributable to state parties" since Tuesday. Two incidents earlier in the week — a Houthi-claimed projectile fired toward a Saudi naval vessel and a small-arms exchange near the Iraq-Iran border — had been condemned by all signatories and were under investigation.
+At a briefing in New York on Friday evening, U.N. spokeswoman Mireille Doucet said unarmed observers stationed at four positions along the Strait of Hormuz and at two crossings in southern Iraq had recorded "no organized military activity attributable to state parties" since Tuesday. Two incidents earlier in the week â€” a Houthi-claimed projectile fired toward a Saudi naval vessel and a small-arms exchange near the Iraq-Iran border â€” had been condemned by all signatories and were under investigation.
 
 In Washington, President Donald Trump told reporters on the South Lawn that the cessation of hostilities was "going better than anybody thought," and credited what he called "very firm American leadership" for the result. He declined to commit to a reconstruction contribution, saying only that the United States would "look at every option that puts America first." Pressed on whether U.S. funds would be made available through the World Bank facility being assembled by Saudi Arabia, the president said the matter would be discussed at a Cabinet meeting next week.
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Tehran Protests Swell as Economic Pain Tests Post-War Leadership"
 date: 2026-04-26 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, iran, middle-east, post-war, index]
 image: https://images.unsplash.com/photo-1761789083759-42c4fcb31b7e?q=80&w=1600&auto=format&fit=crop
 excerpt: "Tens of thousands marched in Tehran and four other Iranian cities on Sunday as anger over rationing, blackouts and stalled wages spilled into the largest street demonstrations since the ceasefire took hold 11 days ago."
-featured: true
 ---
 
 Tens of thousands of Iranians marched through central Tehran and at least four provincial capitals on Sunday in the largest street demonstrations since the April 15 ceasefire, demanding relief from rolling blackouts, fuel rationing and a currency collapse that has erased what remained of household savings after six weeks of war with Israel and the United States.

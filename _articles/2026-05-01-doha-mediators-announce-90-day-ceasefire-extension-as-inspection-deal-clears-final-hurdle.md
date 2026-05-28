@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Doha mediators announce 90-day ceasefire extension as inspection deal clears final hurdle"
 date: 2026-05-01 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, ceasefire, diplomacy, iran-war, index]
 image: https://images.unsplash.com/photo-1759310610775-b298f34f73aa?q=80&w=1600&auto=format&fit=crop
 excerpt: "Qatari and Pakistani mediators announced a 90-day extension of the Iran-Israel ceasefire on Friday after negotiators broke a two-week deadlock over inspection protocols at three nuclear sites, locking in the longest projected pause in fighting since the war began."
-featured: true
 ---
 
 Mediators in Doha announced a 90-day extension of the Iran-Israel ceasefire on Friday after negotiators broke a two-week deadlock over the sequencing of inspections at three Iranian nuclear sites struck in the war's opening weeks, locking in the longest projected pause in fighting since the conflict began and giving European, Gulf and multilateral institutions a defined runway to anchor reconstruction commitments.
@@ -26,7 +25,7 @@ A senior Western diplomat involved in the talks, granted anonymity to describe s
 
 In Washington, President Donald Trump welcomed the extension in remarks from the South Lawn before departing for a weekend at his Bedminster, N.J., club, calling the agreement "a tremendous outcome for everybody, especially for America." He credited Secretary of State Marco Rubio's "very tough negotiating" and said the United States would "make sure the inspections work." Pressed on whether the administration would commit additional reconstruction funds at next week's Marseille conference, the president said the matter was "being looked at very seriously" and declined to provide a figure.
 
-Markets, which had been pricing a partial extension since early in the week, took the announcement as confirmation rather than surprise. Brent crude settled at $93.40 a barrel, down 90 cents on the day and the lowest close since Feb. 24, while the S&P 500 added 0.6 percent to finish a fourth consecutive weekly gain. The dollar weakened modestly against the euro and the yen. "Ninety days of geopolitical visibility is unusual in this part of the cycle," said Priya Venkataraman, head of geopolitical strategy at Goldman Sachs, in a client note. "The market is now treating Iran risk the way it treated Brexit in 2019 — as a known variable to be re-priced at deadlines, not a tail risk to be hedged every Friday."
+Markets, which had been pricing a partial extension since early in the week, took the announcement as confirmation rather than surprise. Brent crude settled at $93.40 a barrel, down 90 cents on the day and the lowest close since Feb. 24, while the S&P 500 added 0.6 percent to finish a fourth consecutive weekly gain. The dollar weakened modestly against the euro and the yen. "Ninety days of geopolitical visibility is unusual in this part of the cycle," said Priya Venkataraman, head of geopolitical strategy at Goldman Sachs, in a client note. "The market is now treating Iran risk the way it treated Brexit in 2019 â€” as a known variable to be re-priced at deadlines, not a tail risk to be hedged every Friday."
 
 Reaction across the region tracked the contours of the deal. Saudi Foreign Minister Prince Faisal bin Farhan, in a statement from Riyadh, called the extension "the indispensable foundation" for Marseille and confirmed the kingdom would lead a Gulf Cooperation Council pledging delegation to the May 6 conference. The United Arab Emirates and Qatar issued parallel endorsements. Turkey's foreign ministry welcomed the agreement and reiterated Ankara's offer to host a follow-on conference on Mediterranean shipping insurance later in the summer. Russia and China, which abstained on last week's U.N. Security Council resolution endorsing the Islamabad framework, each issued statements describing the extension as a "positive step" while restating reservations about Western dominance of the verification panel.
 

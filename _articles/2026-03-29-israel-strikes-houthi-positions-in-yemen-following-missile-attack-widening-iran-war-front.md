@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Israel Strikes Houthi Positions in Yemen Following Missile Attack, Widening Iran War Front"
 date: 2026-03-29 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, military, yemen, escalation, index]
 image: https://images.unsplash.com/photo-1580128660010-fd027e1e587a?q=80&w=1600&auto=format&fit=crop
 excerpt: "Israeli warplanes struck Houthi command centers and missile launch sites in Sana'a and Hudaydah overnight, retaliating for Saturday's missile attack on Beersheba and expanding the Iran war into a third theater."
-featured: true
 ---
 
 

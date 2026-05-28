@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Netanyahu coalition fractures as two far-right ministers walk out over Islamabad framework"
 date: 2026-04-27 10:00:00 -0500
@@ -7,12 +7,11 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, israel, ceasefire, post-war, index]
 image: https://images.unsplash.com/photo-1776248783518-400b6d0da64c?q=80&w=1600&auto=format&fit=crop
 excerpt: "Two far-right ministers quit Prime Minister Benjamin Netanyahu's cabinet on Monday in protest of the Islamabad ceasefire, leaving the Israeli government with a one-seat Knesset majority and clouding the post-war diplomatic track 12 days into the truce."
-featured: true
 ---
 
 Prime Minister Benjamin Netanyahu's governing coalition lost its working majority in the Knesset on Monday after two far-right cabinet ministers resigned in protest of the Islamabad ceasefire framework, plunging Israel into its sharpest political crisis since the start of the Iran war and casting fresh doubt over the country's posture in the post-war diplomatic track scheduled to resume in Doha later this week.
 
-National Security Minister Itamar Ben-Gvir and Heritage Minister Amichai Eliyahu submitted joint resignation letters shortly after a stormy security cabinet meeting that broke up at around 1:30 a.m. local time, according to two officials in the prime minister's office who described the session on condition of anonymity. Their departure, together with the withdrawal of the six Otzma Yehudit lawmakers who follow Mr. Ben-Gvir, leaves the coalition with 61 of the Knesset's 120 seats — a one-vote margin that government officials privately conceded would not survive any serious legislative test.
+National Security Minister Itamar Ben-Gvir and Heritage Minister Amichai Eliyahu submitted joint resignation letters shortly after a stormy security cabinet meeting that broke up at around 1:30 a.m. local time, according to two officials in the prime minister's office who described the session on condition of anonymity. Their departure, together with the withdrawal of the six Otzma Yehudit lawmakers who follow Mr. Ben-Gvir, leaves the coalition with 61 of the Knesset's 120 seats â€” a one-vote margin that government officials privately conceded would not survive any serious legislative test.
 
 The proximate trigger was a draft Israeli position paper, leaked Sunday evening to Channel 12, that signaled the government would accept a United Nations-led verification mechanism at the Natanz, Fordow and Isfahan sites with only consultative, rather than direct, Israeli participation. The leak, which Mr. Netanyahu's office said was unauthorized and the subject of an internal inquiry, set off the political detonation that ministers had spent the past 11 days trying to defer.
 
@@ -20,7 +19,7 @@ The proximate trigger was a draft Israeli position paper, leaked Sunday evening 
 
 Mr. Netanyahu, in a televised address from the Prime Minister's Office shortly before noon, said the framework "protects Israel's deepest security interests" and accused the departing ministers of "abandoning the country for a headline." He stopped short of calling early elections, telling viewers that the government would "complete the work of stabilizing the ceasefire, rebuilding the north and bringing every soldier home" before any new vote. Aides said the prime minister had begun outreach to the centrist National Unity bloc led by Benny Gantz, whose 12 seats could provide a safety net while talks continue.
 
-The political shock landed at the start of what was already shaping up as the most consequential week of the post-war phase. Negotiators in Doha are scheduled to resume work on Tuesday under joint Qatari and Pakistani chairmanship, with the question of inspection sequencing — the same issue that helped topple two Israeli ministers — at the top of the agenda. A senior Western diplomat involved in the talks, granted anonymity to discuss sensitive deliberations, said the resignations were "not a surprise, but the timing is awful," and added that mediators would "find out very quickly whether Netanyahu can deliver what his own paper says he will deliver."
+The political shock landed at the start of what was already shaping up as the most consequential week of the post-war phase. Negotiators in Doha are scheduled to resume work on Tuesday under joint Qatari and Pakistani chairmanship, with the question of inspection sequencing â€” the same issue that helped topple two Israeli ministers â€” at the top of the agenda. A senior Western diplomat involved in the talks, granted anonymity to discuss sensitive deliberations, said the resignations were "not a surprise, but the timing is awful," and added that mediators would "find out very quickly whether Netanyahu can deliver what his own paper says he will deliver."
 
 In Washington, the White House moved cautiously. Press Secretary Karoline Leavitt told reporters that President Donald Trump had spoken briefly with Mr. Netanyahu on Sunday and "reaffirmed the strength of the U.S.-Israel relationship," declining to comment on the coalition crisis. A senior State Department official said separately that Secretary of State Marco Rubio had instructed the U.S. delegation in Doha to "keep its head down and keep the talks moving" while the Israeli political situation clarified. The official added that Washington still expected an Israeli delegation in Doha on Tuesday, "and we expect them to be empowered to negotiate."
 

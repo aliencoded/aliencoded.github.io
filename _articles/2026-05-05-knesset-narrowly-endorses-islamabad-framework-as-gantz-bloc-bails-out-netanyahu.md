@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-layout
 title: "Knesset narrowly endorses Islamabad framework as Gantz bloc bails out Netanyahu"
 date: 2026-05-05 10:00:00 -0500
@@ -7,7 +7,6 @@ author: [MetaCurrents Staff]
 categories: [articles, geopolitics, middle-east, israel, ceasefire, diplomacy, index]
 image: https://images.unsplash.com/photo-1776248783518-400b6d0da64c?q=80&w=1600&auto=format&fit=crop
 excerpt: "Israel's Knesset endorsed the Islamabad ceasefire framework and its 90-day inspection extension by a vote of 64-56 on Tuesday, with Benny Gantz's National Unity bloc supplying the margin that kept Prime Minister Benjamin Netanyahu's government intact on the eve of the Marseille donor conference."
-featured: true
 ---
 
 Israel's Knesset narrowly endorsed the Islamabad ceasefire framework and its 90-day inspection extension by a vote of 64 to 56 on Tuesday evening, with the 12 seats of Benny Gantz's centrist National Unity bloc supplying the margin that kept Prime Minister Benjamin Netanyahu's government intact and cleared the diplomatic runway for the postwar donor conference opening in Marseille on Wednesday.
