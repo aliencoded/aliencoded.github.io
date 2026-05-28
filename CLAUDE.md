@@ -15,11 +15,20 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `JEKYLL_ENV=production bundle exec jekyll build` — production build (enables Disqus + GA when configured).
 - `python3 _scripts/rename-articles.py` — bulk-rename files in `_articles/` and `_videos/` to `YYYY-MM-DD-slugified-title.md` based on their `date` and `title` front matter. Run after adding/editing articles to normalize filenames.
 
-**Ruby version:** `.ruby-version` pins `3.1.6` (matches CI). A newer Ruby (3.3/3.4 via brew) also builds fine, but CI uses 3.1.
+**Ruby version:** `.ruby-version` pins `3.3.6` (matches CI). Newer (3.4) also builds fine. **Do not downgrade to 3.1** — see "Deployment / known CI gotchas" below.
 
 ## Deployment
 
-`.github/workflows/jekyll.yml` builds on push to **`master`** (not `main`) using Ruby 3.1 + `JEKYLL_ENV=production`, uploads the `_site/` artifact, and deploys to GitHub Pages. The `metacurrents.com` CNAME is committed at the repo root.
+`.github/workflows/jekyll.yml` builds on push to **`master`** (not `main`) using Ruby 3.3 + `JEKYLL_ENV=production`, uploads the `_site/` artifact, and deploys to GitHub Pages. The `metacurrents.com` CNAME is committed at the repo root.
+
+### Known CI gotchas (sass-embedded native build)
+
+The SCSS in `_sass/meta-currents/_variables.scss` uses modern Dart Sass module syntax (`@use "sass:color"`, `color.scale(...)`), which **requires `sass-embedded`** (cannot fall back to `sassc`/libsass — those are stuck on legacy Sass spec). This has bitten CI twice:
+
+1. **Bundler platform mismatch.** `sass-embedded` ships precompiled gems only for specific Linux libc variants (`x86_64-linux-gnu`, `-musl`, `-android`) — there is no generic `x86_64-linux` gem. Old bundler resolves to the generic `ruby` platform and triggers a source build. Fix: `Gemfile.lock` is **committed** (not gitignored) and includes `x86_64-linux-gnu` in its `PLATFORMS` list (`bundle lock --add-platform x86_64-linux-gnu`). The workflow also pins `bundler: latest` in `setup-ruby`.
+2. **Source-build fallback fails on Ruby 3.1.** If a source build does happen, `sass-embedded`'s build script calls `JSON::Fragment`, which only exists in the JSON gem shipped with Ruby 3.2+. Ruby 3.1 → `NameError: uninitialized constant JSON::Fragment`. This is why CI is now on Ruby 3.3.
+
+**If you change SCSS, Ruby version, or `Gemfile.lock`:** run `bundle install` locally, verify `Gemfile.lock` still has `x86_64-linux-gnu` under `PLATFORMS` and a `sass-embedded (X.Y.Z-x86_64-linux-gnu)` line. Don't re-add `Gemfile.lock` to `.gitignore`.
 
 ## Architecture
 

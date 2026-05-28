@@ -5,7 +5,7 @@ date: 2026-05-27 14:20:00 -0500
 lastUpdated: 2026-05-27 14:20:00 -0500
 author: [MetaCurrents Staff]
 categories: [articles, us, index, government, workforce, policy]
-image: https://images.unsplash.com/photo-1541872703-74c5e44368f1?q=80&w=687&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1540908390241-82158ab62887?q=80&w=1600&auto=format&fit=crop
 excerpt: "Departments absorbing staffing changes are leaning more heavily on contractors and cross-detail arrangements, raising questions about institutional knowledge retention."
 ---
 

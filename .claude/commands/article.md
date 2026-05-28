@@ -50,7 +50,9 @@ excerpt: "<One sentence, ~25 words. Double-quoted.>"
 
 - `HH:MM:SS`: spread the 10 timestamps across the workday — roughly 07:00 to 18:00 — so they sort naturally on the home page. Do not give all 10 the same time.
 - `categories`: always `articles` + `index` + the section. Add 1–3 lowercase-hyphenated topic tags (e.g. `middle-east`, `ai`, `finance`, `trade`, `aviation`, `cybersecurity`, `international-relations`, `energy`, `markets`). Never mixed-case, never spaces. Satire pieces also include `humor`.
-- `image`: a real Unsplash URL in the format used across `_articles/`: `https://images.unsplash.com/photo-<id>?q=80&w=<w>&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=<ixid>`. Do not invent IDs — use real Unsplash photo URLs you know exist, or omit the article if you can't source one.
+- `image`: a real Unsplash URL in the format used across `_articles/`: `https://images.unsplash.com/photo-<id>?q=80&w=<w>&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=<ixid>`. **Do not invent IDs. Do not use IDs from training data.** You cannot tell which Unsplash IDs are live — invented IDs that look syntactically right 404 constantly. Mandatory process:
+  1. **Reuse an ID already present in `_articles/`.** Build the pool first: `grep -h "^image:" _articles/*.md | sort -u`. Pick one whose subject roughly matches your article's section/topic.
+  2. **Verify every URL after writing files, every time.** Run: `grep -h "^image:" _articles/<your-new-files> | awk '{print $2}' | xargs -I{} curl -o /dev/null -s -w "%{http_code} {}\n" "{}"`. Any non-200 → swap with another ID from the pool and re-verify. Do not report the batch complete until every URL returns 200.
 
 ### Body
 
