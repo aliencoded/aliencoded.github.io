@@ -4,7 +4,6 @@ title: "Semiconductor Supply Chains Continue Multi-Region Rebalancing"
 date: 2026-05-27 16:05:00 -0500
 lastUpdated: 2026-05-27 16:05:00 -0500
 author: [MetaCurrents Staff]
-featured: true
 categories: [articles, business, index, semiconductors, trade, manufacturing]
 image: https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1770&auto=format&fit=crop
 excerpt: "Fabrication, packaging, and substrate capacity are spreading across more jurisdictions, but the changes remain partial and the high end of the stack stays concentrated."
