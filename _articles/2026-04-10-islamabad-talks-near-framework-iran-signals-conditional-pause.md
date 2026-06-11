@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Islamabad Talks Near Framework as Iran Signals Conditional Pause"
 date: 2026-04-10 10:00:00 -0500

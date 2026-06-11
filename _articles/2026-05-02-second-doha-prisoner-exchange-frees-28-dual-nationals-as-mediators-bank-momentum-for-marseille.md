@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Second Doha prisoner exchange frees 28 dual nationals as mediators bank momentum for Marseille"
 date: 2026-05-02 10:00:00 -0500

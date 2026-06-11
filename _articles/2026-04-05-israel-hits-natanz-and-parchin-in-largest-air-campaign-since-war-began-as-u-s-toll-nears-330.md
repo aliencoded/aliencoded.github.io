@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Israel Hits Natanz and Parchin in Largest Air Campaign Since War Began as U.S. Toll Nears 330"
 date: 2026-04-05 10:00:00 -0500

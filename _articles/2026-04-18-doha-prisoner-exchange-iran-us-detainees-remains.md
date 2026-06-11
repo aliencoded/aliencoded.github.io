@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "In Doha Tarmac Exchange, Iran Releases 40 Foreigners and Remains of U.S. Service Members"
 date: 2026-04-18 10:00:00 -0500

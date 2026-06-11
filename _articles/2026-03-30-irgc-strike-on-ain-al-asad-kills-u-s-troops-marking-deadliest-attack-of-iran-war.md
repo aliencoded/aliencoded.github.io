@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "IRGC Strike on Ain al-Asad Kills U.S. Troops, Marking Deadliest Attack of Iran War"
 date: 2026-03-30 10:00:00 -0500

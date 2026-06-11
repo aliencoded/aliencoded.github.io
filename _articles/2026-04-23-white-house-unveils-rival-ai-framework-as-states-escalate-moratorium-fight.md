@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "White House Unveils Rival AI Framework as States Escalate Moratorium Fight"
 date: 2026-04-23 10:00:00 -0500

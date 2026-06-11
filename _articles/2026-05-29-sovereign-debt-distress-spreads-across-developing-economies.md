@@ -4,7 +4,6 @@ title: "Sovereign Debt Distress Spreads Across Developing Economies"
 date: 2026-05-29 07:15:00 -0500
 lastUpdated: 2026-05-29 07:15:00 -0500
 author: [MetaCurrents Staff]
-featured: true
 categories: [articles, global, index, finance, economy]
 image: https://images.unsplash.com/photo-1756988183893-dbf4a5dbbce7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "A growing number of lower-income nations are devoting unsustainable shares of their budgets to debt service, squeezing the resources available for basic needs."

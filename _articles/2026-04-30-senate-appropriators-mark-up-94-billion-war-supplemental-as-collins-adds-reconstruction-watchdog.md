@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Senate appropriators mark up $94 billion war supplemental as Collins adds reconstruction watchdog"
 date: 2026-04-30 10:00:00 -0500

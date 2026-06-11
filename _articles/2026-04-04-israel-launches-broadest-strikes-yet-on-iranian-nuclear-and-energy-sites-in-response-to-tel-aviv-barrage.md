@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Israel Launches Broadest Strikes Yet on Iranian Nuclear and Energy Sites in Response to Tel Aviv Barrage"
 date: 2026-04-04 10:00:00 -0500

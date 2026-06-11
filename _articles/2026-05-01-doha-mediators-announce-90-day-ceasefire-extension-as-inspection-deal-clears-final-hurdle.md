@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Doha mediators announce 90-day ceasefire extension as inspection deal clears final hurdle"
 date: 2026-05-01 10:00:00 -0500

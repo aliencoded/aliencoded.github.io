@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Netanyahu Signals Conditional Engagement With Islamabad Framework as Mediators Brace for Hardest Week"
 date: 2026-04-09 10:00:00 -0500

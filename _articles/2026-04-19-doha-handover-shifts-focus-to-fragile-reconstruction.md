@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "After Doha Handover, Focus Shifts to a Fragile Reconstruction"
 date: 2026-04-19 10:00:00 -0500

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Israel Strikes Houthi Positions in Yemen Following Missile Attack, Widening Iran War Front"
 date: 2026-03-29 10:00:00 -0500

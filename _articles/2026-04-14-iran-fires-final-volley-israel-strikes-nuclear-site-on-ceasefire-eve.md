@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Iran Fires Final Volley, Israel Strikes Nuclear Site on Ceasefire Eve"
 date: 2026-04-14 10:00:00 -0500

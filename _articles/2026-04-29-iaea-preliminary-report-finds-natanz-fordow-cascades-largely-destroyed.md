@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "IAEA preliminary report finds Natanz and Fordow cascades largely destroyed, complicating Vienna talks"
 date: 2026-04-29 10:00:00 -0500

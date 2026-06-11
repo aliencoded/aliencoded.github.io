@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Khamenei endorses Marseille on conditions and warns against American overreach in first post-ceasefire address"
 date: 2026-05-08 10:00:00 -0500

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Knesset narrowly endorses Islamabad framework as Gantz bloc bails out Netanyahu"
 date: 2026-05-05 10:00:00 -0500

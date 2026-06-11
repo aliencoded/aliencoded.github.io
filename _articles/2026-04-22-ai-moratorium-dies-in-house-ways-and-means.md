@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "AI Moratorium Dies in House Ways and Means on 24-21 Vote"
 date: 2026-04-22 10:00:00 -0500

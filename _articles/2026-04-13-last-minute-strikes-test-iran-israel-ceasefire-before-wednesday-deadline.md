@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Last-Minute Strikes Test Iran-Israel Ceasefire Before Wednesday Deadline"
 date: 2026-04-13 10:00:00 -0500

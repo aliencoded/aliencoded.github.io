@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Security Council Adopts Post-War Iran Resolution as Russia and China Abstain"
 date: 2026-05-11 10:00:00 -0500

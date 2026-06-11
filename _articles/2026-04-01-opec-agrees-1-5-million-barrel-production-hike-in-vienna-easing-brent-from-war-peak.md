@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "OPEC+ Agrees 1.5 Million Barrel Production Hike in Vienna, Easing Brent From War Peak"
 date: 2026-04-01 10:00:00 -0500

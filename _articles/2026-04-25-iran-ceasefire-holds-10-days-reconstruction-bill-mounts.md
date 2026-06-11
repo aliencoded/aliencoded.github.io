@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Iran ceasefire holds at 10 days as reconstruction bill mounts and pressure grows for permanent accord"
 date: 2026-04-25 10:00:00 -0500

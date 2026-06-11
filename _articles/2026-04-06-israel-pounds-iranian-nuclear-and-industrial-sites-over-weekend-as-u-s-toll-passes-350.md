@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Israel Pounds Iranian Nuclear and Industrial Sites Over Weekend as U.S. Toll Passes 350"
 date: 2026-04-06 10:00:00 -0500

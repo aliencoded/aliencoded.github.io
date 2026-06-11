@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Netanyahu Calls Early Elections as Coalition Rescue Bid Collapses Over Ceasefire Vote"
 date: 2026-05-09 10:00:00 -0500

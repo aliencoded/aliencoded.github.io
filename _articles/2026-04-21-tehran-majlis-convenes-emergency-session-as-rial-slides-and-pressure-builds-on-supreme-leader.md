@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Tehran Majlis Convenes Emergency Session as Rial Slides and Pressure Builds on Supreme Leader"
 date: 2026-04-21 10:00:00 -0500

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Iran Launches Coordinated Strikes on U.S. Bases as Israel Pounds Missile Production and Islamabad Text Hangs Fire"
 date: 2026-04-08 10:00:00 -0500

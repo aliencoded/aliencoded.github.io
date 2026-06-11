@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Marseille Conference Opens With $84 Billion Pledge Target for Postwar Middle East"
 date: 2026-05-06 10:00:00 -0500

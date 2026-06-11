@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "U.S. Strikes IRGC Missile Bases Inside Iran in Largest Retaliation of the War"
 date: 2026-04-02 10:00:00 -0500

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "IAEA team conducts first full-access Fordow inspection since 2023"
 date: 2026-05-20 07:00:00 -0500

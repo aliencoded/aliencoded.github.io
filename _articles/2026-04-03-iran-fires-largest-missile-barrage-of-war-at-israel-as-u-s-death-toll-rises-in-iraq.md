@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Iran Fires Largest Missile Barrage of War at Israel as U.S. Death Toll Rises in Iraq"
 date: 2026-04-03 10:00:00 -0500

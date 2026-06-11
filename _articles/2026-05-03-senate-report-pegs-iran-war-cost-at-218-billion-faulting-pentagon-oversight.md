@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Senate report pegs Iran war cost at $218 billion, faulting Pentagon oversight"
 date: 2026-05-03 10:00:00 -0500

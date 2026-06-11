@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Tehran cabinet shake-up: reformist bloc gains ground as Pezeshkian cedes economic portfolios"
 date: 2026-05-10 10:00:00 -0500

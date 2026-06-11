@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Islamabad Mediators Table Framework Principles as Iran Signals Openness to Conditional Pause"
 date: 2026-04-07 10:00:00 -0500

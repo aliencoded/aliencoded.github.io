@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Iran and Israel Agree to Ceasefire in Islamabad Accord, Effective April 15"
 date: 2026-04-12 10:00:00 -0500

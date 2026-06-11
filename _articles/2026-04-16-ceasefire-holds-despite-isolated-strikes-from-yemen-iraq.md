@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Ceasefire Holds Despite Isolated Strikes From Yemen, Iraq"
 date: 2026-04-16 10:00:00 -0500

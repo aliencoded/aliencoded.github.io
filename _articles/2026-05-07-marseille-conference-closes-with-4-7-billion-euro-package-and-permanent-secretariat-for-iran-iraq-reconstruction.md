@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Marseille Conference Closes With 4.7-Billion-Euro Package and Permanent Secretariat for Iran-Iraq Reconstruction"
 date: 2026-05-07 10:00:00 -0500

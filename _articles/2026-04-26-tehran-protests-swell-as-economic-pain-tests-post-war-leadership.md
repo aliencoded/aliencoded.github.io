@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Tehran Protests Swell as Economic Pain Tests Post-War Leadership"
 date: 2026-04-26 10:00:00 -0500

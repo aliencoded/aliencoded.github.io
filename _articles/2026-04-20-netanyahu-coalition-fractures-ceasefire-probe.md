@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Netanyahu Coalition Fractures as Knesset Opens Probe Into Conduct of Iran War"
 date: 2026-04-20 10:00:00 -0500

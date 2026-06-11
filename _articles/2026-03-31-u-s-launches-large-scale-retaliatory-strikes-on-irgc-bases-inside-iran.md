@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "U.S. Launches Large-Scale Retaliatory Strikes on IRGC Bases Inside Iran"
 date: 2026-03-31 10:00:00 -0500

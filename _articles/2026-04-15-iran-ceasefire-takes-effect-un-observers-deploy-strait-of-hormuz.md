@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Iran Ceasefire Takes Hold at Midnight GMT as U.N. Observers Reach Strait of Hormuz"
 date: 2026-04-15 10:00:00 -0500

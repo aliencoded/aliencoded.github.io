@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Islamabad Talks Cross Final Threshold as Israel Signals Acceptance and Ceasefire Text Nears Completion"
 date: 2026-04-11 10:00:00 -0500

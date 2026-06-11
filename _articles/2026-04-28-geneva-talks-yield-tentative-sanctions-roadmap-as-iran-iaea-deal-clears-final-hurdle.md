@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Geneva Talks Yield Tentative Sanctions Roadmap as Iran-IAEA Deal Clears Final Hurdle"
 date: 2026-04-28 10:00:00 -0500

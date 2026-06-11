@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Netanyahu coalition fractures as two far-right ministers walk out over Islamabad framework"
 date: 2026-04-27 10:00:00 -0500

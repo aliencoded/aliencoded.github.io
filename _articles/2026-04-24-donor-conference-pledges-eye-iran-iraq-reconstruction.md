@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-layout
 title: "Donor Conference in Geneva Pledges $34 Billion Toward Iran-Iraq Reconstruction"
 date: 2026-04-24 10:00:00 -0500

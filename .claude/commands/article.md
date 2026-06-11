@@ -21,6 +21,15 @@ Hit this section mix unless `$ARGUMENTS` overrides it:
 
 Within each section, pick distinct topics — no two articles should cover the same beat (e.g. don't write two AI regulation pieces).
 
+## Lead article (featured flag)
+
+Exactly **one** of the articles in the run must be marked `featured: true` in its front matter — this becomes the hero card on the home page (see `_includes/hero-card.html` and the `home` layout, which picks the most recent featured article).
+
+- The lead article must be dated for the **latest date available in the run**. For the default skill (all 10 dated today), that's today. For backfill runs that span multiple days, it must be the newest day in the batch.
+- Pick the most substantive, broad piece for this slot — analytical voice, preferably `global` or `geopolitics`. It should read like a flagship piece, not a beat update.
+- All other articles must omit the `featured` key entirely (do not write `featured: false`).
+- Before adding `featured: true` to a new article, remove `featured: true` from the previously featured article so there is only ever **one** featured article in the corpus at a time. Find it with `grep -l "^featured: true" _articles/*.md`.
+
 ## Per-article output
 
 For each of the 10, write one file:
