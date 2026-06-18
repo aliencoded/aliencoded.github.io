@@ -4,7 +4,6 @@ title: "The Multipolar Turn Reshapes Trade, Capital, and Security"
 date: 2026-06-11 07:30:00 -0500
 lastUpdated: 2026-06-11 07:30:00 -0500
 author: [MetaCurrents Staff]
-featured: true
 categories: [articles, global, index, international-relations, trade, economy]
 image: https://images.unsplash.com/photo-1756988183893-dbf4a5dbbce7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: "A more contested international order is reorganizing the flows of goods, money, and influence that defined the postwar era, with consequences that will outlast any single crisis."
